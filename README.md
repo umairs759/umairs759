@@ -18,7 +18,7 @@
   
  💻 **Tech Stack:** Python, Bash, SQL, JavaScript (Three.js, HTML5), Docker, Linux Administration.
   
- 📫 **Connect with me:** [umairghaffar759@gmail.com](mailto:umairghaffar759@gmail.com) | [LinkedIn](https://linkedin.com)
+ 📫 **Connect with me:** [umairghaffar759@gmail.com](mailto:umairghaffar759@gmail.com) | [LinkedIn](https://www.linkedin.com/in/umairghaffar759))
 
 ---
 
