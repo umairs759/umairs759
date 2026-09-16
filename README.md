@@ -41,23 +41,11 @@
 
 ---
 
-## 📊 GitHub Analytics & Activity
-
-<div align="center">
-
-![](https://github-readme-stats.shion.dev/api?username=umairs759&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-
-![](https://streak-stats.demolab.com/?user=umairs759&theme=dark&hide_border=false)<br/>
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=umairs759&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-</div>
-
 ### 🏆 GitHub Trophies
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=umairs759&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<img src="https://github-profile-trophy.vercel.app/?username=umairs759&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 
 </div>
 
@@ -65,7 +53,7 @@
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
 
 </div>
 
@@ -73,6 +61,6 @@
 
 <div align="center">
 
-![](https://github-contributor-stats.vercel.app/api?username=umairs759&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<img src="https://github-contributor-stats.vercel.app/api?username=umairs759&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
 
 </div>
