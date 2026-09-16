@@ -43,25 +43,38 @@
 
 ## 📊 GitHub Analytics & Activity
 
+<div align="center">
+
 ![](https://github-readme-stats.shion.dev/api?username=umairs759&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 ![](https://streak-stats.demolab.com/?user=umairs759&theme=dark&hide_border=false)<br/>
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=umairs759&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+</div>
 
 ### 🏆 GitHub Trophies
 
+<div align="center">
+
 ![](https://github-profile-trophy.vercel.app/?username=umairghaffar759&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+</div>
 
 ### ✍️ Random Dev Quote
 
+<div align="center">
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
+</div>
 
 ### 🔝 Top Contributed Repo
 
+<div align="center">
+
 ![](https://github-contributor-stats.vercel.app/api?username=umairghaffar759&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+</div>
 ---
 [![](https://komarev.com/ghpvc/?username=umairghaffar759&icon=0&color=0)](https://visitcount.itsvg.in)
