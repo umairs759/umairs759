@@ -1,23 +1,23 @@
 # 💫 About Me
 
 - 🎓 **BS Cyber Security** student at University of Central Punjab (UCP).
-- 
+  
 - 🌟 **Microsoft Learn Student Ambassador** (Community Influencer).
-- 
+  
 - 🔭 **Currently Building:** Intelligent security automation, AI-driven workflows, and cloud-native tools using **Python, FastAPI & Docker**.
-- 
+  
 - 🛡️ **Core Security Focus:** Penetration Testing, Network Defense, and Cloud Security Monitoring across **Kali Linux** & **Azure**.
-- 
+  
 - 🏅 **Credentials & Simulations:**
-- 
+  
   - Microsoft Applied Skills: Cloud Security & Monitoring Tasks
   - Google Foundations of Cybersecurity
   - Deloitte Cybersecurity Job Simulation
     
 - 🏆 **Milestones:** Grade 2A placement in Alibaba Cloud AI Hackathon | Top 20% Global Rank in International Research Olympiad (IRO).
-- 
+  
 - 💻 **Tech Stack:** Python, Bash, SQL, JavaScript (Three.js, HTML5), Docker, Linux Administration.
-- 
+  
 - 📫 **Connect with me:** [umairghaffar759@gmail.com](mailto:umairghaffar759@gmail.com) | [LinkedIn](https://linkedin.com)
 
 ---
