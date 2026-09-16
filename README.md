@@ -13,7 +13,7 @@
   - Microsoft Applied Skills: Cloud Security & Monitoring Tasks
   - Google Foundations of Cybersecurity
   - Deloitte Cybersecurity Job Simulation
-  - 
+    
 - 🏆 **Milestones:** Grade 2A placement in Alibaba Cloud AI Hackathon | Top 20% Global Rank in International Research Olympiad (IRO).
 - 
 - 💻 **Tech Stack:** Python, Bash, SQL, JavaScript (Three.js, HTML5), Docker, Linux Administration.
