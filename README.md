@@ -40,39 +40,40 @@
 | **APIs & Integrations** | ![Meta WhatsApp Cloud API](https://img.shields.io/badge/WhatsApp-Cloud_API-25D366?style=flat-square&logo=whatsapp&logoColor=white) ![Telegram API](https://img.shields.io/badge/Telegram-Bot_API-24A1DE?style=flat-square&logo=telegram&logoColor=white) ![Binance API](https://img.shields.io/badge/Binance-API_Automation-F0B90B?style=flat-square&logo=binance&logoColor=black) |
 
 ---
-## 📊 GitHub Analytics & Activity
-
 <div align="center">
 
-![](https://github-readme-stats.shion.dev/api?username=umairs759&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+  ## 📊 GitHub Analytics & Activity
 
-![](https://streak-stats.demolab.com/?user=umairs759&theme=dark&hide_border=false)<br/>
+  <!-- Main Stats & Streak -->
+  <img src="https://github-readme-stats.vercel.app/api?username=umairs759&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  
+  <br/><br/>
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=umairs759&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  <img src="https://streak-stats.demolab.com/?user=umairs759&theme=dark&hide_border=false" alt="GitHub Streak" />
+  
+  <br/><br/>
 
-</div>
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umairs759&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 
+  <br/><br/>
 
-### 🏆 GitHub Trophies
+  <!-- GitHub Trophies -->
+  <h3>🏆 GitHub Trophies</h3>
+  <img src="https://github-profile-trophy.vercel.app/?username=umairs759&theme=darkhub&no-frame=true&margin-w=4&row=1&column=6" alt="GitHub Trophies" />
 
-<div align="center">
+  <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=umairs759&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <!-- Random Dev Quote -->
+  <h3>✍️ Random Dev Quote</h3>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
 
-</div>
+  <br/><br/>
 
-### ✍️ Random Dev Quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
-
-</div>
-
-### 🔝 Top Contributed Repo
-
-<div align="center">
-
-<img src="https://github-contributor-stats.vercel.app/api?username=umairs759&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
+  <!-- Featured Project (Replaced broken Contributed Repo) -->
+  <h3>🔝 Featured Repository</h3>
+  <a href="https://github.com/umairs759/RetailFlow-POS">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=umairs759&repo=RetailFlow-POS&theme=dark&hide_border=false" alt="RetailFlow-POS" />
+  </a>
 
 </div>
