@@ -41,7 +41,7 @@
 
 ---
 
- ## 📊 GitHub Analytics & Activity
+## 📊 GitHub Analytics & Activity
 
 <div align="center">
 
@@ -57,7 +57,7 @@
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=umairghaffar759&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=umairs759&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 </div>
 
@@ -73,8 +73,6 @@
 
 <div align="center">
 
-![](https://github-contributor-stats.vercel.app/api?username=umairghaffar759&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=umairs759&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 </div>
----
-
