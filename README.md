@@ -40,6 +40,18 @@
 | **APIs & Integrations** | ![Meta WhatsApp Cloud API](https://img.shields.io/badge/WhatsApp-Cloud_API-25D366?style=flat-square&logo=whatsapp&logoColor=white) ![Telegram API](https://img.shields.io/badge/Telegram-Bot_API-24A1DE?style=flat-square&logo=telegram&logoColor=white) ![Binance API](https://img.shields.io/badge/Binance-API_Automation-F0B90B?style=flat-square&logo=binance&logoColor=black) |
 
 ---
+## 📊 GitHub Analytics & Activity
+
+<div align="center">
+
+![](https://github-readme-stats.shion.dev/api?username=umairs759&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
+![](https://streak-stats.demolab.com/?user=umairs759&theme=dark&hide_border=false)<br/>
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=umairs759&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+</div>
+
 
 ### 🏆 GitHub Trophies
 
