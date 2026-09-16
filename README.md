@@ -41,19 +41,32 @@
 
 ---
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=umairs759&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=umairs759&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=umairs759&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 📊 GitHub Analytics & Activity
 
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=umairghaffar759&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<div align="center">
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+  <!-- Main Stats & Streak Cards (Side-by-Side) -->
+  <a href="https://github.com/umairs759">
+    <img src="https://github-readme-stats.vercel.app/api?username=umairs759&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="Umair's GitHub Stats" height="175" />
+  </a>
+  <a href="https://github.com/umairs759">
+    <img src="https://streak-stats.demolab.com/?user=umairs759&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="175" />
+  </a>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=umairghaffar759&limit=5&theme=dark&combine_all_yearly_contributions=true)
+  <br/><br/>
 
+  <!-- Most Used Languages -->
+  <a href="https://github.com/umairs759">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umairs759&layout=compact&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&langs_count=8" alt="Top Languages" height="165" />
+  </a>
+
+  <br/><br/>
+
+  <!-- GitHub Trophies -->
+  <a href="https://github.com/umairs759">
+    <img src="https://github-profile-trophy.vercel.app/?username=umairs759&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  </a>
+
+</div>
 ---
 [![](https://komarev.com/ghpvc/?username=umairghaffar759&icon=0&color=0)](https://visitcount.itsvg.in)
