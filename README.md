@@ -154,8 +154,6 @@
   <br/><br/>
 </div>
 
----
-
 <!-- ================= 100% RELIABLE CYBER ANIMATION ================= -->
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -167,18 +165,45 @@
 
 ### ⚡ Let's Connect & Collaborate
 
-```bash
-curl -X POST [https://umairs759.dev/api/v1/collaborate](https://umairs759.dev/api/v1/collaborate) \
-  -H "Authorization: Bearer OPEN_TO_OPPORTUNITIES" \
-  -H "Content-Type: application/json" \
-  -d '{
-    "target": "Muhammad Umair",
-    "availability": "Cybersecurity Roles & Security Automation Projects",
-    "domains": [
-      "Penetration Testing & Auditing",
-      "Azure Cloud Defense & Monitoring",
-      "Python & Agentic AI Workflows"
-    ],
-    "response_time": "< 24 Hours",
-    "status": "Ready to Deploy"
-  }'
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00FF66&background=0D1117&center=true&vCenter=true&width=680&height=50&lines=%E2%9A%A1+Open+to+Cybersecurity+Roles+%26+Security+Automation;%F0%9F%9B%A1%EF%B8%8F+Available+for+Collaboration+%26+Freelance+Projects;%E2%9C%85+Response+Time%3A+Under+24+Hours" alt="Availability Status" />
+</div>
+
+<br/>
+
+<table align="center" border="0">
+  <tr>
+    <td align="center" width="200">
+      <b>🎯 Domains</b><br/>
+      Penetration Testing<br/>
+      Azure Cloud Defense<br/>
+      Python & Agentic AI
+    </td>
+    <td align="center" width="200">
+      <b>📡 Status</b><br/>
+      <img src="https://img.shields.io/badge/Status-Ready_to_Deploy-00FF66?style=flat-square" alt="Status"/><br/><br/>
+      <img src="https://img.shields.io/badge/Response-%3C24_Hours-0078D4?style=flat-square" alt="Response Time"/>
+    </td>
+    <td align="center" width="200">
+      <b>🤝 Let's Talk</b><br/>
+      <a href="mailto:umairghaffar759@gmail.com">Email Me</a><br/>
+      <a href="https://linkedin.com/in/umairs759">Message on LinkedIn</a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<p align="center">
+  <a href="mailto:umairghaffar759@gmail.com">
+    <img src="https://img.shields.io/badge/📩_Get_In_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://linkedin.com/in/umairs759" target="_blank">
+    <img src="https://img.shields.io/badge/🤝_Connect_on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://umairs759.github.io/Muhammad-Umair-Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_View-Portfolio-00FF66?style=for-the-badge&logo=firefoxbrowser&logoColor=black" alt="Portfolio"/>
+  </a>
+</p>
+
+---
