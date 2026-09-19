@@ -1,20 +1,38 @@
 <div align="center">
 
-  <!-- Dynamic Typing Header -->
+  <!-- Cyber Terminal Dynamic Typing Header (Short & Impactful) -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1400&color=00FF66&background=0D1117&center=true&vCenter=true&width=760&height=60&lines=Muhammad+Umair+%7C+Cyber+Security+%26+AI+Automation;Python+%2B+FastAPI+Developer+%7C+Full-Stack+Web+Builder;Penetration+Testing+%E2%80%A2+Cloud+Security+%E2%80%A2+Agentic+AI;Microsoft+Learn+Student+Ambassador" alt="Typing Header" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00FF66&background=0D1117&center=true&vCenter=true&width=650&height=60&lines=Hi+there,+I'm+Muhammad+Umair+%F0%9F%91%8B;BS+Cyber+Security+Student+%40+UCP;Microsoft+Learn+Student+Ambassador;Security+Automation+%26+AI+Agents+Enthusiast" alt="Typing SVG" />
   </a>
 
-  <p>
-    <b>BS Cyber Security student, freelance Python/AI developer, and web designer based in Lahore, Pakistan.</b><br/>
-    <sub>Building production-ready AI agents, security tooling, and full-stack web products.</sub>
+  <br/>
+
+  <!-- Core Roles & Status (Neat & Clean Flat Tags) -->
+  <p align="center">
+    <img src="https://img.shields.io/badge/Focus-Penetration_Testing_%26_Cloud_Security-00FF66?style=flat-square&logo=kalilinux&logoColor=black" alt="Focus" />
+    <img src="https://img.shields.io/badge/Role-Microsoft_Learn_Student_Ambassador-0A66C2?style=flat-square&logo=microsoft&logoColor=white" alt="MLSA" />
+    <img src="https://img.shields.io/badge/Education-BS_Cyber_Security_%40_UCP-white?style=flat-square&logo=target&logoColor=black" alt="Education" />
   </p>
 
+  <!-- Action Center / Connect Hub (Standardized Buttons) -->
   <p align="center">
-    <a href="https://umairs759.github.io/Muhammad-Umair-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-101418?style=for-the-badge&logo=googlechrome&logoColor=00FF66" alt="Portfolio" /></a>
-    <a href="https://www.linkedin.com/in/umairs759"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:umairghaffar759@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://github.com/umairs759"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="mailto:umairghaffar759@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://linkedin.com/in/umairs759">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://github.com/umairs759">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    <a href="https://umairs759.github.io/Muhammad-Umair-Portfolio/">
+      <img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" />
+    </a>
+  </p>
+  
+  <!-- Profile Views Counter -->
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=umairs759&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
   </p>
 
 </div>
