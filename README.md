@@ -156,10 +156,25 @@
 
 ---
 
+<!-- Most Used Languages Card -->
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=umairs759&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF66&text_color=FFFFFF" alt="Top Languages" />
+</div>
+
+<br/>
+
+<!-- ================= 100% RELIABLE CYBER ANIMATION ================= -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&pause=1000&color=00FF66&background=0D1117&center=true&vCenter=true&width=680&height=55&lines=%E2%9A%A1+Handshake+Protocol+Initiated...;%F0%9F%9B%A1%EF%B8%8F+PORT+443%3A+Listening+for+Opportunities+%26+Collaborations;%E2%96%B6+Establish+Direct+Connection+Below+%E2%86%93" alt="Handshake Animation" />
+  </a>
+</div>
+
+---
+
 ### ⚡ Let's Connect & Collaborate
 
 ```bash
-$ curl -X POST [https://umairs759.api/v1/collaborate](https://umairs759.api/v1/collaborate) \
+curl -X POST [https://umairs759.dev/api/v1/collaborate](https://umairs759.dev/api/v1/collaborate) \
   -H "Authorization: Bearer OPEN_TO_OPPORTUNITIES" \
   -H "Content-Type: application/json" \
   -d '{
