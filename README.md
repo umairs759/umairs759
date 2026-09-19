@@ -1,3 +1,18 @@
+<div align="center">
+  <!-- Dynamic Typing Header -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=650&lines=Muhammad+Umair;BS+Cyber+Security+%7C+Penetration+Testing;AI+Automation+%26+Python+Developer;Microsoft+Learn+Student+Ambassador" alt="Typing SVG" />
+  </a>
+
+  <br/>
+
+  <!-- Profile Visitor Counter & Quick Status -->
+  <img src="https://komarev.com/ghpvc/?username=umairs759&color=22c55e&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/STATUS-BUILDING_%26_SECURING-blue?style=flat-square&logo=shield" alt="Status" />
+  <img src="https://img.shields.io/badge/FOCUS-CLOUD_%26_LLM_OPS-purple?style=flat-square" alt="Focus" />
+
+</div> 
+
 # 💫 About Me
 
  🎓 **BS Cyber Security** student at University of Central Punjab (UCP).
