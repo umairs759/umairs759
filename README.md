@@ -1,80 +1,74 @@
 <div align="center">
 
+  <!-- Dynamic Typing Hero -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=750&lines=%F0%9F%9B%A1%EF%B8%8F+Muhammad+Umair+%E2%80%94+Cyber+Security+%26+AI+Automation;%F0%9F%94%90+Penetration+Testing+%7C+Cloud+Defense+%7C+Incident+Response;%E2%9A%99%EF%B8%8F+FastAPI+%7C+Docker+%7C+Agentic+Workflows;%F0%9F%8C%9F+Microsoft+Learn+Student+Ambassador" alt="Typing Terminal" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF66&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Muhammad+Umair+%F0%9F%91%8B;BS+Cyber+Security+%40+UCP+%F0%9F%9B%A1%EF%B8%8F;Cloud+Security+%26+Automation+Builder;Microsoft+Learn+Student+Ambassador+%E2%AD%90" alt="Typing SVG" />
   </a>
 
-  <p><b>Undergraduate Cyber Security Researcher & System Automation Engineer based in Lahore, Pakistan.</b></p>
+  <p align="center">
+    <strong>Penetration Testing | Cloud Security Monitoring | Applied Security Automation</strong>
+  </p>
 
-  <p>
-    <a href="https://umairs759.github.io/Muhammad-Umair-Portfolio/"><img src="https://img.shields.io/badge/Live_Portfolio-101418?style=flat-square&logo=googlechrome&logoColor=22c55e" alt="Portfolio" /></a>
-    <a href="https://www.linkedin.com/in/umairs759"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:umairghaffar759@gmail.com"><img src="https://img.shields.io/badge/Direct_Mail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-    <img src="https://img.shields.io/badge/Open_To-Security_Audits_%26_AI_R%26D-22c55e?style=flat-square" alt="Status" />
+  <!-- Social & Contact Badges -->
+  <p align="center">
+    <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:umairghaffar759@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://github.com/umairs759"><img src="https://img.shields.io/badge/Portfolio-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Portfolio" /></a>
   </p>
 
 </div>
 
 ---
 
-### 🚀 Featured Deployments & Case Studies
+### 🛡️ About Me
 
-| Project | Core Stack | Architecture & Highlights | Access |
-| :--- | :--- | :--- | :--- |
-| **SecOps-AI** | `Python` `FastAPI` `Azure` `Docker` | Automated cloud security auditing and incident response engine. Scans configurations, parses cloud logs, and delivers automated triage reports. | [Repository](https://github.com/umairs759/secops-ai-cloudrun) |
-| **RetailFlow-POS** | `Vanilla JS` `HTML5` `LocalStorage` | Offline-first, zero-dependency retail billing console and ledger (Khata). Built for high reliability in low-connectivity environments. | [Live App](https://umairs759.github.io/RetailFlow-POS/) &bull; [Code](https://github.com/umairs759/RetailFlow-POS) |
-| **LocalBiz AI Agent** | `FastAPI` `Groq` `Gemini 2.0` `Docker` | 24/7 autonomous WhatsApp receptionist for local businesses with multi-LLM failover (Groq Llama 3.3 to Gemini) and webhook routing. | [Repository](https://github.com/umairs759/LocalBiz-AI-WhatsApp-Agent) |
-| **Labaik Broast 3D** | `Three.js` `WebGL` `JavaScript` | Immersive 3D interactive web showcase for local enterprise food operations with custom camera rigs and WebGL rendering. | [Preview](https://github.com/umairs759) |
+* 🎓 **Academic**: BS Cyber Security student at **University of Central Punjab (UCP)**.
+* 🌟 **Leadership**: **Microsoft Learn Student Ambassador** (Community Influencer).
+* 🔭 **Currently Building**: Intelligent security automation tools, LLM-driven workflows, and cloud-native systems using **Python, FastAPI & Docker**.
+* 🎯 **Core Focus**: Penetration Testing, Network Defense, and Cloud Security Monitoring across **Kali Linux & Azure**.
+* 🏆 **Key Recognitions**:
+  * Top 20% Global Rank in the **International Research Olympiad (IRO)**.
+  * Grade 2A placement in **Alibaba Cloud AI Hackathon**.
+* 📜 **Verified Credentials**:
+  * Microsoft Applied Skills: Cloud Security & Monitoring Tasks
+  * Google Foundations of Cybersecurity
+  * Deloitte Cybersecurity Job Simulation
 
 ---
 
-### 🛡️ Technical Arsenal
+### 🛠️ Tech Stack & Tooling
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,bash,c,linux,docker,fastapi,git,githubactions,js,html,css&theme=dark" alt="Technical Stack" />
-</div>
-
-<br/>
-
-| Domain | Specializations & Tooling |
+| Domain | Technologies & Frameworks |
 | :--- | :--- |
-| **Offensive & Defensive Security** | Kali Linux, Network Auditing, Vulnerability Assessment, Microsoft Azure Cloud Security, Incident Response |
-| **AI Systems & LLM Ops** | Groq Llama 3.3 Inference, Google AI Studio (Gemini), Ollama Local Deployment, Agentic Workflows |
-| **Infrastructure & DevOps** | Docker Containerization, GitHub Actions CI/CD, Linux System Administration, SQL Database Objects |
+| **Cybersecurity & Systems** | ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Network Auditing](https://img.shields.io/badge/Network_Auditing-red?style=flat-square) ![Azure Security](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| **AI & Automation** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Groq / Gemini](https://img.shields.io/badge/Applied_LLMs-8A2BE2?style=flat-square) |
 
 ---
 
-### 🏆 Verified Industry Credentials & Milestones
+### 🚀 Featured Repositories
 
-* 🔐 **Microsoft Applied Skills:** Cloud Security & Monitoring Tasks
-* 🏢 **Deloitte UK:** Cyber Incident Response Simulation (Enterprise network defense & triage)
-* 🛡️ **Google / Coursera:** Foundations of Cybersecurity
-* 🥈 **Alibaba Cloud AI Hackathon (Pakistan):** Grade 2A Project Placement
-* 🌍 **International Research Olympiad (IRO):** Top 20% Global Ranking
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| [**RetailFlow-POS**](https://github.com/umairs759/RetailFlow-POS) | Lightweight, offline-first Point of Sale & inventory system designed for local retail operations. | `JavaScript` `HTML5` `LocalStorage` |
+| [**SecOps-AI**](https://github.com/umairs759) | Automated security operations helper leveraging applied LLMs for log analysis and triage. | `Python` `FastAPI` `Docker` |
+| [**LocalBiz-AI-Agent**](https://github.com/umairs759) | WhatsApp automation engine built with cloud webhook integrations for automated responses. | `FastAPI` `Meta Cloud API` `Docker` |
 
 ---
 
-### 📊 System Telemetry & Activity
+### 📊 GitHub Activity & Analytics
 
 <div align="center">
   <table border="0">
     <tr>
-      <td align="center" width="50%">
-        <img width="100%" src="https://github-readme-stats.shion.dev/api?username=umairs759&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=22c55e&icon_color=22c55e" alt="Umair's Stats" />
+      <td>
+        <img height="165em" src="https://github-readme-stats.shion.dev/api?username=umairs759&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
       </td>
-      <td align="center" width="50%">
-        <img width="100%" src="https://streak-stats.demolab.com/?user=umairs759&theme=dark&hide_border=true&background=0d1117&ring=22c55e&fire=22c55e&currStreakLabel=22c55e" alt="Umair's Streak" />
+      <td>
+        <img height="165em" src="https://streak-stats.demolab.com/?user=umairs759&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
 
-  <br/>
-
-  <img width="100%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=umairs759&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=22c55e" alt="Top Languages" />
-</div>
-
----
-
-<div align="center">
-  <sub>Engineered by <b>Muhammad Umair</b> • BS Cyber Security @ University of Central Punjab • Open for technical collaboration</sub>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=umairs759&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
 </div>
