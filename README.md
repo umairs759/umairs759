@@ -1,79 +1,80 @@
-# 💫 About Me
-
- 🎓 **BS Cyber Security** student at University of Central Punjab (UCP).
-  
- 🌟 **Microsoft Learn Student Ambassador** (Community Influencer).
-  
- 🔭 **Currently Building:** Intelligent security automation, AI-driven workflows, and cloud-native tools using **Python, FastAPI & Docker**.
-  
- 🛡️ **Core Security Focus:** Penetration Testing, Network Defense, and Cloud Security Monitoring across **Kali Linux** & **Azure**.
-  
- 🏅 **Credentials & Simulations:**
-  
-  - Microsoft Applied Skills: Cloud Security & Monitoring Tasks
-  - Google Foundations of Cybersecurity
-  - Deloitte Cybersecurity Job Simulation
-    
- 🏆 **Milestones:** Grade 2A placement in Alibaba Cloud AI Hackathon | Top 20% Global Rank in International Research Olympiad (IRO).
-  
- 💻 **Tech Stack:** Python, Bash, SQL, JavaScript (Three.js, HTML5), Docker, Linux Administration.
-  
- 📫 **Connect with me:** [umairghaffar759@gmail.com](mailto:umairghaffar759@gmail.com) | [LinkedIn](https://www.linkedin.com/in/umairghaffar759))
-
----
-
-## 🌐 Socials & Portfolio:
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23252525.svg?style=for-the-badge&logo=github&logoColor=white)](https://umairs759.github.io/Muhammad-Umair-Portfolio/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umairs759) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:umairghaffar759@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/umairs759)
-
----
-
-## 🛠️ Tech Stack & Skills
-
-| Category | Technologies & Tools |
-| :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC292B?style=flat-square&logo=microsoft-sql-server&logoColor=white) |
-| **Cybersecurity & Systems** | ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Network Security](https://img.shields.io/badge/Network-Auditing_&_Defense-red?style=flat-square) ![Cloud Security](https://img.shields.io/badge/Microsoft_Azure-Cloud_Security-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) |
-| **AI & Applied LLMs** | ![Google AI Studio](https://img.shields.io/badge/Google-AI_Studio-4285F4?style=flat-square&logo=google&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-Local_LLMs-000000?style=flat-square&logo=ollama&logoColor=white) ![Groq](https://img.shields.io/badge/Groq-Fast_Inference-F55036?style=flat-square&logo=groq&logoColor=white) ![Prompt Engineering](https://img.shields.io/badge/Prompt-Engineering-8A2BE2?style=flat-square) |
-| **Backend & Web Development** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Three.js](https://img.shields.io/badge/Three.js-3D_Web-black?style=flat-square&logo=three.js&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
-| **DevOps & Automation** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI%2FCD-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
-| **APIs & Integrations** | ![Meta WhatsApp Cloud API](https://img.shields.io/badge/WhatsApp-Cloud_API-25D366?style=flat-square&logo=whatsapp&logoColor=white) ![Telegram API](https://img.shields.io/badge/Telegram-Bot_API-24A1DE?style=flat-square&logo=telegram&logoColor=white) ![Binance API](https://img.shields.io/badge/Binance-API_Automation-F0B90B?style=flat-square&logo=binance&logoColor=black) |
-
----
 <div align="center">
 
-  <div align="center">
+  <h1>🛡️ Muhammad Umair</h1>
+  <p><b>Cyber Security Specialist &bull; AI Automation Engineer &bull; Python Developer</b></p>
+  <p>📍 Lahore, Pakistan &nbsp;•&nbsp; 🎓 BS Cyber Security @ UCP &nbsp;•&nbsp; 🌟 Microsoft Learn Student Ambassador</p>
 
-  <div align="center">
-
-  ## 📊 GitHub Analytics & Activity
-
-  <!-- Main GitHub Stats (Fast Mirror, No Timeout) -->
-  <img src="https://github-readme-stats.shion.dev/api?username=umairs759&show_icons=true&theme=dark&hide_border=false" alt="GitHub Stats" />
-  
-  <br/><br/>
-
-  <!-- Contribution Streak -->
-  <img src="https://streak-stats.demolab.com/?user=umairs759&theme=dark&hide_border=false" alt="GitHub Streak" />
-  
-  <br/><br/>
-
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=umairs759&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
-
-  <br/><br/>
-
-  <!-- Random Dev Quote -->
-  <h3>✍️ Random Dev Quote</h3>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
-
-  <br/><br/>
-
-  <!-- Pinned Project Card (Via Fast Mirror) -->
-  <h3>🔝 Featured Repository</h3>
-  <a href="https://github.com/umairs759/RetailFlow-POS">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=umairs759&repo=RetailFlow-POS&theme=dark&hide_border=false" alt="RetailFlow-POS" />
-  </a>
+  <p>
+    <a href="https://umairs759.github.io/Muhammad-Umair-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-101418?style=flat-square&logo=googlechrome&logoColor=22c55e" /></a>
+    <a href="https://www.linkedin.com/in/umairs759"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:umairghaffar759@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+    <img src="https://komarev.com/ghpvc/?username=umairs759&color=22c55e&style=flat-square&label=VIEWS" />
+  </p>
 
 </div>
 
+---
+
+### ⚡ Operational Focus & Credentials
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🎯 Core Competencies</h4>
+      <ul>
+        <li><b>Security & Defense:</b> Network Auditing, Penetration Testing, Cloud Security Monitoring (Azure & Kali Linux).</li>
+        <li><b>AI & Systems:</b> Agentic LLM pipelines (Groq, Gemini, Ollama), Dockerized microservices, terminal utilities.</li>
+        <li><b>Engineering:</b> Python, Bash scripting, FastAPI, vanilla high-performance web architecture.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🏅 Validated Milestones</h4>
+      <ul>
+        <li><b>Microsoft Applied Skills:</b> Cloud Security & Monitoring Tasks</li>
+        <li><b>Deloitte:</b> Enterprise Cyber Incident Response Simulation</li>
+        <li><b>Google:</b> Foundations of Cybersecurity</li>
+        <li><b>Competitions:</b> Grade 2A @ Alibaba Cloud AI Hackathon &bull; Top 20% Global Rank @ Intl. Research Olympiad</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🛠️ Tech Stack
+
+| Domain | Technologies |
+| :--- | :--- |
+| **Languages** | `Python` `Bash` `SQL` `C` `JavaScript (ES6+)` `HTML5/CSS3` |
+| **Security & Systems** | `Kali Linux` `Linux Admin` `Azure Security` `Network Auditing` `Incident Response` |
+| **AI & Automation** | `FastAPI` `Docker` `GitHub Actions` `Groq` `Gemini API` `Ollama` |
+| **APIs & Web** | `Meta WhatsApp Cloud API` `Telegram API` `Three.js` `Firebase` |
+
+---
+
+### 🚀 Flagship Deployments
+
+* **[SecOps-AI](https://github.com/umairs759/secops-ai-cloudrun)** — Automated cloud security auditing and incident triage engine.
+* **[RetailFlow-POS](https://github.com/umairs759/RetailFlow-POS)** — Zero-dependency, offline-first retail management & Khata system.
+* **[LocalBiz-AI-WhatsApp-Agent](https://github.com/umairs759/LocalBiz-AI-WhatsApp-Agent)** — Enterprise-grade WhatsApp receptionist with multi-LLM failover.
+
+---
+
+### 📊 GitHub Activity
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center" width="50%">
+        <img width="100%" src="https://github-readme-stats.shion.dev/api?username=umairs759&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=22c55e&icon_color=22c55e" alt="Umair's GitHub Stats" />
+      </td>
+      <td align="center" width="50%">
+        <img width="100%" src="https://streak-stats.demolab.com/?user=umairs759&theme=dark&hide_border=true&background=0d1117&ring=22c55e&fire=22c55e&currStreakLabel=22c55e" alt="Umair's GitHub Streak" />
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+
+  <img width="98%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=umairs759&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=22c55e" alt="Top Languages" />
+</div>
