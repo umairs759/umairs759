@@ -78,8 +78,6 @@
 
 ### 🛠️ Tech Stack & Tooling
 
-### 🛠️ Tech Stack & Tooling
-
 <div align="center">
   <!-- Interactive Skill Icons Grid -->
   <a href="https://skillicons.dev">
