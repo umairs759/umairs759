@@ -60,7 +60,7 @@
   
 * ⚙️ **Engineering & Shipped Systems:** Building and deploying autonomous AI workflow engines (`LocalBiz AI`, `BrandPulse AI`), automated cloud security monitors (`SecOps-AI`), and offline-first application architectures (`RetailFlow-POS`) using **Python, FastAPI, Docker, and Bash**.
   
-* 🏆 **Verified Milestones:**
+* 🏆 **Honors & Recognitions:**
   
   * **Grade 2A Project Placement** — Alibaba Cloud AI Hackathon Pakistan
     
