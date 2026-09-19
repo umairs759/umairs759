@@ -163,6 +163,18 @@
 
 ---
 
+## 💖 Support My Work
+
+If you find my tools and projects helpful, consider supporting my open-source journey. Tips help cover server, API, and development costs!
+
+| Network | Supported Tokens | Wallet Address |
+| :--- | :--- | :--- |
+| **BNB Smart Chain (BEP20)** | USDT / BNB | `0xc0be3fcedd6eddf0e1c00c8d895189aaf24591a4` |
+
+> ⚠️ **Important:** Please verify that you are sending tokens over the **BNB Smart Chain (BEP20)** network to ensure funds arrive safely.
+
+--- 
+
 ### ⚡ Let's Connect & Collaborate
 
 <div align="center">
@@ -207,3 +219,5 @@
 </p>
 
 ---
+
+
