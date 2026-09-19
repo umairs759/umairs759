@@ -121,9 +121,9 @@
 
 | Credential & Specialization | Issuing Organization | Core Competencies & Domains Covered | Verification |
 | :--- | :---: | :--- | :---: |
-| **Cloud Security & Monitoring Tasks**[cite: 1] | ![Microsoft](https://img.shields.io/badge/Microsoft-Applied_Skills-0078D4?style=flat-square&logo=microsoft&logoColor=white) | Azure security baseline auditing, alerts monitoring, identity access management, and cloud threat defense. | `Verified` 🟢 |
-| **Foundations of Cybersecurity**[cite: 1] | ![Google](https://img.shields.io/badge/Google-Coursera-4285F4?style=flat-square&logo=google&logoColor=white) | Core security frameworks (NIST/CIA), threat intelligence, asset security, and defensive workflows. | `Verified` 🟢 |
-| **Cybersecurity Job Simulation**[cite: 1] | ![Deloitte](https://img.shields.io/badge/Deloitte-Job_Simulation-86BC25?style=flat-square&logo=deloitte&logoColor=white) | Hands-on network packet inspection, security triage analysis, log investigation, and threat report generation[cite: 1]. | `Completed` 🟢 |
+| **Cloud Security & Monitoring Tasks** | ![Microsoft](https://img.shields.io/badge/Microsoft-Applied_Skills-0078D4?style=flat-square&logo=microsoft&logoColor=white) | Azure security baseline auditing, alerts monitoring, identity access management, and cloud threat defense. | `Verified` 🟢 |
+| **Foundations of Cybersecurity** | ![Google](https://img.shields.io/badge/Google-Coursera-4285F4?style=flat-square&logo=google&logoColor=white) | Core security frameworks (NIST/CIA), threat intelligence, asset security, and defensive workflows. | `Verified` 🟢 |
+| **Cybersecurity Job Simulation** | ![Deloitte](https://img.shields.io/badge/Deloitte-Job_Simulation-86BC25?style=flat-square&logo=deloitte&logoColor=white) | Hands-on network packet inspection, security triage analysis, log investigation, and threat report generation[cite: 1]. | `Completed` 🟢 |
 | **SQL Data Querying & Governance** | ![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-SQL_Security-0078D4?style=flat-square&logo=microsoft&logoColor=white) | Relational database objects, data querying integrity, role-based access control (RBAC), and security governance. | `Completed` 🟢 |
 
 ---
