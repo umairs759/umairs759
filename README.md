@@ -73,19 +73,26 @@
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack & Tooling
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,js,bash,html,css,threejs,fastapi,docker,git,github,githubactions,azure,linux&theme=dark" alt="Tech Stack" />
+  <!-- Interactive & Clean Skill Icons (2 Rows of 8) -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,c,js,html,css,bash,fastapi,threejs&theme=dark" alt="Languages & Frontend" /><br/>
+    <img src="https://skillicons.dev/icons?i=docker,githubactions,git,github,linux,azure,firebase,postman&theme=dark" alt="DevOps, Cloud & Backend" />
+  </a>
 </div>
 
-| Domain | Tools |
-| :--- | :--- |
-| **Cybersecurity & Systems** | Kali Linux, Network Auditing & Defense, Microsoft Azure Cloud Security |
-| **AI & Applied LLMs** | Google AI Studio (Gemini), Groq, Ollama (Local LLMs), Prompt Engineering, Agentic Workflows |
-| **Backend & Web** | Python, FastAPI, Three.js, HTML5/CSS3, Firebase |
-| **DevOps & Automation** | Docker, GitHub Actions, Git, Linux Administration |
-| **APIs & Integrations** | WhatsApp Cloud API, Telegram Bot API, Binance API |
+<br/>
+
+| Domain | Core Tools & Frameworks | Practical Application & Real Workflows |
+| :--- | :--- | :--- |
+| **Cybersecurity & Systems** | `Kali Linux` `Linux SysAdmin` `Azure Cloud Security` `Network Defense` | Environment hardening, terminal system administration, network auditing, and Azure cloud security monitoring. |
+| **Applied AI & LLM Systems** | `Google Gemini API` `Groq (LPU)` `Ollama` `System Prompt Engineering` | Ultra-fast LLM inference, local model testing, structured JSON output extraction, and autonomous agent routing. |
+| **Backend & Web Development** | `FastAPI` `Three.js` `JavaScript (ES6+)` `HTML5 / CSS3` `Firebase` | High-performance asynchronous REST endpoints, 3D browser visualizers, and offline-first LocalStorage web architectures. |
+| **Languages & Data** | `Python` `Bash / Shell` `SQL` `C` | Automated scripting pipelines, terminal task automations, database querying/governance, and foundational low-level programming. |
+| **DevOps & Automation** | `Docker` `GitHub Actions` `Git / GitHub` `Cron Schedulers` | Containerized app isolation, automated cron-scheduled execution workflows, and Git version control. |
+| **APIs, Webhooks & Bots** | `WhatsApp Cloud API` `Telegram Bot API` `Binance API` `REST Webhooks` | Event-driven webhook processing, automated customer chat engines, and external market data streaming pipelines. |
 
 ---
 
