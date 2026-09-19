@@ -1,12 +1,12 @@
 <div align="center">
 
-  <!-- Cyber Terminal Dynamic Typing Header -->
+  <!-- Cyber Terminal Dynamic Typing Header (Optimized & No-Clip) -->
+<div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=1200&color=00FF66&background=0D1117&center=true&vCenter=true&width=740&height=70&lines=%24+whoami+%E2%86%92+Muhammad+Umair+%7C+Cyber+Security+%26+Offensive+Defense;%24+az+security+alert+list+%E2%86%92+Cloud+Security+Monitoring+Active;%24+python3+agent.py+%E2%86%92+Autonomous+AI+Workflows+%26+API+Engines;%24+cat+%2Fetc%2Frole+%E2%86%92+Microsoft+Learn+Student+Ambassador" alt="Cyber Terminal Typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&pause=1300&color=00FF66&background=0D1117&center=true&vCenter=true&width=750&height=65&lines=%24+whoami+%E2%86%92+Muhammad+Umair+%7C+Cyber+Security+Learner;%24+nmap+-sV+skills+%E2%86%92+Exploring+Network+Auditing+%26+Defense;%24+python3+build.py+%E2%86%92+Automating+Security+%26+AI+Workflows;%24+cat+%2Fetc%2Frole+%E2%86%92+Microsoft+Learn+Student+Ambassador" alt="Cyber Terminal Typing" />
   </a>
-
   <br/><br/>
-
+</div>
   <!-- Command Center / Portfolio & Direct Action Buttons (Top Priority) -->
   <p align="center">
     <a href="https://umairs759.github.io/Muhammad-Umair-Portfolio/" target="_blank">
