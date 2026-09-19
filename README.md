@@ -147,19 +147,30 @@
 </div>
 
 ---
-
-<!-- Most Used Languages Card -->
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=umairs759&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF66&text_color=FFFFFF" alt="Top Languages" />
-</div>
-
-<!-- ================= ANIMATION INSERTION ================= -->
+<!-- ================= CYBER VISUAL ANIMATION ================= -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,6,11,20&height=110&section=header&animation=fadeIn" width="100%" alt="Cyber Wave" />
+  <br/>
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Cyber.gif" width="420px" alt="Cyber Security Visual Animation" />
+  <br/><br/>
 </div>
-<!-- ======================================================= -->
+
+---
 
 ### ⚡ Let's Connect & Collaborate
 
 ```bash
-$ curl -X POST https://umairs759/api/collaborate \
+$ curl -X POST [https://umairs759.api/v1/collaborate](https://umairs759.api/v1/collaborate) \
+  -H "Authorization: Bearer OPEN_TO_OPPORTUNITIES" \
+  -H "Content-Type: application/json" \
+  -d '{
+    "target": "Muhammad Umair",
+    "availability": "Cybersecurity Roles & Security Automation Projects",
+    "domains": [
+      "Penetration Testing & Auditing",
+      "Azure Cloud Defense & Monitoring",
+      "Python & Agentic AI Workflows"
+    ],
+    "response_time": "< 24 Hours",
+    "status": "Ready to Deploy"
+  }'
 ...
