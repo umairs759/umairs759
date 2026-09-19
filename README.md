@@ -65,14 +65,34 @@
 
 ### 🚀 Featured Repositories & Real Builds
 
-| Project | Core System & Functionality | Technical Stack | Link |
+<!-- Visual Highlights (Flagship Projects Side-by-Side) -->
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%">
+        <a href="https://github.com/umairs759/secops-ai-cloudrun">
+          <img src="https://github-readme-stats.shion.dev/api/pin/?username=umairs759&repo=secops-ai-cloudrun&theme=tokyonight&hide_border=true" width="100%" alt="SecOps AI CloudRun" />
+        </a>
+      </td>
+      <td width="50%">
+        <a href="https://github.com/umairs759/RetailFlow-POS">
+          <img src="https://github-readme-stats.shion.dev/api/pin/?username=umairs759&repo=RetailFlow-POS&theme=tokyonight&hide_border=true" width="100%" alt="RetailFlow POS" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<!-- Complete Verified Shipped Repositories -->
+| Project & Repository | Core System & Real-World Utility | Technical Stack | Access |
 | :--- | :--- | :--- | :---: |
-| **RetailFlow POS** | Offline-first retail management engine featuring barcode scanning, digital khata ledger, thermal receipt printing, and WhatsApp receipts. | `JavaScript` `HTML5` `LocalStorage` | [Repository](https://github.com/umairs759/RetailFlow-POS) |
-| **BrandPulse AI** | Customer sentiment and review intelligence dashboard powered by dual-engine AI failover (*Groq Llama 3.3 → Gemini 2.0*). | `Python` `Flask` `Groq` `Gemini API` | [Repository](https://github.com/umairs759) |
-| **LocalBiz AI Agent** | Automated customer conversation and lead workflow assistant integrating cloud webhooks and fast LLM inference. | `FastAPI` `Docker` `Meta Cloud API` `Groq` | [Repository](https://github.com/umairs759) |
-| **LensForge AI** | AI portrait enhancement platform engineered with dual-provider fallback architecture for zero downtime generation. | `Next.js` `Replicate API` `Vercel` | [Repository](https://github.com/umairs759) |
-| **Labaik Broast 3D** | Interactive 3D web experience with dynamic product visualizer, interactive ordering flow, and manager analytics. | `Three.js` `JavaScript` `WebGL` | [Repository](https://github.com/umairs759) |
-| **Karobar Pakistan** | Micro-SaaS digital bookkeeping and accounting tool custom-tailored for small Pakistani local businesses. | `JavaScript` `HTML5/CSS3` `Firebase` | [Repository](https://github.com/umairs759) |
+| [**secops-ai-cloudrun**](https://github.com/umairs759/secops-ai-cloudrun) | Automated cloud security monitoring and threat analysis engine for rapid incident response, log auditing, and threat detection. | ![Security](https://img.shields.io/badge/Cloud_Security-0078D4?style=flat-square) ![AI](https://img.shields.io/badge/AI_Triage-8A2BE2?style=flat-square) ![CloudRun](https://img.shields.io/badge/GCP_Cloud_Run-4285F4?style=flat-square) | [Repo ↗](https://github.com/umairs759/secops-ai-cloudrun) |
+| [**RetailFlow-POS**](https://github.com/umairs759/RetailFlow-POS) | Offline-first POS console and retail manager featuring instant billing, Khata ledger, thermal receipt printing, and WhatsApp receipts. | ![JS](https://img.shields.io/badge/Vanilla_JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5_LocalStorage-E34F26?style=flat-square) | [Repo ↗](https://github.com/umairs759/RetailFlow-POS) |
+| [**LocalBiz-AI-WhatsApp-Agent**](https://github.com/umairs759/LocalBiz-AI-WhatsApp-Agent) | 24/7 AI WhatsApp receptionist for local businesses with Meta API and dual failover engine (*Groq Llama 3.3 → Gemini 2.0*). | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square) ![Docker](https://img.shields.io/badge/Docker_Ready-2496ED?style=flat-square) ![Meta](https://img.shields.io/badge/WhatsApp_API-25D366?style=flat-square) | [Repo ↗](https://github.com/umairs759/LocalBiz-AI-WhatsApp-Agent) |
+| [**brandpulse-ai-agent**](https://github.com/umairs759/brandpulse-ai-agent) | Autonomous AI agent bridging local businesses with data-driven reputation management, sentiment tracking, and customer engagement. | ![Python](https://img.shields.io/badge/Python_Agents-3776AB?style=flat-square) ![AI](https://img.shields.io/badge/Sentiment_LLMs-F55036?style=flat-square) | [Repo ↗](https://github.com/umairs759/brandpulse-ai-agent) |
+| [**Muhammad-Umair-Portfolio**](https://github.com/umairs759/Muhammad-Umair-Portfolio) | Dark-themed, cybersecurity-inspired personal portfolio engineered with zero frameworks for pure web performance. | ![HTML5](https://img.shields.io/badge/HTML5_CSS3-1572B6?style=flat-square) ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-00FF66?style=flat-square&logo=github&logoColor=black) | [Live ↗](https://umairs759.github.io/Muhammad-Umair-Portfolio/) |
 
 ---
 
