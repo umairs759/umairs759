@@ -163,8 +163,7 @@
 
 ---
 
-## 💖 Support My Work
-
+<h2 id="support-my-work">💖 Support My Work</h2>
 If you find my tools and projects helpful, consider supporting my open-source journey. Tips help cover server, API, and development costs!
 
 | Network | Supported Tokens | Wallet Address |
