@@ -148,13 +148,18 @@
 
 ---
 
+<!-- Most Used Languages Card -->
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=umairs759&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF66&text_color=FFFFFF" alt="Top Languages" />
+</div>
+
+<!-- ================= ANIMATION INSERTION ================= -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,6,11,20&height=110&section=header&animation=fadeIn" width="100%" alt="Cyber Wave" />
+</div>
+<!-- ======================================================= -->
+
 ### ⚡ Let's Connect & Collaborate
 
 ```bash
 $ curl -X POST https://umairs759/api/collaborate \
-  -H "Content-Type: application/json" \
-  -d '{
-    "status": "Available for Security Auditing & Applied AI Automation",
-    "roles": ["Cybersecurity Intern", "Backend / Automation Engineer"],
-    "response_time": "< 24 hours"
-  }'
+...
