@@ -57,10 +57,6 @@
 ---
 <div align="center">
 
-  <div align="center">
-
-  <div align="center">
-
   ## 📊 GitHub Analytics & Activity
 
   <!-- Main GitHub Stats (Fast Mirror, No Timeout) -->
@@ -91,3 +87,31 @@
   </a>
 
 </div>
+
+<!-- 🐍 GitHub Contribution Snake Animation -->
+  <br/><br/>
+  <h3>🐍 Contribution Graph Matrix</h3>
+  <img src="https://raw.githubusercontent.com/umairs759/umairs759/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+  <br/><br/>
+
+  <!-- 🏆 GitHub Trophies -->
+  <h3>🏆 GitHub Trophies</h3>
+  <img src="https://github-profile-trophy.vercel.app/?username=umairs759&theme=onedark&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+
+  <br/><br/>
+
+  <!-- Terminal Style Quote & Sign-off -->
+  <pre align="center">
+┌─────────────────────────────────────────────────────────────┐
+│  $ echo "Security is not a product, but a process."         │
+│  $ uptime: ready for collaborations & open-source security  │
+└─────────────────────────────────────────────────────────────┘
+  </pre>
+
+  <p align="center">
+    Built with focus & precision • 📍 Lahore, Pakistan
+  </p>
+
+</div>
+
