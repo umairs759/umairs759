@@ -5,17 +5,9 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=1200&color=00FF66&background=0D1117&center=true&vCenter=true&width=740&height=70&lines=%24+whoami+%E2%86%92+Muhammad+Umair+%7C+Cyber+Security+%26+Offensive+Defense;%24+az+security+alert+list+%E2%86%92+Cloud+Security+Monitoring+Active;%24+python3+agent.py+%E2%86%92+Autonomous+AI+Workflows+%26+API+Engines;%24+cat+%2Fetc%2Frole+%E2%86%92+Microsoft+Learn+Student+Ambassador" alt="Cyber Terminal Typing" />
   </a>
 
-  <br/>
+  <br/><br/>
 
-  <!-- Primary Identity Badges (Domain & Core Status) -->
-  <p align="center">
-    <img src="https://img.shields.io/badge/Domain-Penetration_Testing_%26_Cloud_Defense-00FF66?style=for-the-badge&logo=kalilinux&logoColor=black" alt="Security Domain" />
-    <img src="https://img.shields.io/badge/Ambassador-Microsoft_MLSA-0A66C2?style=for-the-badge&logo=microsoft&logoColor=white" alt="MLSA" />
-    <img src="https://img.shields.io/badge/Academics-BS_Cyber_Security_%40_UCP-222222?style=for-the-badge&logo=target&logoColor=white" alt="Academics" />
-    <img src="https://img.shields.io/badge/Location-Lahore%2C_PK-181717?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
-  </p>
-
-  <!-- Command Center / Live Links Hub -->
+  <!-- Command Center / Portfolio & Direct Action Buttons (Top Priority) -->
   <p align="center">
     <a href="https://umairs759.github.io/Muhammad-Umair-Portfolio/" target="_blank">
       <img src="https://img.shields.io/badge/Live_Portfolio-Website-00FF66?style=for-the-badge&logo=firefoxbrowser&logoColor=black" alt="Live Portfolio" />
@@ -29,6 +21,14 @@
     <a href="mailto:umairghaffar759@gmail.com">
       <img src="https://img.shields.io/badge/Contact-Direct_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
+  </p>
+
+  <!-- Identity & Focus Badges (Context Layer) -->
+  <p align="center">
+    <img src="https://img.shields.io/badge/Domain-Penetration_Testing_%26_Cloud_Defense-00FF66?style=flat-square&logo=kalilinux&logoColor=black" alt="Security Domain" />
+    <img src="https://img.shields.io/badge/Ambassador-Microsoft_MLSA-0A66C2?style=flat-square&logo=microsoft&logoColor=white" alt="MLSA" />
+    <img src="https://img.shields.io/badge/Academics-BS_Cyber_Security_%40_UCP-222222?style=flat-square&logo=target&logoColor=white" alt="Academics" />
+    <img src="https://img.shields.io/badge/Location-Lahore%2C_PK-181717?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
   </p>
 
   <!-- Live Status & Telemetry Tracker -->
