@@ -78,23 +78,26 @@
 
 ### 🛠️ Tech Stack & Tooling
 
+### 🛠️ Tech Stack & Tooling
+
 <div align="center">
+  <!-- Interactive Skill Icons Grid -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,js,html,css,bash,fastapi,threejs&theme=dark" alt="Languages & Frontend" /><br/>
+    <img src="https://skillicons.dev/icons?i=python,c,js,html,css,bash,fastapi,threejs&theme=dark" alt="Languages & Core Frontend" /><br/>
     <img src="https://skillicons.dev/icons?i=docker,githubactions,git,github,linux,azure,firebase,postman&theme=dark" alt="DevOps, Cloud & Backend" />
   </a>
 </div>
 
 <br/>
 
-| Domain | Core Tools & Frameworks | Practical Application & Real Workflows |
+| Domain | Verified Tools & Technologies | Practical Engineering & Real Workflows |
 | :--- | :--- | :--- |
-| **Cybersecurity & Systems** | `Kali Linux` `Linux SysAdmin` `Azure Cloud Security` `Network Defense` | System hardening, terminal administration, network auditing, and Azure security configuration monitoring. |
-| **Applied AI & LLM Systems** | `Google Gemini API` `Groq (LPU)` `Ollama` `Prompt Engineering` | Ultra-fast inference integration, local model pipelines, structured JSON parsing, and agentic workflows. |
-| **Backend & Web Development** | `FastAPI` `Flask` `Three.js` `JavaScript (ES6+)` `HTML5/CSS3` `Firebase` | Asynchronous REST microservices, 3D WebGL renderers, and offline-first LocalStorage web architectures. |
-| **Languages & Core Data** | `Python` `Bash / Shell` `SQL` `C` | Automated scripting pipelines, terminal automations, database querying/governance, and low-level computing. |
-| **DevOps & Automation** | `Docker` `GitHub Actions` `Git / GitHub` `Cron Schedulers` | Containerization, CI/CD pipelines, scheduled task execution, and Git version control. |
-| **APIs, Webhooks & Bots** | `WhatsApp Cloud API` `Telegram Bot API` `Binance API` `REST Webhooks` | Event-driven webhook processing, automated chat routing engines, and crypto market data pipelines. |
+| **Cybersecurity & Systems** | ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Network Security](https://img.shields.io/badge/Network-Auditing_&_Defense-red?style=flat-square) ![Cloud Security](https://img.shields.io/badge/Microsoft_Azure-Cloud_Security-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) | Linux environment hardening, terminal system administration, network auditing, and Azure security configuration monitoring. |
+| **AI & Applied LLMs** | ![Google AI Studio](https://img.shields.io/badge/Google-AI_Studio-4285F4?style=flat-square&logo=google&logoColor=white) ![Groq](https://img.shields.io/badge/Groq-Fast_Inference-F55036?style=flat-square&logo=groq&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-Local_LLMs-000000?style=flat-square&logo=ollama&logoColor=white) ![Prompt Engineering](https://img.shields.io/badge/Prompt-Engineering-8A2BE2?style=flat-square) ![AI Agents](https://img.shields.io/badge/Agents-Autonomous_Workflows-00A67E?style=flat-square) | Fast LPU inference via Groq, local model orchestration with Ollama, structured JSON output extraction, and autonomous agent routing. |
+| **Backend & Web Development** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Three.js](https://img.shields.io/badge/Three.js-3D_Web-black?style=flat-square&logo=three.js&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) | High-performance asynchronous REST microservices, interactive 3D WebGL renderers, and offline-first LocalStorage architectures. |
+| **Languages & Core Data** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC292B?style=flat-square&logo=microsoft-sql-server&logoColor=white) | Automated scripting pipelines, terminal automations, database querying/governance, and foundational low-level computing. |
+| **DevOps & Automation** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI%2FCD-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) | Containerized app isolation, automated cron-scheduled execution pipelines, and collaborative Git version control. |
+| **APIs, Webhooks & Bots** | ![WhatsApp Cloud API](https://img.shields.io/badge/WhatsApp-Cloud_API-25D366?style=flat-square&logo=whatsapp&logoColor=white) ![Telegram API](https://img.shields.io/badge/Telegram-Bot_API-24A1DE?style=flat-square&logo=telegram&logoColor=white) ![Binance API](https://img.shields.io/badge/Binance-API_Automation-F0B90B?style=flat-square&logo=binance&logoColor=black) ![REST APIs](https://img.shields.io/badge/REST_APIs-Webhooks-0078D4?style=flat-square) | Event-driven webhook processing, automated customer chat routing engines, and real-time market data streaming pipelines. |
 
 ---
 
