@@ -47,7 +47,7 @@
   
 * 🌟 **Leadership & Community:** **Microsoft Learn Student Ambassador** (Community Influencer Track).
   
-* 🎯 **Core Security Domains:** Penetration Testing, Network Defense & Auditing, and Cloud Security Monitoring across **Kali Linux & Azure**[cite: 1, 2].
+* 🎯 **Core Security Domains:** Penetration Testing, Network Defense & Auditing, and Cloud Security Monitoring across **Kali Linux & Azure**.
   
 * ⚙️ **Engineering & Shipped Systems:** Building and deploying autonomous AI workflow engines (`LocalBiz AI`, `BrandPulse AI`), automated cloud security monitors (`SecOps-AI`), and offline-first application architectures (`RetailFlow-POS`) using **Python, FastAPI, Docker, and Bash**.
   
@@ -134,18 +134,27 @@
   <table border="0">
     <tr>
       <td>
-        <img height="165em" src="https://github-readme-stats.shion.dev/api?username=umairs759&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF66&icon_color=00FF66" alt="GitHub Stats" />
+        <img height="165em" src="https://github-readme-stats.shion.dev/api?username=umairs759&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF66&icon_color=00FF66&text_color=FFFFFF" alt="Umair's GitHub Stats" />
       </td>
       <td>
-        <img height="165em" src="https://streak-stats.demolab.com/?user=umairs759&theme=dark&hide_border=true&background=0D1117&ring=00FF66&fire=00FF66&currStreakLabel=00FF66" alt="GitHub Streak" />
+        <img height="165em" src="https://streak-stats.demolab.com/?user=umairs759&theme=dark&hide_border=true&background=0D1117&ring=00FF66&fire=00FF66&currStreakLabel=00FF66&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="Umair's Streak" />
       </td>
     </tr>
   </table>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=umairs759&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF66" alt="Top Languages" />
+
+  <!-- Compact Top Languages Card -->
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=umairs759&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF66&text_color=FFFFFF" alt="Top Languages" />
 </div>
 
 ---
 
-<div align="center">
-  <sub>Open to collaborations in Security Auditing, Python Automation, and AI-driven builds. Reach out via <a href="mailto:umairghaffar759@gmail.com">Email</a> or connect on <a href="https://linkedin.com/in/umairs759">LinkedIn</a>.</sub>
-</div>
+### ⚡ Let's Connect & Collaborate
+
+```bash
+$ curl -X POST https://umairs759/api/collaborate \
+  -H "Content-Type: application/json" \
+  -d '{
+    "status": "Available for Security Auditing & Applied AI Automation",
+    "roles": ["Cybersecurity Intern", "Backend / Automation Engineer"],
+    "response_time": "< 24 hours"
+  }'
