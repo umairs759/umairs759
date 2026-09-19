@@ -1,41 +1,91 @@
 <div align="center">
 
-  <!-- Cyber Terminal Dynamic Typing Header -->
+  <!-- Dynamic Typing Header -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1400&color=00FF66&background=0D1117&center=true&vCenter=true&width=760&height=70&lines=%E2%96%B6+Muhammad+Umair+%7C+Cyber+Security+%26+Security+Automation;%E2%96%B6+Offensive+Defense+%E2%80%A2+Network+Auditing+%E2%80%A2+Azure+Cloud+Security;%E2%96%B6+Building+Autonomous+AI+Agents+%26+Backend+Pipelines;%E2%96%B6+Microsoft+Learn+Student+Ambassador+%7C+Python+%E2%80%A2+Docker+%E2%80%A2+Bash" alt="Terminal Typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1400&color=00FF66&background=0D1117&center=true&vCenter=true&width=760&height=60&lines=Muhammad+Umair+%7C+Cyber+Security+%26+AI+Automation;Python+%2B+FastAPI+Developer+%7C+Full-Stack+Web+Builder;Penetration+Testing+%E2%80%A2+Cloud+Security+%E2%80%A2+Agentic+AI;Microsoft+Learn+Student+Ambassador" alt="Typing Header" />
   </a>
 
-  <br/>
-
-  <!-- Primary Authority Badges (High-Contrast Large Pills) -->
-  <p align="center">
-    <img src="https://img.shields.io/badge/Security-Penetration_Testing_%26_Forensics-00FF66?style=for-the-badge&logo=kalilinux&logoColor=black" alt="Security Domain" />
-    <img src="https://img.shields.io/badge/Cloud-Azure_Security_Monitoring-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Cloud Security" />
-    <img src="https://img.shields.io/badge/Ambassador-Microsoft_MLSA-0A66C2?style=for-the-badge&logo=microsoft&logoColor=white" alt="MLSA Track" />
-    <img src="https://img.shields.io/badge/Academics-BS_Cyber_Security_%40_UCP-white?style=for-the-badge&logo=target&logoColor=black" alt="Academics" />
+  <p>
+    <b>BS Cyber Security student, freelance Python/AI developer, and web designer based in Lahore, Pakistan.</b><br/>
+    <sub>Building production-ready AI agents, security tooling, and full-stack web products.</sub>
   </p>
 
-  <!-- Technical Telemetry & Environment Specs -->
   <p align="center">
-    <img src="https://img.shields.io/badge/System-Kali_Linux_%7C_Arch-181717?style=flat-square&logo=linux&logoColor=FCC624" alt="OS" />
-    <img src="https://img.shields.io/badge/Engineering-Python_%7C_FastAPI_%7C_Docker-181717?style=flat-square&logo=python&logoColor=white" alt="Stack" />
-    <img src="https://img.shields.io/badge/AI_Pipelines-Agentic_Workflows_%26_LLMs-8A2BE2?style=flat-square&logo=openai&logoColor=white" alt="AI Systems" />
-    <img src="https://img.shields.io/badge/Location-Lahore%2C_PK-181717?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
+    <a href="https://umairs759.github.io/Muhammad-Umair-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-101418?style=for-the-badge&logo=googlechrome&logoColor=00FF66" alt="Portfolio" /></a>
+    <a href="https://www.linkedin.com/in/umairs759"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:umairghaffar759@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://github.com/umairs759"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   </p>
 
-  <!-- Action Center / Connect Hub -->
-  <p align="center">
-    <a href="mailto:umairghaffar759@gmail.com">
-      <img src="https://img.shields.io/badge/Direct_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-      <img src="https://img.shields.io/badge/LinkedIn_Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://github.com/umairs759">
-      <img src="https://img.shields.io/badge/GitHub_Workspace-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-  </p>
+</div>
 
+---
+
+### 👋 About Me
+
+- 🎓 **BS Cyber Security** student at University of Central Punjab (UCP), Lahore — expected 2030.
+- 🌟 **Microsoft Learn Student Ambassador** (Community Influencer Track).
+- 💼 **Freelance work:** AI agent development, full-stack web projects, crypto trading automation, and micro-SaaS products — independently designed, built, and shipped.
+- 🛡️ **Security focus:** Penetration testing, network defense, and cloud security monitoring across Kali Linux & Azure.
+- ✍️ **Published author** of an AI prompts e-book.
+- 🏆 Grade 2A placement — Alibaba Cloud AI Hackathon | Top 20% Global Rank — International Research Olympiad (IRO).
+
+---
+
+### 🚀 Featured Projects
+
+| Project | What it does | Stack | Link |
+| :--- | :--- | :--- | :--- |
+| **RetailFlow POS** | Offline-first billing & inventory dashboard for retail stores — barcode scanning, digital khata, thermal receipt printing, WhatsApp receipts | `JavaScript` `HTML5` `LocalStorage` | [Repo](https://github.com/umairs759/RetailFlow-POS) |
+| **BrandPulse AI** | Customer review analysis dashboard with dual-engine AI failover (Groq Llama 3.3 → Gemini 2.0) | `Python` `Flask` `Groq` `Gemini` | *add link* |
+| **LensForge AI** | AI portrait enhancement tool with dual-provider fallback architecture | `Next.js` `Replicate API` `Vercel` | *add link* |
+| **Labaik Broast 3D** | Immersive 3D restaurant site — clickable table ordering, live cart, manager dashboard | `Three.js` `JavaScript` | *add link* |
+| **Karobar Pakistan** | Micro-SaaS digital accounting tool for small Pakistani businesses | `Landing Page` `Design System` | *add link* |
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,js,bash,html,css,threejs,fastapi,docker,git,github,githubactions,azure,linux&theme=dark" alt="Tech Stack" />
+</div>
+
+| Domain | Tools |
+| :--- | :--- |
+| **Cybersecurity & Systems** | Kali Linux, Network Auditing & Defense, Microsoft Azure Cloud Security |
+| **AI & Applied LLMs** | Google AI Studio (Gemini), Groq, Ollama (Local LLMs), Prompt Engineering, Agentic Workflows |
+| **Backend & Web** | Python, FastAPI, Three.js, HTML5/CSS3, Firebase |
+| **DevOps & Automation** | Docker, GitHub Actions, Git, Linux Administration |
+| **APIs & Integrations** | WhatsApp Cloud API, Telegram Bot API, Binance API |
+
+---
+
+### 🏅 Credentials & Milestones
+
+- 🔐 Microsoft Applied Skills — Cloud Security & Monitoring Tasks
+- 🌐 Google — Foundations of Cybersecurity
+- 🏢 Deloitte — Cybersecurity Job Simulation
+- 🥈 Alibaba Cloud AI Hackathon — Grade 2A Project Placement
+- 🌍 International Research Olympiad (IRO) — Top 20% Global Rank
+
+---
+
+### 📊 GitHub Activity
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td><img height="165em" src="https://github-readme-stats.shion.dev/api?username=umairs759&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF66&icon_color=00FF66" alt="Umair's GitHub Stats" /></td>
+      <td><img height="165em" src="https://streak-stats.demolab.com/?user=umairs759&theme=dark&hide_border=true&background=0D1117&ring=00FF66&fire=00FF66&currStreakLabel=00FF66" alt="Umair's Streak" /></td>
+    </tr>
+  </table>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=umairs759&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF66" alt="Top Languages" />
+</div>
+
+---
+
+<div align="center">
+  <sub>Open to freelance collaboration — AI automation, security tooling, and full-stack builds. Reach out via <a href="mailto:umairghaffar759@gmail.com">email</a> or <a href="https://www.linkedin.com/in/umairs759">LinkedIn</a>.</sub>
 </div>
 ---
 
