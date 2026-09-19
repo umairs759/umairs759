@@ -156,12 +156,6 @@
 
 ---
 
-<!-- Most Used Languages Card -->
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=umairs759&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF66&text_color=FFFFFF" alt="Top Languages" />
-</div>
-
-<br/>
-
 <!-- ================= 100% RELIABLE CYBER ANIMATION ================= -->
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -188,4 +182,3 @@ curl -X POST [https://umairs759.dev/api/v1/collaborate](https://umairs759.dev/ap
     "response_time": "< 24 Hours",
     "status": "Ready to Deploy"
   }'
-...
