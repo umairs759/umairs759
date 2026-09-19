@@ -7,24 +7,15 @@
 
   <br/>
 
-  <!-- Primary Authority Credentials -->
+  <!-- Primary Identity Badges (Domain & Core Status) -->
   <p align="center">
-    <img src="https://img.shields.io/badge/Security-Penetration_Testing_%26_Auditing-00FF66?style=for-the-badge&logo=kalilinux&logoColor=black" alt="Security Domain" />
-    <img src="https://img.shields.io/badge/Cloud-Azure_Defense_%26_Monitoring-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Cloud Security" />
-    <img src="https://img.shields.io/badge/Community-Microsoft_Ambassador-0A66C2?style=for-the-badge&logo=microsoft&logoColor=white" alt="MLSA" />
-    <img src="https://img.shields.io/badge/Degree-BS_Cyber_Security_%40_UCP-222222?style=for-the-badge&logo=target&logoColor=white" alt="Academics" />
+    <img src="https://img.shields.io/badge/Domain-Penetration_Testing_%26_Cloud_Defense-00FF66?style=for-the-badge&logo=kalilinux&logoColor=black" alt="Security Domain" />
+    <img src="https://img.shields.io/badge/Ambassador-Microsoft_MLSA-0A66C2?style=for-the-badge&logo=microsoft&logoColor=white" alt="MLSA" />
+    <img src="https://img.shields.io/badge/Academics-BS_Cyber_Security_%40_UCP-222222?style=for-the-badge&logo=target&logoColor=white" alt="Academics" />
+    <img src="https://img.shields.io/badge/Location-Lahore%2C_PK-181717?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
   </p>
 
-  <!-- Technical Telemetry Strip -->
-  <p align="center">
-    <img src="https://img.shields.io/badge/Environment-Kali_Linux_%7C_Unix-181717?style=flat-square&logo=linux&logoColor=FCC624" alt="OS" />
-    <img src="https://img.shields.io/badge/Stack-Python_%7C_FastAPI_%7C_Docker_%7C_Bash-181717?style=flat-square&logo=python&logoColor=white" alt="Stack" />
-    <img src="https://img.shields.io/badge/AI_Engines-Groq_%7C_Gemini_%7C_Agents-8A2BE2?style=flat-square&logo=openai&logoColor=white" alt="AI Workflows" />
-    <img src="https://img.shields.io/badge/Recognition-Top_20%25_Global_(IRO)-FFD700?style=flat-square&logo=adguard&logoColor=black" alt="Honor" />
-    <img src="https://img.shields.io/badge/Location-Lahore%2C_PK-181717?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
-  </p>
-
-  <!-- Command Center / Portfolio & Connect -->
+  <!-- Command Center / Live Links Hub -->
   <p align="center">
     <a href="https://umairs759.github.io/Muhammad-Umair-Portfolio/" target="_blank">
       <img src="https://img.shields.io/badge/Live_Portfolio-Website-00FF66?style=for-the-badge&logo=firefoxbrowser&logoColor=black" alt="Live Portfolio" />
@@ -40,9 +31,9 @@
     </a>
   </p>
 
-  <!-- Status & Views Tracker -->
+  <!-- Live Status & Telemetry Tracker -->
   <p align="center">
-    <img src="https://img.shields.io/badge/System_Status-Active_%26_Building-00FF66?style=flat-square" alt="Status" />
+    <img src="https://img.shields.io/badge/Status-Active_%26_Building-00FF66?style=flat-square" alt="Status" />
     <img src="https://komarev.com/ghpvc/?username=umairs759&label=Traffic_Telemetry&color=0e75b6&style=flat-square" alt="Traffic Telemetry" />
   </p>
 
