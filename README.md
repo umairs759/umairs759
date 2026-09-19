@@ -1,23 +1,42 @@
 <div align="center">
 
-  <!-- Dynamic Typing Hero Header -->
+  <!-- Cyber Terminal Dynamic Typing Header -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF66&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Muhammad+Umair+%F0%9F%91%8B;BS+Cyber+Security+%40+UCP+%F0%9F%9B%A1%EF%B8%8F;Microsoft+Learn+Student+Ambassador+%E2%AD%90;Network+Auditing+%26+Cloud+Defense;Python+%7C+FastAPI+%7C+Docker+%7C+Bash" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1400&color=00FF66&background=0D1117&center=true&vCenter=true&width=760&height=70&lines=%E2%96%B6+Muhammad+Umair+%7C+Cyber+Security+%26+Security+Automation;%E2%96%B6+Offensive+Defense+%E2%80%A2+Network+Auditing+%E2%80%A2+Azure+Cloud+Security;%E2%96%B6+Building+Autonomous+AI+Agents+%26+Backend+Pipelines;%E2%96%B6+Microsoft+Learn+Student+Ambassador+%7C+Python+%E2%80%A2+Docker+%E2%80%A2+Bash" alt="Terminal Typing" />
   </a>
 
+  <br/>
+
+  <!-- Primary Authority Badges (High-Contrast Large Pills) -->
   <p align="center">
-    <strong>Penetration Testing | Cloud Security Monitoring | Applied Automation</strong>
+    <img src="https://img.shields.io/badge/Security-Penetration_Testing_%26_Forensics-00FF66?style=for-the-badge&logo=kalilinux&logoColor=black" alt="Security Domain" />
+    <img src="https://img.shields.io/badge/Cloud-Azure_Security_Monitoring-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Cloud Security" />
+    <img src="https://img.shields.io/badge/Ambassador-Microsoft_MLSA-0A66C2?style=for-the-badge&logo=microsoft&logoColor=white" alt="MLSA Track" />
+    <img src="https://img.shields.io/badge/Academics-BS_Cyber_Security_%40_UCP-white?style=for-the-badge&logo=target&logoColor=black" alt="Academics" />
   </p>
 
-  <!-- Connect Badges -->
+  <!-- Technical Telemetry & Environment Specs -->
   <p align="center">
-    <a href="mailto:umairghaffar759@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://github.com/umairs759"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+    <img src="https://img.shields.io/badge/System-Kali_Linux_%7C_Arch-181717?style=flat-square&logo=linux&logoColor=FCC624" alt="OS" />
+    <img src="https://img.shields.io/badge/Engineering-Python_%7C_FastAPI_%7C_Docker-181717?style=flat-square&logo=python&logoColor=white" alt="Stack" />
+    <img src="https://img.shields.io/badge/AI_Pipelines-Agentic_Workflows_%26_LLMs-8A2BE2?style=flat-square&logo=openai&logoColor=white" alt="AI Systems" />
+    <img src="https://img.shields.io/badge/Location-Lahore%2C_PK-181717?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
+  </p>
+
+  <!-- Action Center / Connect Hub -->
+  <p align="center">
+    <a href="mailto:umairghaffar759@gmail.com">
+      <img src="https://img.shields.io/badge/Direct_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+      <img src="https://img.shields.io/badge/LinkedIn_Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://github.com/umairs759">
+      <img src="https://img.shields.io/badge/GitHub_Workspace-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
   </p>
 
 </div>
-
 ---
 
 ### 🛡️ About Me
