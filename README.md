@@ -1,21 +1,25 @@
 <div align="center">
 
-  <!-- Cyber Terminal Dynamic Typing Header -->
+  <!-- Cyber Terminal Dynamic Typing Header (Precise & Value-Driven) -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00FF66&background=0D1117&center=true&vCenter=true&width=650&height=60&lines=Hi+there%2C+I'm+Muhammad+Umair+%F0%9F%91%8B;BS+Cyber+Security+Student+%40+UCP;Microsoft+Learn+Student+Ambassador;Python+%2B+AI+Automation+%7C+Full-Stack+Builder" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1200&color=00FF66&background=0D1117&center=true&vCenter=true&width=700&height=60&lines=%F0%9F%91%8B+Hi,+I'm+Muhammad+Umair;BS+Cyber+Security+Student+%40+UCP;Microsoft+Learn+Student+Ambassador;Security+Automation+%7C+AI+Agents+%7C+Python" alt="Typing SVG" />
   </a>
 
   <br/>
 
-  <!-- Core Roles & Status -->
+  <!-- Core Roles & Status (Neat Flat Tags with High-Impact Status) -->
   <p align="center">
     <img src="https://img.shields.io/badge/Focus-Penetration_Testing_%26_Cloud_Security-00FF66?style=flat-square&logo=kalilinux&logoColor=black" alt="Focus" />
     <img src="https://img.shields.io/badge/Role-Microsoft_Learn_Student_Ambassador-0A66C2?style=flat-square&logo=microsoft&logoColor=white" alt="MLSA" />
-    <img src="https://img.shields.io/badge/Education-BS_Cyber_Security_%40_UCP-white?style=flat-square&logo=googlescholar&logoColor=black" alt="Education" />
-    <img src="https://img.shields.io/badge/Based_in-Lahore%2C_Pakistan-181717?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
+    <img src="https://img.shields.io/badge/Education-BS_Cyber_Security_%40_UCP-white?style=flat-square&logo=target&logoColor=black" alt="Education" />
   </p>
 
-  <!-- Action Center / Connect Hub -->
+  <!-- Status Badge (Make it POP) -->
+  <p align="center">
+    <img src="https://img.shields.io/badge/STATUS-OPEN_TO_INTERNSHIPS_%26_COLLABORATIONS-FFA500?style=for-the-badge&logo=briefcase&logoColor=white" alt="Open to Work" />
+  </p>
+
+  <!-- Action Center / Connect Hub (Minimal & Standardized) -->
   <p align="center">
     <a href="mailto:umairghaffar759@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -30,10 +34,11 @@
       <img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" />
     </a>
   </p>
-
-  <!-- Profile Views Counter -->
+  
+  <!-- Metrics & Analytics (Professional Touch) -->
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=umairs759&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+    <img src="https://img.shields.io/github/followers/umairs759?label=Followers&style=flat-square&color=00FF66&logo=github" alt="Followers" />
   </p>
 
 </div>
