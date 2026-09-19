@@ -53,13 +53,20 @@
 ### 🛡️ About Me
 
 * 🎓 **Academics:** Pursuing **BS Cyber Security** at University of Central Punjab (UCP), Lahore.
-* 🌟 **Leadership:** **Microsoft Learn Student Ambassador** (Community Influencer Track).
-* 💼 **Independent Builds & Freelance:** Designing and shipping autonomous AI agents, backend microservices, crypto trading automations, and offline-first SaaS products.
-* 🎯 **Security Core:** Penetration testing, network defense & auditing, and cloud security monitoring across **Kali Linux & Azure**.
-* ✍️ **Published Author:** Author of an applied AI prompts handbook focused on practical workflow automation.
-* 🏆 **Competitive Milestones:**
-  * **Grade 2A Placement** — Alibaba Cloud AI Hackathon Pakistan
+  
+* 🌟 **Leadership & Community:** **Microsoft Learn Student Ambassador** (Community Influencer Track).
+  
+* 🎯 **Core Security Domains:** Penetration Testing, Network Defense & Auditing, and Cloud Security Monitoring across **Kali Linux & Azure**[cite: 1, 2].
+  
+* ⚙️ **Engineering & Shipped Systems:** Building and deploying autonomous AI workflow engines (`LocalBiz AI`, `BrandPulse AI`), automated cloud security monitors (`SecOps-AI`), and offline-first application architectures (`RetailFlow-POS`) using **Python, FastAPI, Docker, and Bash**.
+  
+* 🏆 **Verified Milestones:**
+  
+  * **Grade 2A Project Placement** — Alibaba Cloud AI Hackathon Pakistan
+    
   * **Top 20% Global Rank** — International Research Olympiad (IRO)
+    
+* 💡 **Current Focus:** Threat detection telemetry, terminal automation scripts, and LLM-driven security triage pipelines.
 
 ---
 
