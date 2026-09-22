@@ -157,7 +157,7 @@
 <!-- ================= 100% RELIABLE CYBER ANIMATION ================= -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&pause=1000&color=00FF66&background=0D1117&center=true&vCenter=true&width=680&height=55&lines=%E2%9A%A1+Handshake+Protocol+Initiated...;%F0%9F%9B%A1%EF%B8%8F+PORT+443%3A+Listening+for+Opportunities+%26+Collaborations;%E2%96%B6+Establish+Direct+Connection+Below+%E2%86%93" alt="Handshake Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&pause=1000&color=00FF66&background=0D1117&center=true&vCenter=true&width=450&height=50&lines=%E2%9A%A1+Handshake+Protocol+Initiated...;%F0%9F%9B%A1%EF%B8%8F+PORT+443%3A+Listening+for+Opportunities;%E2%96%B6+Establish+Direct+Connection+Below+%E2%86%93" alt="Handshake Animation" style="max-width: 100%;" />
   </a>
 </div>
 
