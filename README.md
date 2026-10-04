@@ -156,19 +156,7 @@
 
 <br/>
 
-<!-- Activity & Productivity Cards (Working Perfectly) -->
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td align="center" valign="middle">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=umairs759&theme=github_dark" height="195" alt="Profile Details"/>
-    </td>
-    <td align="center" valign="middle">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=umairs759&theme=github_dark&utcOffset=5" height="195" alt="Productive Time"/>
-    </td>
-  </tr>
-</table>
 
-<br/>
 
 <!-- Contribution Snake Animation -->
 <div align="center">
@@ -176,11 +164,6 @@
 </div>
 
 <br/>
-
-<!-- Stable Working Profile Views Counter -->
-<div align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=umairs759&label=PROFILE%20VIEWS&labelColor=0d1117&countColor=00ff66&style=flat-square" alt="Profile Views"/>
-</div>
 
 ---
 
