@@ -1,4 +1,4 @@
-name: Generate Snake
+name: Generate Snake & 3D Contrib
 
 on:
   schedule:
@@ -14,13 +14,28 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
+
+      # 1) Neon snake (custom colors + bigger rounded cells)
       - uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
+            dist/snake-neon.svg?color_snake=%2300e5ff&color_dots=%23161b22,%230e4429,%23006d32,%2326a641,%2300ff66&sizeDotBorderRadius=3
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
+      # 2) 3D isometric contribution graph
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      - name: Collect files
+        run: |
+          mkdir -p dist
+          cp profile-3d-contrib/*.svg dist/
+
+      # 3) Publish everything to the output branch
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
