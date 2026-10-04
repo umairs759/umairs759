@@ -156,23 +156,23 @@
 
 <br/>
 
-<!-- Trophy Vault -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=umairs759&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
-</div>
-
-<br/>
-
-<!-- Activity Graph -->
+<!-- Activity Graph (Stable URL Parameters) -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=umairs759&theme=react-dark&bg_color=0D1117&color=00FF66&line=00FF66&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" width="95%"/>
 </div>
 
 <br/>
 
-<!-- Contribution Snake -->
+<!-- Contribution Snake (Action run hone ke baad turant load ho jayega) -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/umairs759/umairs759/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="95%"/>
+</div>
+
+<br/>
+
+<!-- 100% Stable Working Profile Views Counter -->
+<div align="center">
+  <img src="https://api.visitorbadge.io/api/visitors?path=umairs759&label=PROFILE%20VIEWS&labelColor=0d1117&countColor=00ff66&style=flat-square" alt="Profile Views"/>
 </div>
 
 ---
