@@ -99,105 +99,58 @@
 | **Cybersecurity Job Simulation** | ![Deloitte](https://img.shields.io/badge/Deloitte_Job_Simulation-86BC25?style=flat-square&logo=deloitte&logoColor=white) | Hands-on network packet inspection, security triage analysis, log investigation, and threat report generation. | `` `Completed` 🟢 `` |
 | **SQL Data Querying & Governance** | ![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-0078D4?style=flat-square&logo=microsoft&logoColor=white) | Relational database objects, data querying integrity, role-based access control (RBAC), and security governance. | `` `Ongoing` ⏳ `` |
 ---
-
-<!-- ================= 🚀 CYBER COMMAND CENTER ================= -->
+<!-- ================= CYBER COLLABORATION & ACTION HUB ================= -->
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Cyber.gif" width="440px" alt="Cyber Security Animation"/>
+  <!-- Sleek Cyber Visual Banner -->
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Cyber.gif" width="380" alt="Cyber Security Visual" style="border-radius: 8px; filter: drop-shadow(0 0 12px rgba(56, 189, 248, 0.25));" />
+  <br/><br/>
+
+  <!-- Dynamic Protocol Terminal -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&pause=1200&color=38BDF8&background=0D111700&center=true&vCenter=true&width=620&height=50&lines=%E2%9D%AF+PORT+443%3A+Handshake+Protocol+Initiated...;%E2%9D%AF+Status%3A+Open+to+Cybersecurity+%26+Cloud+Roles;%E2%9D%AF+SLA%3A+Response+Time+%3C+24+Hours" alt="Terminal Protocol" />
+  </a>
+  <br/>
+
+  <!-- High-Impact Direct Action Buttons -->
+  <p>
+    <a href="https://umairs759.github.io/Muhammad-Umair-Portfolio/" target="_blank">
+      <img src="https://img.shields.io/badge/LIVE_PORTFOLIO-0F172A?style=for-the-badge&logo=firefoxbrowser&logoColor=38BDF8&labelColor=090D16" alt="Portfolio" />
+    </a>
+    &nbsp;
+    <a href="https://linkedin.com/in/umairs759" target="_blank">
+      <img src="https://img.shields.io/badge/LINKEDIN-0F172A?style=for-the-badge&logo=linkedin&logoColor=38BDF8&labelColor=090D16" alt="LinkedIn" />
+    </a>
+    &nbsp;
+    <a href="mailto:umairghaffar759@gmail.com">
+      <img src="https://img.shields.io/badge/DIRECT_EMAIL-0F172A?style=for-the-badge&logo=gmail&logoColor=38BDF8&labelColor=090D16" alt="Email" />
+    </a>
+  </p>
+
+</div>
+
+<br/>
+
+<!-- ================= GITHUB REAL-TIME TELEMETRY ================= -->
+<div align="center">
+
+  <h3>⚡ GitHub Activity & Real-Time Telemetry</h3>
+
+  <!-- 1. Real-time Streak Stats (Current Streak, Longest Streak, Total Days) -->
+  <a href="https://github.com/umairs759">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=umairs759&theme=tokyonight&background=0D1117&border=1E293B&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=38BDF8&dates=94A3B8" alt="GitHub Streak Tracker" width="92%" style="border-radius: 8px;" />
+  </a>
 
   <br/><br/>
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&pause=1000&color=00FF66&background=0D1117&center=true&vCenter=true&width=520&height=50&lines=%E2%9A%A1+Initializing+Secure+Handshake...;%F0%9F%9B%A1%EF%B8%8F+Port+443+%3A+Listening+for+Opportunities;%E2%96%B6+Establishing+Direct+Connection+Below+%E2%86%93" alt="Handshake Animation"/>
+  <!-- 2. Dual Side-by-Side Cards: Overall Metrics + Most Used Languages -->
+  <a href="https://github.com/umairs759">
+    <img src="https://github-readme-stats.vercel.app/api?username=umairs759&show_icons=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8&icon_color=38BDF8&border_color=1E293B&border_radius=8" alt="GitHub Performance Stats" width="46%" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/umairs759">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umairs759&layout=compact&langs_count=6&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8&border_color=1E293B&border_radius=8" alt="Top Languages" width="46%" />
   </a>
 
 </div>
-
----
-
-<!-- ================= HEADER ================= -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Cyber.gif" width="420px" alt="Cyber Security Visual Animation" />
-  <br/><br/>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1000&color=00FF66&background=0D1117&center=true&vCenter=true&width=560&height=50&lines=%E2%9A%A1+Handshake+Protocol+Initiated...;%F0%9F%9B%A1%EF%B8%8F+PORT+443%3A+Listening+for+Opportunities;%E2%96%B6+Establish+Direct+Connection+Below+%E2%86%93" alt="Typing animation" />
-  </a>
-</div>
-
----
-
-## ⚡ Let's Connect & Collaborate
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&pause=1000&color=00FF66&background=0D1117&center=true&vCenter=true&width=700&height=50&lines=%E2%9A%A1+Open+to+Cybersecurity+Roles+%26+Security+Automation;%F0%9F%9B%A1%EF%B8%8F+Available+for+Collaboration+%26+Freelance+Projects;%E2%9C%85+Response+Time%3A+Under+24+Hours" alt="Availability" />
-</div>
-
-<br/>
-
-<table align="center" border="0">
-  <tr>
-    <td align="center" width="220">
-      <b>🎯 Domains</b><br/><br/>
-      Penetration Testing<br/>
-      Azure Cloud Defense<br/>
-      Python & Agentic AI
-    </td>
-    <td align="center" width="220">
-      <b>📡 Status</b><br/><br/>
-      <img src="https://img.shields.io/badge/Status-Ready_to_Deploy-00FF66?style=flat-square" alt="Status"/><br/>
-      <img src="https://img.shields.io/badge/Response-%3C24_Hours-0078D4?style=flat-square" alt="Response"/>
-    </td>
-    <td align="center" width="220">
-      <b>🤝 Let's Talk</b><br/><br/>
-      <a href="mailto:umairghaffar759@gmail.com">Email Me</a><br/>
-      <a href="https://linkedin.com/in/umairs759">Message on LinkedIn</a>
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <a href="mailto:umairghaffar759@gmail.com"><img src="https://img.shields.io/badge/📩_Get_In_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://linkedin.com/in/umairs759" target="_blank"><img src="https://img.shields.io/badge/🤝_Connect_on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://umairs759.github.io/Muhammad-Umair-Portfolio/" target="_blank"><img src="https://img.shields.io/badge/🌐_View-Portfolio-00FF66?style=for-the-badge&logo=firefoxbrowser&logoColor=black" alt="Portfolio"/></a>
-</p>
-
----
-
-## 🛠️ Tech Arsenal
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,js,html,css,react,vite,nodejs,azure,git,github,linux,vercel&theme=dark" alt="Tech stack" />
-</p>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=umairs759&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&bg_color=0D1117&title_color=00FF66&icon_color=00FF66&text_color=C9D1D9&border_color=30363D&border_radius=10&hide_rank=false" height="190" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umairs759&layout=compact&langs_count=8&hide_border=false&bg_color=0D1117&title_color=00FF66&text_color=C9D1D9&border_color=30363D&border_radius=10" height="190" alt="Top Languages" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=umairs759&theme=dark&background=0D1117&border=30363D&stroke=30363D&ring=00FF66&fire=00FF66&currStreakNum=00FF66&currStreakLabel=00FF66&sideNums=C9D1D9&sideLabels=8B949E&dates=8B949E&border_radius=10" alt="GitHub Streak" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=umairs759&bg_color=0D1117&color=00FF66&line=00FF66&point=FFFFFF&area=true&area_color=00FF66&hide_border=true&title_color=00FF66" alt="Contribution Graph" width="95%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://img.shields.io/github/followers/umairs759?label=Followers&style=for-the-badge&color=00FF66&labelColor=0D1117" alt="Followers" />
-  <img src="https://komarev.com/ghpvc/?username=umairs759&label=Profile+Views&style=for-the-badge&color=00FF66&labelColor=0D1117" alt="Profile Views" />
-</div>
-
----
-
-<p align="center"><i>"Secure by design. Automated by default."</i> 🛡️</p>
 ---
