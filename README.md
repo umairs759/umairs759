@@ -210,9 +210,8 @@
 </p>
 
 <br/>
-
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=umairs759&label=Profile%20Views&color=00FF66&style=flat-square" alt="Profile Views"/>
+  <img src="https://api.visitorbadge.io/api/visitors?path=umairs759&label=PROFILE%20VIEWS&labelColor=0d1117&countColor=00ff66&style=flat-square" alt="Profile Views"/>
 </div>
 
 ---
