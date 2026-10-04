@@ -66,12 +66,11 @@
 - ⚡ **Current Focus:** Threat telemetry parsers, terminal automation scripts, and LLM-assisted SOC triage
 ---
 
-### 💻 Tech Stack & Engineering
+### ⚡ Tech Stack & Engineering
   <div align="center">
 
   <h2>💻 Tech Stack & Engineering</h2>
   
-  <h3>⚡ Technical Arsenal</h3>
   
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,bash,python,fastapi,docker,azure,githubactions,git,c,js,threejs,postman&perline=6&theme=dark" alt="Technical Stack" />
