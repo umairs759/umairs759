@@ -114,6 +114,21 @@
 
 ---
 
+<!-- ================= 🚀 CYBER COMMAND CENTER ================= -->
+<div align="center">
+
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Cyber.gif" width="440px" alt="Cyber Security Animation"/>
+
+  <br/><br/>
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&pause=1000&color=00FF66&background=0D1117&center=true&vCenter=true&width=520&height=50&lines=%E2%9A%A1+Initializing+Secure+Handshake...;%F0%9F%9B%A1%EF%B8%8F+Port+443+%3A+Listening+for+Opportunities;%E2%96%B6+Establishing+Direct+Connection+Below+%E2%86%93" alt="Handshake Animation"/>
+  </a>
+
+</div>
+
+---
+
 <!-- ================= 📊 GITHUB INTELLIGENCE DASHBOARD ================= -->
 <h2 align="center">📊 GitHub Intelligence Dashboard</h2>
 
@@ -125,15 +140,15 @@
 
 <!-- Total Commits + Streak Stats -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=umairs759&show_icons=true&theme=chartreuse-dark&bg_color=0D1117&title_color=00FF66&icon_color=00FF66&text_color=C9D1D9&border_color=00FF66&include_all_commits=true&count_private=true&hide_border=false&rank_icon=github" alt="GitHub Stats - Total Commits, PRs, Issues"/>
-  <img height="180em" src="https://streak-stats.demolab.com?user=umairs759&theme=dark&background=0D1117&stroke=00FF66&ring=00FF66&fire=00FF66&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FF66&sideLabels=C9D1D9&dates=C9D1D9&border=00FF66&hide_border=false" alt="GitHub Streak - Current, Longest, Total Contributions"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=umairs759&show_icons=true&theme=dark&bg_color=0D1117&title_color=00FF66&icon_color=00FF66&text_color=C9D1D9&border_color=00FF66&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats - Total Commits"/>
+  <img height="180em" src="https://streak-stats.demolab.com?user=umairs759&theme=dark&background=0D1117&stroke=00FF66&ring=00FF66&fire=00FF66&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FF66&sideLabels=C9D1D9&dates=C9D1D9&border=00FF66&hide_border=false" alt="GitHub Streak - Current, Longest"/>
 </div>
 
 <br/>
 
 <!-- Language Intelligence -->
 <div align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umairs759&layout=donut-vertical&theme=chartreuse-dark&bg_color=0D1117&title_color=00FF66&text_color=C9D1D9&border_color=00FF66&langs_count=8&hide_border=false" alt="Top Languages - Most Used"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umairs759&layout=donut-vertical&theme=dark&bg_color=0D1117&title_color=00FF66&text_color=C9D1D9&border_color=00FF66&langs_count=8&hide_border=false" alt="Top Languages - Most Used"/>
   <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=umairs759&theme=github_dark" alt="Most Commit Language"/>
 </div>
 
@@ -221,4 +236,5 @@
   <img src="https://komarev.com/ghpvc/?username=umairs759&label=Profile%20Views&color=00FF66&style=flat-square" alt="Profile Views"/>
 </div>
 
+---
 ---
