@@ -67,7 +67,7 @@
 ---
 
 ### 💻 Tech Stack & Engineering
-
+  <br/>
   <h3>⚡ Technical Arsenal</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,bash,python,fastapi,docker,azure,githubactions,git,c,js,threejs,postman&perline=6&theme=dark" alt="Technical Stack" />
