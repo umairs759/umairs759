@@ -68,8 +68,6 @@
 
 ### ⚡ Tech Stack & Engineering
   <div align="center">
-
-  <h2>💻 Tech Stack & Engineering</h2>
   
   
   <a href="https://skillicons.dev">
