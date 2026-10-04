@@ -65,77 +65,9 @@
   
 - ⚡ **Current Focus:** Threat telemetry parsers, terminal automation scripts, and LLM-assisted SOC triage
 ---
-<div align="center">
-
-  <!-- Minimalist Dynamic Typing Header -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1500&color=38BDF8&center=true&vCenter=true&width=750&height=60&lines=%3E_+Muhammad+Umair;Cyber+Security+%26+Cloud+Defense;Microsoft+Learn+Student+Ambassador;Python+%E2%80%A2+FastAPI+%E2%80%A2+AI+Workflows" alt="Typing effect" />
-  </a>
-  <br/>
-
-  <!-- Clean Social & Action Buttons -->
-  <p align="center">
-    <a href="https://umairs759.github.io/Muhammad-Umair-Portfolio/" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" />
-    </a>
-    <a href="https://linkedin.com/in/umairs759" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://github.com/umairs759" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-    <a href="mailto:umairghaffar759@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-  </p>
-
-  <!-- Quick Status Badges -->
-  <p align="center">
-    <img src="https://img.shields.io/badge/Focus-Cloud_Security_%26_Pentesting-475569?style=flat-square" alt="Focus" />
-    <img src="https://img.shields.io/badge/Role-MLSA-0078D4?style=flat-square" alt="MLSA" />
-    <img src="https://img.shields.io/badge/Location-Lahore%2C_PK-475569?style=flat-square" alt="Location" />
-    <img src="https://komarev.com/ghpvc/?username=umairs759&label=Views&color=38BDF8&style=flat-square" alt="Views" />
-  </p>
-
-</div>
-
----
 
 ### 💻 Tech Stack & Engineering
 
-<div align="center">
-
-  <!-- Dynamic Terminal Header -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1200&color=38BDF8&background=0D111700&center=true&vCenter=true&width=750&height=60&lines=%E2%9D%AF+whoami+%E2%86%92+Muhammad+Umair;%E2%9D%AF+Focus+%E2%86%92+Cyber+Security+%7C+Network+Defense;%E2%9D%AF+Role+%E2%86%92+Microsoft+Learn+Student+Ambassador;%E2%9D%AF+Stack+%E2%86%92+Linux+%7C+Python+%7C+FastAPI" alt="Cyber Terminal Typing" />
-  </a>
-  <br/>
-
-  <!-- Unified Social & Action Hub -->
-  <p>
-    <a href="https://umairs759.github.io/Muhammad-Umair-Portfolio/" target="_blank">
-      <img src="https://img.shields.io/badge/Live_Portfolio-0F172A?style=for-the-badge&logo=firefoxbrowser&logoColor=38BDF8" alt="Portfolio" />
-    </a>
-    <a href="https://linkedin.com/in/umairs759" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=38BDF8" alt="LinkedIn" />
-    </a>
-    <a href="https://github.com/umairs759" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8" alt="GitHub" />
-    </a>
-    <a href="mailto:umairghaffar759@gmail.com">
-      <img src="https://img.shields.io/badge/Contact-0F172A?style=for-the-badge&logo=gmail&logoColor=38BDF8" alt="Email" />
-    </a>
-  </p>
-
-  <!-- Core Identity & Telemetry (Minimalist) -->
-  <p>
-    <img src="https://img.shields.io/badge/Academics-BS_Cyber_Security_@_UCP-181717?style=flat-square&logo=target&logoColor=38BDF8" alt="Academics" />
-    <img src="https://img.shields.io/badge/Base-Lahore,_PK-181717?style=flat-square&logo=googlemaps&logoColor=38BDF8" alt="Location" />
-    <img src="https://img.shields.io/badge/Status-Building_&_Learning-181717?style=flat-square&logo=statuspage&logoColor=38BDF8" alt="Status" />
-    <img src="https://komarev.com/ghpvc/?username=umairs759&label=Views&color=38BDF8&style=flat-square&labelColor=181717" alt="Profile Views" />
-  </p>
-
-  <br/>
   <h3>⚡ Technical Arsenal</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,bash,python,fastapi,docker,azure,githubactions,git,c,js,threejs,postman&perline=6&theme=dark" alt="Technical Stack" />
