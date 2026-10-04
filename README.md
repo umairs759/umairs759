@@ -40,25 +40,18 @@
 </div>
 
 ---
-
 ### 🛡️ About Me
 
-* 🎓 **Academics:** Pursuing **BS Cyber Security** at University of Central Punjab (UCP), Lahore.
-  
-* 🌟 **Leadership & Community:** **Microsoft Learn Student Ambassador** (Community Influencer Track).
-  
-* 🎯 **Core Security Domains:** Penetration Testing, Network Defense & Auditing, and Cloud Security Monitoring across **Kali Linux & Azure**.
-  
-* ⚙️ **Engineering & Shipped Systems:** Building and deploying autonomous AI workflow engines (`LocalBiz AI`, `BrandPulse AI`), automated cloud security monitors (`SecOps-AI`), and offline-first application architectures (`RetailFlow-POS`) using **Python, FastAPI, Docker, and Bash**.
-  
-* 🏆 **Honors & Recognitions:**
-  
-  * **Grade 2A Project Placement** — Alibaba Cloud AI Hackathon Pakistan
-    
-  * **Top 20% Global Rank** — International Research Olympiad (IRO)
-    
-* 💡 **Current Focus:** Threat detection telemetry, terminal automation scripts, and LLM-driven security triage pipelines.
+> **Cybersecurity Undergrad & Systems Builder** bridging defensive security engineering with autonomous AI workflows.
 
+* 🎓 **Academics & Leadership:** BS Cyber Security at **University of Central Punjab (UCP)** • **Microsoft Learn Student Ambassador**.
+* 🛡️ **Core Security (`Human-Led`):** Penetration testing, active defense containment, and cloud security monitoring across **Kali Linux & Azure**.
+* 🚀 **Shipped Systems & AI Collaboration:**
+  * **`LocalBiz AI` & `BrandPulse AI`** — `[AI-Native Engine]` Built autonomous conversational routing and sentiment engines using FastAPI, Groq LPU inference, and structured LLM outputs.
+  * **`SecOps-AI`** — `[AI-Integrated]` Automated cloud telemetry monitoring and incident triage pipeline.
+  * **`RetailFlow-POS`** — `[AI-Assisted Delivery]` Offline-first client architecture and UI logic built via AI-accelerated pair-programming and rapid prototyping.
+* 🏆 **Recognitions:** **Grade 2A Placement** (Alibaba Cloud AI Hackathon) • **Top 20% Globally** (International Research Olympiad).
+* ⚡ **Current Focus:** Endpoint threat telemetry, terminal automation, and LLM-assisted SOC triage pipelines.
 ---
 ### 🛠️ Tech Stack & Engineering Architecture
 
