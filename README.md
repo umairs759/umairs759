@@ -42,16 +42,22 @@
 ---
 ### 🛡️ About Me
 
-> **Cybersecurity Undergrad & Systems Builder** bridging defensive security engineering with autonomous AI workflows.
+<p align="left">
+  <img src="https://img.shields.io/badge/Focus-Cybersecurity_%26_AI_Eng-10B981?style=flat-square&logo=linux&logoColor=white" alt="Focus" />
+  <img src="https://img.shields.io/badge/Community-Microsoft_Student_Ambassador-0078D4?style=flat-square&logo=microsoft&logoColor=white" alt="MLSA" />
+  <img src="https://img.shields.io/badge/Status-Building_%26_Securing-F59E0B?style=flat-square" alt="Status" />
+</p>
 
-* 🎓 **Academics & Leadership:** BS Cyber Security at **University of Central Punjab (UCP)** • **Microsoft Learn Student Ambassador**.
-* 🛡️ **Core Security (`Human-Led`):** Penetration testing, active defense containment, and cloud security monitoring across **Kali Linux & Azure**.
-* 🚀 **Shipped Systems & AI Collaboration:**
-  * **`LocalBiz AI` & `BrandPulse AI`** — `[AI-Native Engine]` Built autonomous conversational routing and sentiment engines using FastAPI, Groq LPU inference, and structured LLM outputs.
-  * **`SecOps-AI`** — `[AI-Integrated]` Automated cloud telemetry monitoring and incident triage pipeline.
-  * **`RetailFlow-POS`** — `[AI-Assisted Delivery]` Offline-first client architecture and UI logic built via AI-accelerated pair-programming and rapid prototyping.
-* 🏆 **Recognitions:** **Grade 2A Placement** (Alibaba Cloud AI Hackathon) • **Top 20% Globally** (International Research Olympiad).
-* ⚡ **Current Focus:** Endpoint threat telemetry, terminal automation, and LLM-assisted SOC triage pipelines.
+> **Cybersecurity Undergraduate & Systems Builder** working at the intersection of Linux endpoint defense, cloud security telemetry, and autonomous AI microservices.
+
+- 🎓 **Academics & Role:** BS Cyber Security at **University of Central Punjab (UCP)** • **Microsoft Learn Student Ambassador**
+- 🛡️ **Security Core:** Penetration Testing, Active Linux Endpoint Containment, Network Auditing & Azure Security Compliance
+- ⚙️ **Shipped Systems:**
+  - `LocalBiz AI` — Autonomous business conversational agent (*FastAPI + Groq + Docker*)
+  - `auto-incident-responder` — Real-time Linux endpoint telemetry & containment engine
+  - `RetailFlow-POS` — Offline-first local billing & transaction architecture
+- 🏆 **Milestones:** **Grade 2A** @ Alibaba Cloud AI Hackathon • **Top 20% Global Rank** @ International Research Olympiad
+- ⚡ **Current Focus:** Threat telemetry parsers, terminal automation scripts, and LLM-assisted SOC triage
 ---
 ### 🛠️ Tech Stack & Engineering Architecture
 
