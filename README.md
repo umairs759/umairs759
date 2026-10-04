@@ -141,17 +141,26 @@
     </td>
   </tr>
 </table>
-
-<!-- Contribution Snake with 3D Glow Effect -->
+<!-- ================= 🧊 3D ISOMETRIC INTELLIGENCE GRAPH ================= -->
 <div align="center">
-  <img 
-    src="https://raw.githubusercontent.com/umairs759/umairs759/output/github-contribution-grid-snake-dark.svg" 
-    alt="Contribution Snake" 
-    width="100%" 
-    style="filter: drop-shadow(0 0 10px #00FF66) drop-shadow(0 0 20px #00FF66);" 
-  />
+  <h3>🧊 3D Contribution Terrain</h3>
+  <img src="https://raw.githubusercontent.com/umairs759/umairs759/output/profile-green-animate.svg" alt="3D Contribution Graph" width="95%"/>
 </div>
 
+<br/>
+
+<!-- ================= 🐍 NEON CYBER SNAKE ANIMATION ================= -->
+<div align="center">
+  <h3>🐍 Active Defense Snake Stream</h3>
+  <img src="https://raw.githubusercontent.com/umairs759/umairs759/output/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="Cyber Snake Animation" width="95%"/>
+</div>
+
+<br/>
+
+<!-- Stable Profile Views Counter -->
+<div align="center">
+  <img src="https://api.visitorbadge.io/api/visitors?path=umairs759&label=PROFILE%20VIEWS&labelColor=0d1117&countColor=00ff66&style=flat-square" alt="Profile Views"/>
+</div>
 ---
 
 <!-- ================= ⚡ CONNECT & COLLABORATE ================= -->
