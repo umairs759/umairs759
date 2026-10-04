@@ -2,22 +2,32 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */24 * * *"
+    - cron: "0 0 * * *" # Yeh daily midnight (UTC) par apne aap chalega
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # YE LINE SABSE ZAROORI HAI (Push karne ke liye)
+
     steps:
-      - uses: actions/checkout@v3
-      - uses: Platane/snk@v3
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Generate Snake
+        uses: Platane/snk@v3
         with:
           github_user_name: umairs759
           outputs: |
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
+            dist/github-contribution-grid-snake.svg
+
+      - name: Push to Output Branch
+        uses: crazy-max/ghaction-github-pages@v3
         with:
-          target_branch: output
+          target_branch: output # Snake output isi branch mein jayegi
           build_dir: dist
+          commit_message: "Update snake animation [skip ci]"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
