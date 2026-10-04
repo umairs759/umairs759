@@ -1,118 +1,87 @@
 <div align="center">
 
-<!-- ══════════ HERO BANNER ══════════ -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:020617,45:0C4A6E,100:0EA5E9&height=250&section=header&text=MUHAMMAD%20UMAIR&fontSize=54&fontColor=F8FAFC&fontAlignY=38&desc=Cyber%20Security%20%C2%B7%20Penetration%20Testing%20%C2%B7%20AI%20Automation&descSize=17&descColor=BAE6FD&descAlignY=60&animation=fadeIn" alt="Muhammad Umair" width="100%" />
+  <!-- Sleek Cyber Terminal (Self-Contained Dark Console) -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1400&color=38BDF8&background=1E293B&center=true&vCenter=true&width=760&height=60&lines=%24+whoami+%E2%86%92+Muhammad+Umair+%5BCyber+Security+%26+Defense%5D;%24+focus+%E2%86%92+Penetration+Testing+%7C+Linux+Endpoint+Defense;%24+stack+%E2%86%92+Python+%E2%80%A2+FastAPI+%E2%80%A2+Docker+%E2%80%A2+Azure+Security;%24+role+%E2%86%92+Microsoft+Learn+Student+Ambassador" alt="Cyber Console" />
+  </a>
 
-<!-- ══════════ TERMINAL ══════════ -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&pause=1400&color=38BDF8&background=0F172A&center=true&vCenter=true&width=780&height=56&lines=%24+whoami+%E2%86%92+Muhammad+Umair+%7C+Cyber+Security+%26+Defense;%24+recon+--target+%E2%86%92+Penetration+Testing+%7C+Network+Auditing;%24+python3+automate.py+%E2%86%92+Security+Tooling+%26+LLM-Assisted+SOC;%24+role+%E2%86%92+Microsoft+Learn+Student+Ambassador" alt="Terminal" />
-</a>
+  <!-- Primary Action Hub -->
+  <p>
+    <a href="https://umairs759.github.io/Muhammad-Umair-Portfolio/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Portfolio" />
+    </a>
+    <a href="https://linkedin.com/in/umairs759" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:umairghaffar759@gmail.com">
+      <img src="https://img.shields.io/badge/Contact_Me-1E293B?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
+    </a>
+  </p>
 
-<br/><br/>
+  <!-- Technical Context & Credentials -->
+  <p>
+    <img src="https://img.shields.io/badge/Domain-Penetration_Testing_%26_Defense-1E293B?style=flat-square&logo=kalilinux&logoColor=38BDF8" alt="Focus Domain" />
+    <img src="https://img.shields.io/badge/Community-Microsoft_Ambassador-1E293B?style=flat-square&logo=microsoft&logoColor=0078D4" alt="Microsoft Ambassador" />
+    <img src="https://img.shields.io/badge/Academics-BS_Cyber_Security-1E293B?style=flat-square&logo=target&logoColor=F8FAFC" alt="Academics" />
+    <img src="https://img.shields.io/badge/Location-Lahore%2C_PK-1E293B?style=flat-square&logo=googlemaps&logoColor=94A3B8" alt="Location" />
+  </p>
 
-<!-- ══════════ ACTION BUTTONS ══════════ -->
-<a href="https://umairs759.github.io/Muhammad-Umair-Portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-<a href="https://linkedin.com/in/umairs759"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:umairghaffar759@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0F172A?style=for-the-badge&logo=gmail&logoColor=38BDF8" alt="Email" /></a>
-
-<br/>
-
-<!-- ══════════ CREDENTIAL BADGES ══════════ -->
-<img src="https://img.shields.io/badge/DOMAIN-Penetration_Testing_%26_Defense-0F172A?style=flat-square&logo=kalilinux&logoColor=38BDF8&labelColor=1E293B" alt="Domain" />
-<img src="https://img.shields.io/badge/COMMUNITY-Microsoft_Learn_Ambassador-0F172A?style=flat-square&logo=microsoft&logoColor=38BDF8&labelColor=1E293B" alt="Microsoft" />
-<img src="https://img.shields.io/badge/ACADEMICS-BS_Cyber_Security-0F172A?style=flat-square&logo=target&logoColor=38BDF8&labelColor=1E293B" alt="Academics" />
-<img src="https://img.shields.io/badge/BASE-Lahore%2C_PK-0F172A?style=flat-square&logo=googlemaps&logoColor=38BDF8&labelColor=1E293B" alt="Location" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/STATUS-Securing_%26_Building-10B981?style=flat-square&labelColor=1E293B" alt="Status" />
-<img src="https://komarev.com/ghpvc/?username=umairs759&label=PROFILE+VIEWS&color=0EA5E9&style=flat-square&labelColor=1E293B" alt="Views" />
+  <!-- Telemetry & Live Status -->
+  <p>
+    <img src="https://img.shields.io/badge/Status-Securing_%26_Building-0EA5E9?style=flat-square" alt="Status" />
+    <img src="https://komarev.com/ghpvc/?username=umairs759&label=PROFILE_VIEWS&color=0ea5e9&style=flat-square" alt="Traffic Telemetry" />
+  </p>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:0EA5E9,100:0F172A&height=2" width="100%" alt="" />
+---
 
-## 🛡️ About Me
+### 🛡️ About Me
 
-> **Cybersecurity undergraduate & systems builder** working at the intersection of **Linux endpoint defense**, **cloud security telemetry**, and **autonomous AI microservices**.
+<p align="left">
+  <img src="https://img.shields.io/badge/Focus-Cybersecurity_%26_AI_Eng-10B981?style=flat-square&logo=linux&logoColor=white" alt="Focus" />
+  <img src="https://img.shields.io/badge/Community-Microsoft_Student_Ambassador-0078D4?style=flat-square&logo=microsoft&logoColor=white" alt="MLSA" />
+  <img src="https://img.shields.io/badge/Status-Building_%26_Securing-F59E0B?style=flat-square" alt="Status" />
+</p>
 
-<table>
-  <tr>
-    <td width="24%"><b>🎓 Academics</b></td>
-    <td>BS Cyber Security · <b>University of Central Punjab (UCP)</b></td>
-  </tr>
-  <tr>
-    <td><b>🌐 Community</b></td>
-    <td><b>Microsoft Learn Student Ambassador</b></td>
-  </tr>
-  <tr>
-    <td><b>🛡️ Security Core</b></td>
-    <td>Penetration Testing · Active Linux Endpoint Containment · Network Auditing · Azure Security Compliance</td>
-  </tr>
-  <tr>
-    <td><b>⚡ Current Focus</b></td>
-    <td>Threat telemetry parsers · Terminal automation scripts · LLM-assisted SOC triage</td>
-  </tr>
-</table>
-
-<br/>
-
-## ⚙️ Shipped Systems
+> **Cybersecurity Undergraduate & Systems Builder** working at the intersection of Linux endpoint defense, cloud security telemetry, and autonomous AI microservices.
 
 <table>
   <tr>
-    <td width="33%" valign="top">
-      <h4>🤖 LocalBiz AI</h4>
-      Autonomous business conversational agent.<br/><br/>
-      <img src="https://img.shields.io/badge/FastAPI-0F172A?style=flat-square&logo=fastapi&logoColor=38BDF8" alt="FastAPI" />
-      <img src="https://img.shields.io/badge/Groq-0F172A?style=flat-square&logoColor=38BDF8" alt="Groq" />
-      <img src="https://img.shields.io/badge/Docker-0F172A?style=flat-square&logo=docker&logoColor=38BDF8" alt="Docker" /><br/><br/>
-      <a href="https://github.com/umairs759/LocalBiz-AI-WhatsApp-Agent"><b>View Repository →</b></a>
+    <td width="50%" valign="top">
+      <h4>🎓 Academics & Role</h4>
+      <ul>
+        <li><b>BS Cyber Security</b> — University of Central Punjab (UCP)</li>
+        <li><b>Microsoft Learn Student Ambassador</b></li>
+      </ul>
     </td>
-    <td width="33%" valign="top">
-      <h4>🚨 auto-incident-responder</h4>
-      Real-time Linux endpoint telemetry &amp; containment engine.<br/><br/>
-      <img src="https://img.shields.io/badge/Linux-0F172A?style=flat-square&logo=linux&logoColor=38BDF8" alt="Linux" />
-      <img src="https://img.shields.io/badge/Incident_Response-0F172A?style=flat-square&logoColor=38BDF8" alt="IR" /><br/><br/>
-      <a href="https://github.com/umairs759/auto-incident-responder"><b>View Repository →</b></a>
-    </td>
-    <td width="33%" valign="top">
-      <h4>🧾 RetailFlow-POS</h4>
-      Offline-first local billing &amp; transaction architecture.<br/><br/>
-      <img src="https://img.shields.io/badge/Offline--First-0F172A?style=flat-square&logoColor=38BDF8" alt="Offline First" />
-      <img src="https://img.shields.io/badge/POS-0F172A?style=flat-square&logoColor=38BDF8" alt="POS" /><br/><br/>
-      <a href="https://github.com/umairs759/RetailFlow-POS"><b>View Repository →</b></a>
+    <td width="50%" valign="top">
+      <h4>🛡️ Security Core</h4>
+      <ul>
+        <li>Penetration Testing</li>
+        <li>Linux Endpoint Containment</li>
+        <li>Network Auditing & Azure Security Compliance</li>
+      </ul>
     </td>
   </tr>
 </table>
 
-<br/>
+#### ⚙️ Shipped Systems
 
-## 🧰 Arsenal
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **LocalBiz AI** | Autonomous business conversational agent | `FastAPI` `Groq` `Docker` |
+| **auto-incident-responder** | Real-time Linux endpoint telemetry & containment engine | `Python` `Linux` `Telemetry` |
+| **RetailFlow-POS** | Offline-first local billing & transaction architecture | `POS` `Offline-First` `SQLite` |
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,linux,bash,docker,fastapi,azure,git,html,js&theme=dark" alt="Tech Stack" />
-</p>
+#### 🏆 Milestones
 
-<br/>
+- **Grade 2A** — Alibaba Cloud AI Hackathon
+- **Top 20% Global Rank** — International Research Olympiad
 
-## 🏆 Milestones
+#### ⚡ Current Focus
 
-<p align="center">
-  <img src="https://img.shields.io/badge/ALIBABA_CLOUD_AI_HACKATHON-Grade_2A-0F172A?style=for-the-badge&logo=alibabacloud&logoColor=FF6A00&labelColor=1E293B" alt="Alibaba Cloud AI Hackathon" />
-  <img src="https://img.shields.io/badge/INTERNATIONAL_RESEARCH_OLYMPIAD-Top_20%25_Global-0F172A?style=for-the-badge&logo=target&logoColor=38BDF8&labelColor=1E293B" alt="International Research Olympiad" />
-</p>
-
-<br/>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=umairs759&show_icons=true&hide_border=false&bg_color=0F172A&title_color=38BDF8&text_color=CBD5E1&icon_color=38BDF8&border_color=1E293B&border_radius=12" alt="Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umairs759&layout=compact&bg_color=0F172A&title_color=38BDF8&text_color=CBD5E1&border_color=1E293B&border_radius=12" alt="Top Languages" />
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:0C4A6E,100:020617&height=100&section=footer" width="100%" alt="" />
+`Threat Telemetry Parsers` · `Terminal Automation Scripts` · `LLM-Assisted SOC Triage`
 ---
 
 ### ⚡ Tech Stack & Engineering
