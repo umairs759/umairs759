@@ -142,32 +142,14 @@
   </tr>
 </table>
 
-<!-- Row 3: Profile Details & Productivity Hours -->
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td align="center" valign="middle">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=umairs759&theme=github_dark" height="195" alt="Profile Details"/>
-    </td>
-    <td align="center" valign="middle">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=umairs759&theme=github_dark&utcOffset=5" height="195" alt="Productive Time"/>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-
-
-<!-- 3D Contribution Graph -->
+<!-- Contribution Snake with 3D Glow Effect -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/umairs759/umairs759/output/profile-night-rainbow.svg" alt="3D Contributions" width="95%"/>
-</div>
-
-<br/>
-
-<!-- Neon Snake -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/umairs759/umairs759/output/snake-neon.svg" alt="Contribution Snake" width="95%"/>
+  <img 
+    src="https://raw.githubusercontent.com/umairs759/umairs759/output/github-contribution-grid-snake-dark.svg" 
+    alt="Contribution Snake" 
+    width="100%" 
+    style="filter: drop-shadow(0 0 10px #00FF66) drop-shadow(0 0 20px #00FF66);" 
+  />
 </div>
 
 ---
