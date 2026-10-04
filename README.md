@@ -50,13 +50,23 @@
 
 > **Cybersecurity Undergraduate & Systems Builder** working at the intersection of Linux endpoint defense, cloud security telemetry, and autonomous AI microservices.
 
-- 🎓 **Academics & Role:** BS Cyber Security at **University of Central Punjab (UCP)** • **Microsoft Learn Student Ambassador**
+- 🎓 **Academics & Role:** BS Cyber Security at **University of Central Punjab (UCP)** •
+  
+- **Microsoft Learn Student Ambassador**
+  
 - 🛡️ **Security Core:** Penetration Testing, Active Linux Endpoint Containment, Network Auditing & Azure Security Compliance
+  
 - ⚙️ **Shipped Systems:**
+  
   - `LocalBiz AI` — Autonomous business conversational agent (*FastAPI + Groq + Docker*)
   - `auto-incident-responder` — Real-time Linux endpoint telemetry & containment engine
   - `RetailFlow-POS` — Offline-first local billing & transaction architecture
-- 🏆 **Milestones:** **Grade 2A** @ Alibaba Cloud AI Hackathon • **Top 20% Global Rank** @ International Research Olympiad
+    
+- 🏆 **Milestones:**
+  
+  **Grade 2A** @ Alibaba Cloud AI Hackathon •
+- **Top 20% Global Rank** @ International Research Olympiad
+  
 - ⚡ **Current Focus:** Threat telemetry parsers, terminal automation scripts, and LLM-assisted SOC triage
 ---
 ### 🛠️ Tech Stack & Engineering Architecture
