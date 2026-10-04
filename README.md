@@ -104,25 +104,67 @@
 ### 💻 Tech Stack & Engineering
 
 <div align="center">
+
+  <!-- Dynamic Terminal Header -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1200&color=38BDF8&background=0D111700&center=true&vCenter=true&width=750&height=60&lines=%E2%9D%AF+whoami+%E2%86%92+Muhammad+Umair;%E2%9D%AF+Focus+%E2%86%92+Cyber+Security+%7C+Network+Defense;%E2%9D%AF+Role+%E2%86%92+Microsoft+Learn+Student+Ambassador;%E2%9D%AF+Stack+%E2%86%92+Linux+%7C+Python+%7C+FastAPI" alt="Cyber Terminal Typing" />
+  </a>
+  <br/>
+
+  <!-- Unified Social & Action Hub -->
+  <p>
+    <a href="https://umairs759.github.io/Muhammad-Umair-Portfolio/" target="_blank">
+      <img src="https://img.shields.io/badge/Live_Portfolio-0F172A?style=for-the-badge&logo=firefoxbrowser&logoColor=38BDF8" alt="Portfolio" />
+    </a>
+    <a href="https://linkedin.com/in/umairs759" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=38BDF8" alt="LinkedIn" />
+    </a>
+    <a href="https://github.com/umairs759" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8" alt="GitHub" />
+    </a>
+    <a href="mailto:umairghaffar759@gmail.com">
+      <img src="https://img.shields.io/badge/Contact-0F172A?style=for-the-badge&logo=gmail&logoColor=38BDF8" alt="Email" />
+    </a>
+  </p>
+
+  <!-- Core Identity & Telemetry (Minimalist) -->
+  <p>
+    <img src="https://img.shields.io/badge/Academics-BS_Cyber_Security_@_UCP-181717?style=flat-square&logo=target&logoColor=38BDF8" alt="Academics" />
+    <img src="https://img.shields.io/badge/Base-Lahore,_PK-181717?style=flat-square&logo=googlemaps&logoColor=38BDF8" alt="Location" />
+    <img src="https://img.shields.io/badge/Status-Building_&_Learning-181717?style=flat-square&logo=statuspage&logoColor=38BDF8" alt="Status" />
+    <img src="https://komarev.com/ghpvc/?username=umairs759&label=Views&color=38BDF8&style=flat-square&labelColor=181717" alt="Profile Views" />
+  </p>
+
+  <br/>
+  <h3>⚡ Technical Arsenal</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,bash,python,fastapi,docker,azure,githubactions,git,c,js,threejs,postman&perline=6&theme=dark" alt="Technical Stack" />
   </a>
+  <br/><br/>
+
 </div>
+
+---
+
+### 🏗️ Engineering Scope & Architecture
+
+| Domain | Core Technologies | Focus Area & Implementation |
+| :--- | :--- | :--- |
+| **Security & Systems** | ![Linux](https://img.shields.io/badge/Linux-181717?style=flat-square&logo=linux&logoColor=38BDF8) ![Bash](https://img.shields.io/badge/Bash-181717?style=flat-square&logo=gnu-bash&logoColor=38BDF8) | Active defense scripting, network auditing, cloud security compliance (Azure). |
+| **Applied AI & LLMs** | ![Groq](https://img.shields.io/badge/Groq-181717?style=flat-square&logo=groq&logoColor=38BDF8) ![Ollama](https://img.shields.io/badge/Ollama-181717?style=flat-square&logo=ollama&logoColor=38BDF8) | Local model execution, agent routing, API integrations, structured JSON parsing. |
+| **Backend Architecture**| ![Python](https://img.shields.io/badge/Python-181717?style=flat-square&logo=python&logoColor=38BDF8) ![FastAPI](https://img.shields.io/badge/FastAPI-181717?style=flat-square&logo=fastapi&logoColor=38BDF8) | High-throughput asynchronous REST microservices and WebSocket ingestion engines. |
+| **DevOps & Automations**| ![Docker](https://img.shields.io/badge/Docker-181717?style=flat-square&logo=docker&logoColor=38BDF8) ![GitHub](https://img.shields.io/badge/Actions-181717?style=flat-square&logo=github-actions&logoColor=38BDF8) | Container deployments, cron automation pipelines, and API integration testing. |
+
 <br/>
 
-| Domain | Core Technologies |
-| :--- | :--- |
-| **Cybersecurity** | ![Kali](https://img.shields.io/badge/-Kali_Linux-3B4754?style=flat-square&logo=kali-linux&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) |
-| **Backend & APIs** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
-| **Applied AI** | ![Ollama](https://img.shields.io/badge/-Local_LLMs-181717?style=flat-square&logo=ollama&logoColor=white) ![Groq](https://img.shields.io/badge/-Groq_LPU-F55036?style=flat-square&logo=groq&logoColor=white) ![Gemini](https://img.shields.io/badge/-Gemini-4285F4?style=flat-square&logo=google&logoColor=white) |
+### 🏅 Verified Credentials
 
-### 🏆 Verified Credentials
-
-* **Microsoft Applied Skills:** Cloud Security & Monitoring Tasks
-* **Google (Coursera):** Foundations of Cybersecurity
-* **Deloitte:** Cybersecurity Job Simulation
-* **Microsoft Learn:** SQL Data Querying & Governance
-
+| Credential | Issuer | Core Competencies | Status |
+| :--- | :--- | :--- | :---: |
+| **Cloud Security & Monitoring** | ![Microsoft](https://img.shields.io/badge/Microsoft-181717?style=flat-square&logo=microsoft&logoColor=38BDF8) | Azure baseline auditing, alerts monitoring, IAM. | `Verified` |
+| **Foundations of Cybersecurity** | ![Google](https://img.shields.io/badge/Google-181717?style=flat-square&logo=google&logoColor=38BDF8) | Threat intelligence, asset security, defensive workflows. | `Verified` |
+| **Cybersecurity Job Simulation** | ![Deloitte](https://img.shields.io/badge/Deloitte-181717?style=flat-square&logo=deloitte&logoColor=38BDF8) | Packet inspection, log investigation, threat triage. | `Completed`|
+| **SQL Querying & Governance** | ![Microsoft](https://img.shields.io/badge/Microsoft-181717?style=flat-square&logo=microsoft&logoColor=38BDF8) | Relational objects, RBAC, database security. | `Ongoing` |
 ---
 
 ### 📊 GitHub Activity & Analytics
