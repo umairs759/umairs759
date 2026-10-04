@@ -39,10 +39,11 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#00FF66&color_dots=#0D1117,#033a16,#026b28,#00b843,#00FF66
             dist/github-contribution-grid-snake.gif?color_snake=#00FF66&color_dots=#0D1117,#033a16,#026b28,#00b843,#00FF66
 
-      # 3. Combine All 3D SVGs and Snake into Deployment Pipeline
+      # 3. Combine All 3D SVGs and Snake into Deployment Pipeline (Permissions Fixed)
       - name: 📦 Merge Visual Artifacts
         run: |
-          mkdir -p dist
+          sudo mkdir -p dist
+          sudo chown -R $USER:$USER dist
           if [ -d "profile-3d-contrib" ]; then
             cp -r profile-3d-contrib/* dist/
           fi
