@@ -102,132 +102,123 @@
 <!-- ================= 🚀 CYBER COMMAND CENTER ================= -->
 <div align="center">
 
-  <!-- Sleek Cyber Visual Banner -->
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Cyber.gif" width="440" alt="Cyber Security Animation" style="border-radius: 8px; filter: drop-shadow(0 0 10px rgba(0, 255, 102, 0.35));" />
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Cyber.gif" width="440px" alt="Cyber Security Animation"/>
 
   <br/><br/>
 
-  <!-- Dynamic Terminal Handshake -->
-  <a href="https://github.com/umairs759">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&pause=1000&color=00FF66&background=0D111700&center=true&vCenter=true&width=550&height=50&lines=%E2%9A%A1+Initializing+Secure+Handshake...;%F0%9F%9B%A1%EF%B8%8F+Port+443+%3A+Listening+for+Opportunities;%E2%96%B6+Establishing+Direct+Connection+Below+%E2%86%93" alt="Terminal Protocol Handshake" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&pause=1000&color=00FF66&background=0D1117&center=true&vCenter=true&width=520&height=50&lines=%E2%9A%A1+Initializing+Secure+Handshake...;%F0%9F%9B%A1%EF%B8%8F+Port+443+%3A+Listening+for+Opportunities;%E2%96%B6+Establishing+Direct+Connection+Below+%E2%86%93" alt="Handshake Animation"/>
   </a>
 
 </div>
 
-<br/>
+---
 
 <!-- ================= 📊 GITHUB INTELLIGENCE DASHBOARD ================= -->
 <h2 align="center">📊 GitHub Intelligence Dashboard</h2>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=1200&color=00FF66&background=0D111700&center=true&vCenter=true&width=650&height=40&lines=%F0%9F%94%8D+Scanning+commit+history...;%F0%9F%93%88+Analyzing+language+distribution...;%E2%9A%A1+Computing+peak+productivity+streaks..." alt="Telemetry Scanner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1200&color=00FF66&background=0D1117&center=true&vCenter=true&width=760&height=40&lines=%F0%9F%94%8D+Scanning+commit+history+...;%F0%9F%93%88+Analyzing+language+distribution+...;%E2%9A%A1+Computing+peak+productivity+streaks+...;%F0%9F%9B%A1%EF%B8%8F+Generating+real-time+telemetry" alt="Analyzing"/>
 </div>
 
 <br/>
 
-<!-- ROW 1: Overall Performance & Streaks (Perfect Height Symmetry) -->
+<!-- Total Commits + Streak Stats -->
 <div align="center">
-  <a href="https://github.com/umairs759">
-    <img height="175" src="https://github-readme-stats.vercel.app/api?username=umairs759&show_icons=true&theme=chartreuse-dark&bg_color=0D1117&title_color=00FF66&icon_color=00FF66&text_color=C9D1D9&border_color=00FF66&include_all_commits=true&count_private=true&hide_border=false&rank_icon=github" alt="GitHub Stats" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/umairs759">
-    <img height="175" src="https://streak-stats.demolab.com/?user=umairs759&theme=chartreuse-dark&background=0D1117&stroke=00FF66&ring=00FF66&fire=00FF66&currStreakLabel=00FF66&sideLabels=C9D1D9&dates=C9D1D9&border=00FF66&hide_border=false" alt="GitHub Streak" />
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=umairs759&show_icons=true&theme=chartreuse-dark&bg_color=0D1117&title_color=00FF66&icon_color=00FF66&text_color=C9D1D9&border_color=00FF66&include_all_commits=true&count_private=true&hide_border=false&rank_icon=github" alt="GitHub Stats - Total Commits, PRs, Issues"/>
+  <img height="180em" src="https://streak-stats.demolab.com?user=umairs759&theme=dark&background=0D1117&stroke=00FF66&ring=00FF66&fire=00FF66&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FF66&sideLabels=C9D1D9&dates=C9D1D9&border=00FF66&hide_border=false" alt="GitHub Streak - Current, Longest, Total Contributions"/>
 </div>
 
 <br/>
 
-<!-- ROW 2: Top Languages & Productive Time Radar -->
+<!-- Language Intelligence -->
 <div align="center">
-  <a href="https://github.com/umairs759">
-    <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umairs759&layout=compact&theme=chartreuse-dark&bg_color=0D1117&title_color=00FF66&text_color=C9D1D9&border_color=00FF66&langs_count=8&hide_border=false" alt="Top Languages" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/umairs759">
-    <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=umairs759&theme=chartreuse_dark&utcOffset=5" alt="Productive Time" />
-  </a>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umairs759&layout=donut-vertical&theme=chartreuse-dark&bg_color=0D1117&title_color=00FF66&text_color=C9D1D9&border_color=00FF66&langs_count=8&hide_border=false" alt="Top Languages - Most Used"/>
+  <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=umairs759&theme=github_dark" alt="Most Commit Language"/>
 </div>
 
 <br/>
 
-<!-- ================= 🏆 MATRIX TROPHY VAULT ================= -->
+<!-- Profile Summary + Productivity -->
 <div align="center">
-  <a href="https://github.com/umairs759">
-    <img src="https://github-profile-trophy.vercel.app/?username=umairs759&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
-  </a>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=umairs759&theme=github_dark" alt="Profile Details"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=umairs759&theme=github_dark&utcOffset=5" alt="Productive Time"/>
 </div>
-
-<br/>
-
-<!-- ================= 📈 ACTIVITY WAVE GRAPH ================= -->
-<div align="center">
-  <a href="https://github.com/umairs759">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=umairs759&theme=react-dark&bg_color=0D1117&color=00FF66&line=00FF66&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" width="98%" />
-  </a>
-</div>
-
-<br/>
-
-<!-- ================= 🐍 CONTRIBUTION SNAKE ================= -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/umairs759/umairs759/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="98%" />
-</div>
-
-<br/>
-<hr style="border: 0.5px solid #00FF66; opacity: 0.3;" />
-<br/>
-
-<!-- ================= ⚡ CONNECT & COLLABORATE MATRIX ================= -->
-<h3 align="center">⚡ Let's Connect & Collaborate</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=00FF66&background=0D111700&center=true&vCenter=true&width=720&height=45&lines=%E2%9A%A1+Open+to+Cybersecurity+Roles+%26+Security+Automation;%F0%9F%9B%A1%EF%B8%8F+Available+for+Cloud+Defense+%26+SOC+Collaboration;%E2%9C%85+SLA+Response+Time+%3A+Under+24+Hours" alt="Availability Status" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=umairs759&theme=github_dark" alt="Repos Per Language"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=umairs759&theme=github_dark" alt="Stats Summary"/>
 </div>
 
 <br/>
 
-<!-- Matrix Operational Table -->
+<!-- Trophy Vault -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=umairs759&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
+</div>
+
+<br/>
+
+<!-- Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=umairs759&theme=react-dark&bg_color=0D1117&color=00FF66&line=00FF66&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" width="100%"/>
+</div>
+
+<br/>
+
+<!-- Contribution Snake -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/umairs759/umairs759/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%"/>
+</div>
+
+---
+
+<!-- ================= ⚡ CONNECT & COLLABORATE ================= -->
+<h2 align="center">⚡ Let's Connect & Collaborate</h2>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00FF66&background=0D1117&center=true&vCenter=true&width=720&height=50&lines=%E2%9A%A1+Open+to+Cybersecurity+Roles+%26+Security+Automation;%F0%9F%9B%A1%EF%B8%8F+Available+for+Collaboration+%26+Freelance+Projects;%E2%9C%85+Response+Time+%3A+Under+24+Hours" alt="Availability Status"/>
+</div>
+
+<br/>
+
 <table align="center" border="0">
   <tr>
-    <td align="center" width="230">
-      <b>🎯 Target Domains</b><br/>
+    <td align="center" width="220">
+      <b>🎯 Domains</b><br/>
       Penetration Testing<br/>
       Azure Cloud Defense<br/>
       Python &amp; Agentic AI
     </td>
-    <td align="center" width="230">
-      <b>📡 Threat Intel Status</b><br/>
+    <td align="center" width="220">
+      <b>📡 Status</b><br/>
       <img src="https://img.shields.io/badge/Status-Ready_to_Deploy-00FF66?style=flat-square&labelColor=0D1117" alt="Status"/><br/><br/>
-      <img src="https://img.shields.io/badge/SLA_Response-%3C24_Hours-00FF66?style=flat-square&labelColor=0D1117" alt="Response Time"/>
+      <img src="https://img.shields.io/badge/Response-%3C24_Hours-0078D4?style=flat-square&labelColor=0D1117" alt="Response Time"/>
     </td>
-    <td align="center" width="230">
-      <b>🤝 Secure Comms</b><br/>
-      <a href="mailto:umairghaffar759@gmail.com">📩 Direct Mail</a><br/>
-      <a href="https://linkedin.com/in/umairs759" target="_blank">💼 LinkedIn Intel</a><br/>
-      <a href="https://umairs759.github.io/Muhammad-Umair-Portfolio/" target="_blank">🌐 Live Portfolio</a>
+    <td align="center" width="220">
+      <b>🤝 Let's Talk</b><br/>
+      <a href="mailto:umairghaffar759@gmail.com">📩 Email Me</a><br/>
+      <a href="https://linkedin.com/in/umairs759">💼 Message on LinkedIn</a>
     </td>
   </tr>
 </table>
 
 <br/>
 
-<!-- High-Visibility Action CTA Buttons -->
 <p align="center">
   <a href="mailto:umairghaffar759@gmail.com">
-    <img src="https://img.shields.io/badge/📩_DIRECT_EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF66&labelColor=090D16" alt="Email" />
+    <img src="https://img.shields.io/badge/📩_Get_In_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  &nbsp;
   <a href="https://linkedin.com/in/umairs759" target="_blank">
-    <img src="https://img.shields.io/badge/🤝_LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF66&labelColor=090D16" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/🤝_Connect_on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  &nbsp;
   <a href="https://umairs759.github.io/Muhammad-Umair-Portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_LIVE_PORTFOLIO-0D1117?style=for-the-badge&logo=firefoxbrowser&logoColor=00FF66&labelColor=090D16" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/🌐_View-Portfolio-00FF66?style=for-the-badge&logo=firefoxbrowser&logoColor=black" alt="Portfolio"/>
   </a>
 </p>
 
-<!-- Profile Views Telemetry Counter -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=umairs759&label=PROFILE%20ACCESS%20COUNT&color=00FF66&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=umairs759&label=Profile%20Views&color=00FF66&style=flat-square" alt="Profile Views"/>
 </div>
+
+---
