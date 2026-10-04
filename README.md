@@ -1,43 +1,42 @@
 <div align="center">
 
-  <!-- Dynamic Cyber Terminal (Optimized Width & No-Clipping) -->
+  <!-- Sleek Cyber Terminal (Self-Contained Dark Console) -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1400&color=00FF66&background=00000000&center=true&vCenter=true&width=650&height=45&lines=%24+whoami+%E2%86%92+Muhammad+Umair+%5BSecurity+%26+Defense%5D;%24+recon+--active+%E2%86%92+Penetration+Testing+%7C+Security+Tooling;%24+role+%E2%86%92+Microsoft+Learn+Student+Ambassador;%24+exec+status+%E2%86%92+Active+%26+Building+SecOps+Pipelines" alt="Terminal Typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1400&color=38BDF8&background=0F172A&center=true&vCenter=true&width=720&height=56&lines=%24+whoami+%E2%86%92+Muhammad+Umair+%5BCyber+Security+%26+Defense%5D;%24+recon+--target+%E2%86%92+Penetration+Testing+%7C+Network+Auditing;%24+python3+automate.py+%E2%86%92+Security+Tooling+%26+OffSec;%24+role+%E2%86%92+Microsoft+Learn+Student+Ambassador" alt="Cyber Console" />
   </a>
 
-  <br/>
-
-  <!-- Primary Elite Action Hub -->
-  <p align="center">
+  <!-- Primary Action Hub (Unified Tech Slate & Modern Accents) -->
+  <p>
     <a href="https://umairs759.github.io/Muhammad-Umair-Portfolio/" target="_blank">
-      <img src="https://img.shields.io/badge/%F0%9F%8C%90_LIVE_PORTFOLIO-00FF66?style=for-the-badge&logoColor=0D1117&labelColor=0D1117&color=00FF66" alt="Portfolio" />
+      <img src="https://img.shields.io/badge/Portfolio-0284C7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Portfolio" />
     </a>
     <a href="https://linkedin.com/in/umairs759" target="_blank">
-      <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://github.com/umairs759" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-1E293B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
     <a href="mailto:umairghaffar759@gmail.com">
-      <img src="https://img.shields.io/badge/DIRECT_EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email" />
+      <img src="https://img.shields.io/badge/Contact_Me-0F172A?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
     </a>
   </p>
 
-  <!-- Cyber Identity & Domain Badges -->
-  <p align="center">
-    <img src="https://img.shields.io/badge/Focus-Penetration_Testing-00FF66?style=flat-square&logo=kalilinux&logoColor=00FF66&labelColor=0D1117" alt="Focus" />
-    <img src="https://img.shields.io/badge/Community-Microsoft_MLSA-0078D4?style=flat-square&logo=microsoft&logoColor=0078D4&labelColor=0D1117" alt="MLSA" />
-    <img src="https://img.shields.io/badge/Academics-BS_Cyber_Security-58A6FF?style=flat-square&logo=target&logoColor=58A6FF&labelColor=0D1117" alt="Degree" />
-    <img src="https://img.shields.io/badge/Base-Lahore%2C_PK-8B949E?style=flat-square&logo=googlemaps&logoColor=8B949E&labelColor=0D1117" alt="Location" />
+  <!-- Technical Context & Credentials (Uniform Slate Matrix) -->
+  <p>
+    <img src="https://img.shields.io/badge/Domain-Penetration_Testing_%26_Defense-0F172A?style=flat-square&logo=kalilinux&logoColor=38BDF8" alt="Focus Domain" />
+    <img src="https://img.shields.io/badge/Community-Microsoft_Ambassador-0F172A?style=flat-square&logo=microsoft&logoColor=0078D4" alt="Microsoft Ambassador" />
+    <img src="https://img.shields.io/badge/Academics-BS_Cyber_Security-0F172A?style=flat-square&logo=target&logoColor=F8FAFC" alt="Academics" />
+    <img src="https://img.shields.io/badge/Location-Lahore%2C_PK-0F172A?style=flat-square&logo=googlemaps&logoColor=94A3B8" alt="Location" />
   </p>
 
-  <!-- Live Status & Telemetry Counter -->
-  <p align="center">
-    <img src="https://img.shields.io/badge/System-ONLINE_%26_SECURING-00FF66?style=flat-square&logo=statuspage&logoColor=00FF66&labelColor=0D1117" alt="Status" />
-    <img src="https://komarev.com/ghpvc/?username=umairs759&label=TELEMETRY_VIEWS&color=00FF66&style=flat-square&labelColor=0D1117" alt="Telemetry" />
+  <!-- Telemetry & Live Status -->
+  <p>
+    <img src="https://img.shields.io/badge/Status-Securing_%26_Building-0284C7?style=flat-square" alt="Status" />
+    <img src="https://komarev.com/ghpvc/?username=umairs759&label=PROFILE_VIEWS&color=0ea5e9&style=flat-square" alt="Traffic Telemetry" />
   </p>
-
-  <!-- Sleek Terminal Divider Line -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00FF66&height=3&section=header" width="70%" alt="Divider" />
 
 </div>
+---
 
 ### 🛡️ About Me
 
