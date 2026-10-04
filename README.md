@@ -1,87 +1,72 @@
 <div align="center">
 
-  <!-- Sleek Cyber Terminal (Self-Contained Dark Console) -->
+  <!-- Sleek Cyber Terminal (Obsidian Glass Console) -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1400&color=38BDF8&background=1E293B&center=true&vCenter=true&width=760&height=60&lines=%24+whoami+%E2%86%92+Muhammad+Umair+%5BCyber+Security+%26+Defense%5D;%24+focus+%E2%86%92+Penetration+Testing+%7C+Linux+Endpoint+Defense;%24+stack+%E2%86%92+Python+%E2%80%A2+FastAPI+%E2%80%A2+Docker+%E2%80%A2+Azure+Security;%24+role+%E2%86%92+Microsoft+Learn+Student+Ambassador" alt="Cyber Console" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1400&color=38BDF8&background=0B0F19&center=true&vCenter=true&width=740&height=56&lines=%24+whoami+%E2%9E%9C+Muhammad+Umair+%5BCyber+Security+%26+Defense%5D;%24+recon+--target+%E2%9E%9C+Penetration+Testing+%7C+Network+Auditing;%24+pipeline+--run+%E2%9E%9C+Security+Tooling+%26+Autonomous+AI;%24+role+%E2%9E%9C+Microsoft+Learn+Student+Ambassador" alt="Cyber Console" />
   </a>
 
-  <!-- Primary Action Hub -->
+  <!-- Primary Action Hub (Unified Obsidian Badges with Vivid Brand Accents) -->
   <p>
     <a href="https://umairs759.github.io/Muhammad-Umair-Portfolio/" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Portfolio" />
+      <img src="https://img.shields.io/badge/Live_Portfolio-0B0F19?style=for-the-badge&logo=googlechrome&logoColor=38BDF8" alt="Portfolio" />
     </a>
     <a href="https://linkedin.com/in/umairs759" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-0B0F19?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
     </a>
     <a href="mailto:umairghaffar759@gmail.com">
-      <img src="https://img.shields.io/badge/Contact_Me-1E293B?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
+      <img src="https://img.shields.io/badge/Direct_Signal-0B0F19?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
     </a>
   </p>
 
-  <!-- Technical Context & Credentials -->
+  <!-- Technical Context Matrix (Uniform Slate Grid) -->
   <p>
-    <img src="https://img.shields.io/badge/Domain-Penetration_Testing_%26_Defense-1E293B?style=flat-square&logo=kalilinux&logoColor=38BDF8" alt="Focus Domain" />
-    <img src="https://img.shields.io/badge/Community-Microsoft_Ambassador-1E293B?style=flat-square&logo=microsoft&logoColor=0078D4" alt="Microsoft Ambassador" />
-    <img src="https://img.shields.io/badge/Academics-BS_Cyber_Security-1E293B?style=flat-square&logo=target&logoColor=F8FAFC" alt="Academics" />
-    <img src="https://img.shields.io/badge/Location-Lahore%2C_PK-1E293B?style=flat-square&logo=googlemaps&logoColor=94A3B8" alt="Location" />
+    <img src="https://img.shields.io/badge/Domain-Penetration_Testing_%26_Defense-0F172A?style=flat-square&logo=kalilinux&logoColor=38BDF8" alt="Domain" />
+    <img src="https://img.shields.io/badge/Community-Microsoft_Student_Ambassador-0F172A?style=flat-square&logo=microsoft&logoColor=00A4EF" alt="MLSA" />
+    <img src="https://img.shields.io/badge/Degree-BS_Cyber_Security-0F172A?style=flat-square&logo=gnubash&logoColor=F8FAFC" alt="Degree" />
+    <img src="https://img.shields.io/badge/Location-Lahore%2C_PK-0F172A?style=flat-square&logo=googlemaps&logoColor=F43F5E" alt="Location" />
   </p>
 
-  <!-- Telemetry & Live Status -->
+  <!-- Live Telemetry & Heartbeat -->
   <p>
-    <img src="https://img.shields.io/badge/Status-Securing_%26_Building-0EA5E9?style=flat-square" alt="Status" />
-    <img src="https://komarev.com/ghpvc/?username=umairs759&label=PROFILE_VIEWS&color=0ea5e9&style=flat-square" alt="Traffic Telemetry" />
+    <img src="https://img.shields.io/badge/System_Status-Active_%E2%80%A2_Securing_%26_Building-0F172A?style=flat-square&logo=statuspage&logoColor=10B981" alt="Status" />
+    <img src="https://komarev.com/ghpvc/?username=umairs759&label=PROFILE_PINGS&color=0284C7&style=flat-square" alt="Traffic Telemetry" />
   </p>
 
 </div>
 
 ---
 
-### 🛡️ About Me
+### 🛡️ Security Dossier // About Me
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Focus-Cybersecurity_%26_AI_Eng-10B981?style=flat-square&logo=linux&logoColor=white" alt="Focus" />
-  <img src="https://img.shields.io/badge/Community-Microsoft_Student_Ambassador-0078D4?style=flat-square&logo=microsoft&logoColor=white" alt="MLSA" />
-  <img src="https://img.shields.io/badge/Status-Building_%26_Securing-F59E0B?style=flat-square" alt="Status" />
+  <img src="https://img.shields.io/badge/Focus-Cyber_Defense_%26_OffSec-0F172A?style=flat-square&logo=linux&logoColor=38BDF8" alt="Focus" />
+  <img src="https://img.shields.io/badge/Stack-FastAPI_%E2%80%A2_Docker_%E2%80%A2_Python-0F172A?style=flat-square&logo=docker&logoColor=2496ED" alt="Stack" />
+  <img src="https://img.shields.io/badge/Status-Operational-0F172A?style=flat-square&logo=satellite&logoColor=10B981" alt="Status" />
 </p>
 
-> **Cybersecurity Undergraduate & Systems Builder** working at the intersection of Linux endpoint defense, cloud security telemetry, and autonomous AI microservices.
+> **Cybersecurity Undergraduate & Systems Builder** operating at the intersection of Linux endpoint defense, offensive penetration testing, and autonomous AI microservices. Focused on engineering deterministic defensive tooling and real-time containment pipelines.
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🎓 Academics & Role</h4>
-      <ul>
-        <li><b>BS Cyber Security</b> — University of Central Punjab (UCP)</li>
-        <li><b>Microsoft Learn Student Ambassador</b></li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🛡️ Security Core</h4>
-      <ul>
-        <li>Penetration Testing</li>
-        <li>Linux Endpoint Containment</li>
-        <li>Network Auditing & Azure Security Compliance</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+#### 🎯 Operations & Credentials
+* 🎓 **Academics:** BS Cyber Security at **University of Central Punjab (UCP)**
+* 🌐 **Leadership:** **Microsoft Learn Student Ambassador**
+* 🔒 **OffSec & DefSec:** Web Penetration Testing, Active Linux Endpoint Containment, Network Auditing & Azure Security Compliance
 
-#### ⚙️ Shipped Systems
+#### ⚙️ Shipped Production Systems
+* 🤖 **`LocalBiz AI`** — Autonomous business conversational agent & workflow orchestrator  
+  `FastAPI` • `Groq LLaMA` • `Docker` • `Gemini API`
+* 🛡️ **`auto-incident-responder`** — Real-time Linux endpoint telemetry monitoring & active quarantine engine  
+  `Python` • `FastAPI` • `WebSocket Telemetry` • `Automated Containment`
+* ⚡ **`RetailFlow-POS`** — Zero-dependency, offline-first local billing & inventory transaction architecture  
+  `Vanilla JavaScript` • `LocalStorage Engine` • `Zero-Latency Cache`
 
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| **LocalBiz AI** | Autonomous business conversational agent | `FastAPI` `Groq` `Docker` |
-| **auto-incident-responder** | Real-time Linux endpoint telemetry & containment engine | `Python` `Linux` `Telemetry` |
-| **RetailFlow-POS** | Offline-first local billing & transaction architecture | `POS` `Offline-First` `SQLite` |
+#### 🏆 Honors & Verified Milestones
+* 🎖️ **Grade 2A Placement** — Alibaba Cloud AI Hackathon Pakistan
+* 🌐 **Top 20% Global Rank** — International Research Olympiad (IRO)
+* 🧪 **Practical Lab Research** — TryHackMe & PortSwigger Web Security Academy
 
-#### 🏆 Milestones
-
-- **Grade 2A** — Alibaba Cloud AI Hackathon
-- **Top 20% Global Rank** — International Research Olympiad
-
-#### ⚡ Current Focus
-
-`Threat Telemetry Parsers` · `Terminal Automation Scripts` · `LLM-Assisted SOC Triage`
+#### ⚡ Active Radar & Focus
+* 📡 Hardening automated threat telemetry parsers and active memory inspection scripts
+* 🛠️ Low-latency terminal automation & LLM-assisted SOC triage playbooks
 ---
 
 ### ⚡ Tech Stack & Engineering
