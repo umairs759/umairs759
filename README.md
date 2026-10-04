@@ -158,12 +158,17 @@
 
 
 
-<!-- Contribution Snake Animation -->
+<!-- 3D Contribution Graph -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/umairs759/umairs759/output/github-contribution-grid-snake-dark.svg?sanitize=true" alt="Contribution Snake" width="95%"/>
+  <img src="https://raw.githubusercontent.com/umairs759/umairs759/output/profile-night-rainbow.svg" alt="3D Contributions" width="95%"/>
 </div>
 
 <br/>
+
+<!-- Neon Snake -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/umairs759/umairs759/output/snake-neon.svg" alt="Contribution Snake" width="95%"/>
+</div>
 
 ---
 
