@@ -60,40 +60,29 @@
 * 💡 **Current Focus:** Threat detection telemetry, terminal automation scripts, and LLM-driven security triage pipelines.
 
 ---
-
-### 🛠️ Tech Stack & AI-Augmented Engineering
+### 🛠️ Tech Stack & Engineering Architecture
 
 <div align="center">
-  <!-- Core Stack & Infrastructure -->
+  <!-- Interactive Tech Grid -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,fastapi,bash,linux,docker,azure,githubactions,git&theme=dark" alt="Backend, Systems & Cloud" />
-    <br/>
-    <img src="https://skillicons.dev/icons?i=c,js,threejs,html,css,postman&theme=dark" alt="Languages, 3D & API Tooling" />
+    <img src="https://skillicons.dev/icons?i=linux,bash,python,fastapi,docker,azure,githubactions,git,c,js,threejs,postman&perline=6&theme=dark" alt="Technical Stack" />
   </a>
-
   <br/><br/>
-
-  <!-- Modern Workflow Badges -->
-  <img src="https://img.shields.io/badge/Workflow-AI--Assisted%20Prototyping-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" alt="AI Assisted" />
-  <img src="https://img.shields.io/badge/Architecture-AI--Native%20Systems-00A67E?style=for-the-badge&logo=google&logoColor=white" alt="AI Native" />
-  <img src="https://img.shields.io/badge/Core-Linux%20%26%20Security%20First-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Systems First" />
+  <!-- Engineering Attribution Badges -->
+  <img src="https://img.shields.io/badge/Security-Human--Led%20Core-E02424?style=flat-square&logo=linux&logoColor=white" alt="Human-Led" />
+  <img src="https://img.shields.io/badge/LLMs-AI--Native%20Engines-059669?style=flat-square&logo=openai&logoColor=white" alt="AI-Native" />
+  <img src="https://img.shields.io/badge/Delivery-AI--Augmented%20Prototyping-7C3AED?style=flat-square&logo=githubcopilot&logoColor=white" alt="AI-Augmented" />
 </div>
 
 <br/>
 
-| Tier | Focus & Stack | Workflow Breakdown |
+| Domain | Production Tooling | Engineering Scope & AI Collaboration |
 | :--- | :--- | :--- |
-| **Core Engineering** | `Linux` `Python` `Bash` `Docker` `Azure` | **Human-Led:** System hardening, active defense, container orchestration, and network security policies. |
-| **AI-Native Systems** | `FastAPI` `Groq (LPU)` `Ollama` `Gemini` | **AI-Integrated:** Built sub-second inference pipelines, autonomous agent routers, and structured output parsers. |
-| **AI-Assisted Delivery** | `Three.js` `JavaScript` `HTML/CSS` `CI/CD` | **AI-Accelerated:** Rapid front-end prototyping, 3D Canvas visual rendering, and automated GitHub Actions test pipelines built using LLM pair-programming. |
-
-| Domain | Production Stack | Engineering Scope & AI Integration |
-| :--- | :--- | :--- |
-| **Cybersecurity & Systems** | ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) | Linux hardening, active threat containment pipelines, network auditing, and Azure cloud security monitoring. |
-| **Applied AI & LLM Systems** | ![Groq](https://img.shields.io/badge/Groq-LPU_Inference-F55036?style=flat-square&logo=groq&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-Local_Models-000000?style=flat-square&logo=ollama&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini_Flash-API-4285F4?style=flat-square&logo=google&logoColor=white) ![Agents](https://img.shields.io/badge/AI_Agents-Autonomous_Routing-00A67E?style=flat-square) | **AI-Native:** Sub-second LPU inference orchestration, local model deployment, strict JSON schema output pipelines, and multi-step agent routers. |
-| **Backend & Microservices** | ![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-High_Performance-009688?style=flat-square&logo=fastapi&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-Containerized-2496ED?style=flat-square&logo=docker&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-Relational_Data-CC292B?style=flat-square&logo=postgresql&logoColor=white) | **AI-Augmented:** High-throughput async REST architectures and containerized microservices built using LLM-assisted rapid prototyping and code auditing. |
-| **Automation & Intelligent Bots** | ![WhatsApp](https://img.shields.io/badge/WhatsApp-Cloud_API-25D366?style=flat-square&logo=whatsapp&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI%2FCD-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![Webhooks](https://img.shields.io/badge/REST-Webhooks-red?style=flat-square) | **AI-Integrated:** Autonomous conversational business agents, real-time webhook payload handling, and automated continuous delivery workflows. |
-| **Frontend & Interactive Web** | ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Three.js](https://img.shields.io/badge/Three.js-3D_WebGL-000000?style=flat-square&logo=three.js&logoColor=white) ![HTML5/CSS3](https://img.shields.io/badge/UI-Modern_Web-E34F26?style=flat-square&logo=html5&logoColor=white) | **AI-Assisted:** 3D interactive WebGL environments and offline-first client state architectures developed via AI-assisted pair programming. |
+| **Cybersecurity & Systems** | ![Kali](https://img.shields.io/badge/Kali-557C94?style=flat-square&logo=kali-linux&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) | `[Human-Led]` Linux kernel hardening, active defense containment scripts, network packet auditing, and cloud security compliance. |
+| **Applied AI & LLM Systems** | ![Groq](https://img.shields.io/badge/Groq-LPU-F55036?style=flat-square&logo=groq&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-Local_LLM-000?style=flat-square&logo=ollama&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-Flash-4285F4?style=flat-square&logo=google&logoColor=white) ![Agents](https://img.shields.io/badge/AI_Agents-00A67E?style=flat-square) | `[AI-Native]` Sub-second LPU inference pipelines, local model execution via Ollama, agent tool-calling routers, and structured JSON parsing. |
+| **Backend & Microservices** | ![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC292B?style=flat-square&logo=sqlite&logoColor=white) | `[AI-Augmented]` High-throughput asynchronous REST microservices and webhook ingestion engines; accelerated via AI-assisted debugging and code reviews. |
+| **Frontend & 3D Experiences** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white) ![HTML5/CSS3](https://img.shields.io/badge/Modern_UI-E34F26?style=flat-square&logo=html5&logoColor=white) | `[AI-Assisted]` Interactive 3D WebGL scenes, component structuring, and offline-first LocalStorage logic built through iterative AI pair-programming. |
+| **DevOps & Automations** | ![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) | `[AI-Optimized]` Scheduled cron automation pipelines, API integration testing, and container deployment manifests configured using LLM prompt-driven scaffolds. |
 ---
 
 ### 🏅 Verified Certifications & Technical Credentials
