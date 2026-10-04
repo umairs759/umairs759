@@ -141,13 +141,7 @@
     </td>
   </tr>
 </table>
-<!-- ================= 🧊 3D ISOMETRIC INTELLIGENCE GRAPH ================= -->
-<div align="center">
-  <h3>🧊 3D Contribution Terrain</h3>
-  <img src="https://raw.githubusercontent.com/umairs759/umairs759/output/profile-green-animate.svg" alt="3D Contribution Graph" width="95%"/>
-</div>
 
-<br/>
 
 <!-- ================= 🐍 NEON CYBER SNAKE ANIMATION ================= -->
 <div align="center">
@@ -157,11 +151,6 @@
 
 <br/>
 
-<!-- Stable Profile Views Counter -->
-<div align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=umairs759&label=PROFILE%20VIEWS&labelColor=0d1117&countColor=00ff66&style=flat-square" alt="Profile Views"/>
-</div>
----
 
 <!-- ================= ⚡ CONNECT & COLLABORATE ================= -->
 <h2 align="center">⚡ Let's Connect & Collaborate</h2>
