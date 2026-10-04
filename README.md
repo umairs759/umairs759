@@ -1,44 +1,41 @@
 <div align="center">
 
-  <!-- Cyber Terminal Dynamic Typing Header (Optimized & No-Clip) -->
-<div align="center">
+  <!-- Dynamic Cyber Terminal Header -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&pause=1300&color=00FF66&background=0D1117&center=true&vCenter=true&width=750&height=65&lines=%24+whoami+%E2%86%92+Muhammad+Umair+%7C+Cyber+Security+Learner;%24+nmap+-sV+skills+%E2%86%92+Exploring+Network+Auditing+%26+Defense;%24+python3+build.py+%E2%86%92+Automating+Security+%26+AI+Workflows;%24+cat+%2Fetc%2Frole+%E2%86%92+Microsoft+Learn+Student+Ambassador" alt="Cyber Terminal Typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&pause=1400&color=00FF66&background=0D111700&center=true&vCenter=true&width=720&height=55&lines=%24+whoami+%E2%86%92+Muhammad+Umair+%5BCyber+Security+%26+Defense%5D;%24+recon+--scan+%E2%86%92+Penetration+Testing+%7C+Network+Auditing;%24+python3+automate.py+%E2%86%92+Active+Defense+%26+Security+Tooling;%24+role+%E2%86%92+Microsoft+Learn+Student+Ambassador" alt="Cyber Terminal Typing" />
   </a>
-  <br/><br/>
-</div>
-  <!-- Command Center / Portfolio & Direct Action Buttons (Top Priority) -->
-  <p align="center">
+
+  <!-- Primary Command & Action Hub -->
+  <p>
     <a href="https://umairs759.github.io/Muhammad-Umair-Portfolio/" target="_blank">
-      <img src="https://img.shields.io/badge/Live_Portfolio-Website-00FF66?style=for-the-badge&logo=firefoxbrowser&logoColor=black" alt="Live Portfolio" />
+      <img src="https://img.shields.io/badge/PORTFOLIO-00FF66?style=for-the-badge&logo=firefoxbrowser&logoColor=0D1117&labelColor=0D1117" alt="Portfolio" />
     </a>
     <a href="https://linkedin.com/in/umairs759" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn" />
     </a>
     <a href="https://github.com/umairs759" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub" />
     </a>
     <a href="mailto:umairghaffar759@gmail.com">
-      <img src="https://img.shields.io/badge/Contact-Direct_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email" />
     </a>
   </p>
 
-  <!-- Identity & Focus Badges (Context Layer) -->
-  <p align="center">
-    <img src="https://img.shields.io/badge/Domain-Penetration_Testing_%26_Cloud_Defense-00FF66?style=flat-square&logo=kalilinux&logoColor=black" alt="Security Domain" />
-    <img src="https://img.shields.io/badge/Ambassador-Microsoft_MLSA-0A66C2?style=flat-square&logo=microsoft&logoColor=white" alt="MLSA" />
-    <img src="https://img.shields.io/badge/Academics-BS_Cyber_Security_%40_UCP-222222?style=flat-square&logo=target&logoColor=white" alt="Academics" />
-    <img src="https://img.shields.io/badge/Location-Lahore%2C_PK-181717?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
+  <!-- Core Identity Matrix -->
+  <p>
+    <img src="https://img.shields.io/badge/Focus-Penetration_Testing_%26_Defense-00FF66?style=flat-square&logo=kalilinux&logoColor=00FF66&labelColor=0D1117" alt="Focus" />
+    <img src="https://img.shields.io/badge/Ambassador-Microsoft_MLSA-0078D4?style=flat-square&logo=microsoft&logoColor=white&labelColor=0D1117" alt="MLSA" />
+    <img src="https://img.shields.io/badge/Academic-BS_Cyber_Security_%40_UCP-white?style=flat-square&logo=target&logoColor=white&labelColor=0D1117" alt="Education" />
+    <img src="https://img.shields.io/badge/Base-Lahore%2C_PK-gray?style=flat-square&logo=googlemaps&logoColor=white&labelColor=0D1117" alt="Location" />
   </p>
 
-  <!-- Live Status & Telemetry Tracker -->
-  <p align="center">
-    <img src="https://img.shields.io/badge/Status-Active_%26_Building-00FF66?style=flat-square" alt="Status" />
-    <img src="https://komarev.com/ghpvc/?username=umairs759&label=Traffic_Telemetry&color=0e75b6&style=flat-square" alt="Traffic Telemetry" />
+  <!-- Live Telemetry & Counter -->
+  <p>
+    <img src="https://img.shields.io/badge/Status-Active_%26_Building-00FF66?style=flat-square&logo=statuspage&logoColor=00FF66&labelColor=0D1117" alt="Status" />
+    <img src="https://komarev.com/ghpvc/?username=umairs759&label=TELEMETRY_VIEWS&color=00FF66&style=flat-square&labelColor=0D1117" alt="Profile Views" />
   </p>
 
 </div>
-
 ---
 ### 🛡️ About Me
 
