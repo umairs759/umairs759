@@ -61,17 +61,31 @@
 
 ---
 
-### 🛠️ Tech Stack & Tooling
+### 🛠️ Tech Stack & AI-Augmented Engineering
 
 <div align="center">
-  <!-- Interactive Skill Icons Grid -->
+  <!-- Core Stack & Infrastructure -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,js,html,css,bash,fastapi,threejs&theme=dark" alt="Languages & Core Frontend" /><br/>
-    <img src="https://skillicons.dev/icons?i=docker,githubactions,git,github,linux,azure,firebase,postman&theme=dark" alt="DevOps, Cloud & Backend" />
+    <img src="https://skillicons.dev/icons?i=python,fastapi,bash,linux,docker,azure,githubactions,git&theme=dark" alt="Backend, Systems & Cloud" />
+    <br/>
+    <img src="https://skillicons.dev/icons?i=c,js,threejs,html,css,postman&theme=dark" alt="Languages, 3D & API Tooling" />
   </a>
+
+  <br/><br/>
+
+  <!-- Modern Workflow Badges -->
+  <img src="https://img.shields.io/badge/Workflow-AI--Assisted%20Prototyping-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" alt="AI Assisted" />
+  <img src="https://img.shields.io/badge/Architecture-AI--Native%20Systems-00A67E?style=for-the-badge&logo=google&logoColor=white" alt="AI Native" />
+  <img src="https://img.shields.io/badge/Core-Linux%20%26%20Security%20First-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Systems First" />
 </div>
 
 <br/>
+
+| Tier | Focus & Stack | Workflow Breakdown |
+| :--- | :--- | :--- |
+| **Core Engineering** | `Linux` `Python` `Bash` `Docker` `Azure` | **Human-Led:** System hardening, active defense, container orchestration, and network security policies. |
+| **AI-Native Systems** | `FastAPI` `Groq (LPU)` `Ollama` `Gemini` | **AI-Integrated:** Built sub-second inference pipelines, autonomous agent routers, and structured output parsers. |
+| **AI-Assisted Delivery** | `Three.js` `JavaScript` `HTML/CSS` `CI/CD` | **AI-Accelerated:** Rapid front-end prototyping, 3D Canvas visual rendering, and automated GitHub Actions test pipelines built using LLM pair-programming. |
 
 | Domain | Production Stack | Engineering Scope & AI Integration |
 | :--- | :--- | :--- |
