@@ -99,58 +99,109 @@
 | **Cybersecurity Job Simulation** | ![Deloitte](https://img.shields.io/badge/Deloitte_Job_Simulation-86BC25?style=flat-square&logo=deloitte&logoColor=white) | Hands-on network packet inspection, security triage analysis, log investigation, and threat report generation. | `` `Completed` 🟢 `` |
 | **SQL Data Querying & Governance** | ![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-0078D4?style=flat-square&logo=microsoft&logoColor=white) | Relational database objects, data querying integrity, role-based access control (RBAC), and security governance. | `` `Ongoing` ⏳ `` |
 ---
-<!-- ================= CYBER COLLABORATION & ACTION HUB ================= -->
+<!-- ================= 🚀 HEADER ================= -->
 <div align="center">
 
-  <!-- Sleek Cyber Visual Banner -->
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Cyber.gif" width="380" alt="Cyber Security Visual" style="border-radius: 8px; filter: drop-shadow(0 0 12px rgba(56, 189, 248, 0.25));" />
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Cyber.gif" width="440" alt="Cyber Security Animation"/>
+
   <br/><br/>
 
-  <!-- Dynamic Protocol Terminal -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&pause=1200&color=38BDF8&background=0D111700&center=true&vCenter=true&width=620&height=50&lines=%E2%9D%AF+PORT+443%3A+Handshake+Protocol+Initiated...;%E2%9D%AF+Status%3A+Open+to+Cybersecurity+%26+Cloud+Roles;%E2%9D%AF+SLA%3A+Response+Time+%3C+24+Hours" alt="Terminal Protocol" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&pause=1000&color=00FF66&background=0D1117&center=true&vCenter=true&width=560&height=50&lines=%E2%9A%A1+Initializing+Secure+Handshake...;%F0%9F%9B%A1%EF%B8%8F+Port+443+%3A+Listening+for+Opportunities;%E2%96%B6+Establishing+Direct+Connection+Below+%E2%86%93" alt="Handshake Animation"/>
   </a>
-  <br/>
 
-  <!-- High-Impact Direct Action Buttons -->
-  <p>
-    <a href="https://umairs759.github.io/Muhammad-Umair-Portfolio/" target="_blank">
-      <img src="https://img.shields.io/badge/LIVE_PORTFOLIO-0F172A?style=for-the-badge&logo=firefoxbrowser&logoColor=38BDF8&labelColor=090D16" alt="Portfolio" />
-    </a>
-    &nbsp;
-    <a href="https://linkedin.com/in/umairs759" target="_blank">
-      <img src="https://img.shields.io/badge/LINKEDIN-0F172A?style=for-the-badge&logo=linkedin&logoColor=38BDF8&labelColor=090D16" alt="LinkedIn" />
-    </a>
-    &nbsp;
-    <a href="mailto:umairghaffar759@gmail.com">
-      <img src="https://img.shields.io/badge/DIRECT_EMAIL-0F172A?style=for-the-badge&logo=gmail&logoColor=38BDF8&labelColor=090D16" alt="Email" />
-    </a>
-  </p>
+</div>
 
+---
+
+<!-- ================= ⚡ CONNECT (top = recruiters see it first) ================= -->
+<h3 align="center">⚡ Let's Connect & Collaborate</h3>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&pause=1000&color=00FF66&background=0D1117&center=true&vCenter=true&width=720&height=50&lines=%E2%9A%A1+Open+to+Cybersecurity+Roles+%26+Security+Automation;%F0%9F%9B%A1%EF%B8%8F+Available+for+Collaboration+%26+Freelance+Projects;%E2%9C%85+Response+Time+%3A+Under+24+Hours" alt="Availability Status"/>
 </div>
 
 <br/>
 
-<!-- ================= GITHUB REAL-TIME TELEMETRY ================= -->
-<div align="center">
+<table align="center" border="0">
+  <tr>
+    <td align="center" width="220">
+      <b>🎯 Domains</b><br/><br/>
+      Penetration Testing<br/>
+      Azure Cloud Defense<br/>
+      Python &amp; Agentic AI
+    </td>
+    <td align="center" width="220">
+      <b>📡 Status</b><br/><br/>
+      <img src="https://img.shields.io/badge/Status-Ready_to_Deploy-00FF66?style=flat-square&labelColor=0D1117" alt="Status"/><br/>
+      <img src="https://img.shields.io/badge/Response-%3C24_Hours-0078D4?style=flat-square&labelColor=0D1117" alt="Response Time"/>
+    </td>
+    <td align="center" width="220">
+      <b>🤝 Let's Talk</b><br/><br/>
+      <a href="mailto:umairghaffar759@gmail.com">📩 Email Me</a><br/>
+      <a href="https://linkedin.com/in/umairs759">💼 Message on LinkedIn</a>
+    </td>
+  </tr>
+</table>
 
-  <h3>⚡ GitHub Activity & Real-Time Telemetry</h3>
+<p align="center">
+  <a href="mailto:umairghaffar759@gmail.com"><img src="https://img.shields.io/badge/📩_Get_In_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://linkedin.com/in/umairs759" target="_blank"><img src="https://img.shields.io/badge/🤝_Connect_on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://umairs759.github.io/Muhammad-Umair-Portfolio/" target="_blank"><img src="https://img.shields.io/badge/🌐_View-Portfolio-00FF66?style=for-the-badge&logo=firefoxbrowser&logoColor=black" alt="Portfolio"/></a>
+</p>
 
-  <!-- 1. Real-time Streak Stats (Current Streak, Longest Streak, Total Days) -->
-  <a href="https://github.com/umairs759">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=umairs759&theme=tokyonight&background=0D1117&border=1E293B&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=38BDF8&dates=94A3B8" alt="GitHub Streak Tracker" width="92%" style="border-radius: 8px;" />
-  </a>
-
-  <br/><br/>
-
-  <!-- 2. Dual Side-by-Side Cards: Overall Metrics + Most Used Languages -->
-  <a href="https://github.com/umairs759">
-    <img src="https://github-readme-stats.vercel.app/api?username=umairs759&show_icons=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8&icon_color=38BDF8&border_color=1E293B&border_radius=8" alt="GitHub Performance Stats" width="46%" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/umairs759">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umairs759&layout=compact&langs_count=6&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8&border_color=1E293B&border_radius=8" alt="Top Languages" width="46%" />
-  </a>
-
-</div>
 ---
+
+<!-- ================= 📊 GITHUB INTELLIGENCE DASHBOARD ================= -->
+<h2 align="center">📊 GitHub Intelligence Dashboard</h2>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1200&color=00FF66&background=0D1117&center=true&vCenter=true&width=700&height=40&lines=%F0%9F%94%8D+Scanning+commit+history+...;%F0%9F%93%88+Analyzing+language+distribution+...;%E2%9A%A1+Computing+peak+productivity+streaks+..." alt="Analyzing"/>
+</div>
+
+<br/>
+
+<!-- Row 1: Total commits / PRs / stars + Streak (current & longest) -->
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=umairs759&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0D1117&title_color=00FF66&icon_color=00FF66&text_color=C9D1D9&border_color=30363D&border_radius=10" alt="GitHub Stats"/>
+  <img height="180" src="https://streak-stats.demolab.com/?user=umairs759&theme=dark&background=0D1117&border=30363D&stroke=30363D&ring=00FF66&fire=00FF66&currStreakNum=00FF66&currStreakLabel=00FF66&sideNums=C9D1D9&sideLabels=8B949E&dates=8B949E&border_radius=10" alt="GitHub Streak"/>
+</div>
+
+<br/>
+
+<!-- Row 2: Most used languages + productive time -->
+<div align="center">
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umairs759&layout=donut-vertical&langs_count=8&bg_color=0D1117&title_color=00FF66&text_color=C9D1D9&border_color=30363D&border_radius=10" alt="Top Languages"/>
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=umairs759&theme=merko&utcOffset=5" alt="Productive Time"/>
+</div>
+
+<br/>
+
+<!-- ================= 🏆 TROPHY VAULT ================= -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=umairs759&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
+</div>
+
+<br/>
+
+<!-- ================= 📈 ACTIVITY GRAPH ================= -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=umairs759&theme=react-dark&bg_color=0D1117&color=00FF66&line=00FF66&point=FFFFFF&area=true&area_color=00FF66&hide_border=true" alt="Contribution Graph" width="100%"/>
+</div>
+
+<br/>
+
+<!-- ================= 🐍 CONTRIBUTION SNAKE (needs the workflow file, see snake.yml) ================= -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/umairs759/umairs759/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=umairs759&label=Profile%20Views&color=00FF66&style=flat-square&labelColor=0D1117" alt="Profile Views"/>
+</div>
+
+---
+
+<p align="center"><i>"Secure by design. Automated by default."</i> 🛡️</p>
