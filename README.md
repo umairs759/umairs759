@@ -102,56 +102,40 @@
 
 ### 📊 GitHub Activity & Analytics
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img height="165em" src="https://github-readme-stats.shion.dev/api?username=umairs759&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF66&icon_color=00FF66&text_color=FFFFFF" alt="Umair's GitHub Stats" />
-      </td>
-      <td>
-        <img height="165em" src="https://streak-stats.demolab.com/?user=umairs759&theme=dark&hide_border=true&background=0D1117&ring=00FF66&fire=00FF66&currStreakLabel=00FF66&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="Umair's Streak" />
-      </td>
-    </tr>
-  </table>
-
-  <!-- Compact Top Languages Card -->
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=umairs759&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF66&text_color=FFFFFF" alt="Top Languages" />
-</div>
-
----<!-- ================= CYBER COLLABORATION HUB ================= -->
+<!-- ================= CYBER COLLABORATION HUB ================= -->
 <div align="center">
 
-  <!-- Visual Cyber Header -->
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Cyber.gif" width="380px" style="border-radius: 8px;" alt="Cyber Defense Visual" />
+  <!-- Sleek Cyber Visual Banner -->
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Cyber.gif" width="380" alt="Cyber Security Visual" style="border-radius: 8px; filter: drop-shadow(0 0 10px rgba(56, 189, 248, 0.2));" />
   <br/><br/>
 
-  <!-- Single High-Impact Terminal Status -->
+  <!-- Unified Interactive Terminal Header -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1400&color=38BDF8&background=0D111700&center=true&vCenter=true&width=620&height=45&lines=%E2%9A%A1+PORT+443%3A+Open+for+Security+Roles+%26+Active+Defense;%F0%9F%9B%A1%EF%B8%8F+Available+for+Collaboration+%26+Automation;%E2%8F%B3+SLA%3A+Guaranteed+Response+Under+24+Hours" alt="Availability Status" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&pause=1400&color=38BDF8&background=0D111700&center=true&vCenter=true&width=620&height=50&lines=%E2%9D%AF+PORT+443%3A+Handshake+Initiated...;%E2%9D%AF+Status%3A+Open+to+Cybersecurity+%26+Cloud+Defense+Roles;%E2%9D%AF+SLA%3A+Average+Response+Time+%3C+24+Hours" alt="Terminal Protocol" />
   </a>
-  <br/><br/>
-
-  <!-- Live Status & Telemetry Pill Badges -->
-  <p>
-    <img src="https://img.shields.io/badge/Status-Ready_to_Deploy-0F172A?style=flat-square&logo=statuspage&logoColor=10B981" alt="Status" />
-    <img src="https://img.shields.io/badge/Domain-Penetration_Testing_%7C_Azure-0F172A?style=flat-square&logo=target&logoColor=38BDF8" alt="Focus" />
-    <img src="https://img.shields.io/badge/Response-%3C_24_Hours-0F172A?style=flat-square&logo=clock&logoColor=F59E0B" alt="Response Time" />
-  </p>
   <br/>
 
-  <!-- High-Conversion Action Buttons -->
+  <!-- Live Telemetry / Capability Chips -->
+  <p>
+    <img src="https://img.shields.io/badge/Security_Domain-PenTesting_%26_Cloud_Defense-0F172A?style=flat-square&logo=kalilinux&logoColor=38BDF8" alt="Domain" />
+    <img src="https://img.shields.io/badge/Availability-Immediate_Deployment-0F172A?style=flat-square&logo=statuspage&logoColor=34D399" alt="Availability" />
+    <img src="https://img.shields.io/badge/Response_Time-%3C_24_Hours-0F172A?style=flat-square&logo=clock&logoColor=38BDF8" alt="Response" />
+  </p>
+
+  <!-- High-Impact Direct Action Hub -->
   <p>
     <a href="https://umairs759.github.io/Muhammad-Umair-Portfolio/" target="_blank">
-      <img src="https://img.shields.io/badge/Live_Portfolio-0F172A?style=for-the-badge&logo=firefoxbrowser&logoColor=38BDF8" alt="Portfolio" />
+      <img src="https://img.shields.io/badge/LIVE_PORTFOLIO-Explore_Systems-0F172A?style=for-the-badge&logo=firefoxbrowser&logoColor=38BDF8&labelColor=090D16" alt="Portfolio" />
     </a>
+    &nbsp;
     <a href="https://linkedin.com/in/umairs759" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn_Message-0F172A?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LINKEDIN-Connect-0F172A?style=for-the-badge&logo=linkedin&logoColor=38BDF8&labelColor=090D16" alt="LinkedIn" />
     </a>
+    &nbsp;
     <a href="mailto:umairghaffar759@gmail.com">
-      <img src="https://img.shields.io/badge/Direct_Email-0F172A?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
+      <img src="https://img.shields.io/badge/DIRECT_EMAIL-Drop_a_Line-0F172A?style=for-the-badge&logo=gmail&logoColor=38BDF8&labelColor=090D16" alt="Email" />
     </a>
   </p>
 
 </div>
-
 
