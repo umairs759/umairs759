@@ -1,29 +1,55 @@
-name: Generate Snake
+name: Generate Cyber Snake & 3D Intelligence Matrix
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # Har 12 ghante baad automatic update hoga
-  workflow_dispatch:      # Manually run karne ke liye
+    # Har 12 ghante baad auto-sync hoga
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
   push:
-    branches: [main]
+    branches:
+      - main
 
 permissions:
   contents: write
 
 jobs:
-  generate:
+  build-cyber-telemetry:
+    name: Build Cyber Assets & 3D Graph
     runs-on: ubuntu-latest
+    timeout-minutes: 10
+
     steps:
-      - uses: actions/checkout@v4
-      
-      - uses: Platane/snk/svg-only@v3
+      - name: 🛰️ Initialize Repository
+        uses: actions/checkout@v4
+
+      # 1. True 3D Isometric Contribution Graph Generator
+      - name: 🧊 Render 3D Isometric Commits
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      # 2. Cyber Snake Animation with Custom Hacker Green (#00FF66) Theme
+      - name: 🐍 Generate Cyber Matrix Snake
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg?palette=github-dark&color_snake=00FF66
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=00FF66
-            
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#00FF66&color_dots=#0D1117,#033a16,#026b28,#00b843,#00FF66
+            dist/github-contribution-grid-snake.gif?color_snake=#00FF66&color_dots=#0D1117,#033a16,#026b28,#00b843,#00FF66
+
+      # 3. Combine All 3D SVGs and Snake into Deployment Pipeline
+      - name: 📦 Merge Visual Artifacts
+        run: |
+          mkdir -p dist
+          if [ -d "profile-3d-contrib" ]; then
+            cp -r profile-3d-contrib/* dist/
+          fi
+
+      # 4. Push directly to output branch
+      - name: 🚀 Deploy Telemetry to Output Branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
