@@ -80,23 +80,24 @@
 
 ### 🏗️ Engineering Scope & Architecture
 
-| Domain | Core Technologies | Focus Area & Implementation |
+| Domain | Production Tooling | Engineering Scope & Execution |
 | :--- | :--- | :--- |
-| **Security & Systems** | ![Linux](https://img.shields.io/badge/Linux-181717?style=flat-square&logo=linux&logoColor=38BDF8) ![Bash](https://img.shields.io/badge/Bash-181717?style=flat-square&logo=gnu-bash&logoColor=38BDF8) | Active defense scripting, network auditing, cloud security compliance (Azure). |
-| **Applied AI & LLMs** | ![Groq](https://img.shields.io/badge/Groq-181717?style=flat-square&logo=groq&logoColor=38BDF8) ![Ollama](https://img.shields.io/badge/Ollama-181717?style=flat-square&logo=ollama&logoColor=38BDF8) | Local model execution, agent routing, API integrations, structured JSON parsing. |
-| **Backend Architecture**| ![Python](https://img.shields.io/badge/Python-181717?style=flat-square&logo=python&logoColor=38BDF8) ![FastAPI](https://img.shields.io/badge/FastAPI-181717?style=flat-square&logo=fastapi&logoColor=38BDF8) | High-throughput asynchronous REST microservices and WebSocket ingestion engines. |
-| **DevOps & Automations**| ![Docker](https://img.shields.io/badge/Docker-181717?style=flat-square&logo=docker&logoColor=38BDF8) ![GitHub](https://img.shields.io/badge/Actions-181717?style=flat-square&logo=github-actions&logoColor=38BDF8) | Container deployments, cron automation pipelines, and API integration testing. |
+| **Cybersecurity & Systems** | ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) | `` `🛡️ Human-Led` `` Linux kernel hardening, active defense containment scripts, network packet auditing, and cloud security compliance. |
+| **Applied AI & LLM Systems** | ![Groq](https://img.shields.io/badge/Groq_LPU-F55036?style=flat-square&logo=groq&logoColor=white) ![Ollama](https://img.shields.io/badge/Local_LLMs-000000?style=flat-square&logo=ollama&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini_Flash-4285F4?style=flat-square&logo=google&logoColor=white) | `` `🧠 AI-Native` `` Sub-second LPU inference pipelines, local model execution via Ollama, agent tool-calling routers, and structured JSON parsing. |
+| **Backend & Microservices** | ![Python](https://img.shields.io/badge/Python_3.11+-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | `` `⚡ AI-Augmented` `` High-throughput asynchronous REST microservices and webhook ingestion engines; accelerated via AI-assisted debugging. |
+| **Frontend & 3D Web** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white) ![HTML5](https://img.shields.io/badge/Modern_UI-E34F26?style=flat-square&logo=html5&logoColor=white) | `` `🎨 AI-Assisted` `` Interactive 3D WebGL scenes, component structuring, and offline-first LocalStorage logic built through iterative AI pair-programming. |
+| **DevOps & Automations** | ![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) | `` `🔄 AI-Optimized` `` Scheduled cron automation pipelines, API integration testing, and container deployment manifests configured using LLM scaffolds. |
 
 <br/>
 
-### 🏅 Verified Credentials
+### 🏅 Verified Certifications & Technical Credentials
 
-| Credential | Issuer | Core Competencies | Status |
-| :--- | :--- | :--- | :---: |
-| **Cloud Security & Monitoring** | ![Microsoft](https://img.shields.io/badge/Microsoft-181717?style=flat-square&logo=microsoft&logoColor=38BDF8) | Azure baseline auditing, alerts monitoring, IAM. | `Verified` |
-| **Foundations of Cybersecurity** | ![Google](https://img.shields.io/badge/Google-181717?style=flat-square&logo=google&logoColor=38BDF8) | Threat intelligence, asset security, defensive workflows. | `Verified` |
-| **Cybersecurity Job Simulation** | ![Deloitte](https://img.shields.io/badge/Deloitte-181717?style=flat-square&logo=deloitte&logoColor=38BDF8) | Packet inspection, log investigation, threat triage. | `Completed`|
-| **SQL Querying & Governance** | ![Microsoft](https://img.shields.io/badge/Microsoft-181717?style=flat-square&logo=microsoft&logoColor=38BDF8) | Relational objects, RBAC, database security. | `Ongoing` |
+| Credential & Specialization | Issuing Organization | Core Competencies & Domains Covered | Status |
+| :--- | :---: | :--- | :---: |
+| **Cloud Security & Monitoring Tasks** | ![Microsoft](https://img.shields.io/badge/Microsoft_Applied_Skills-0078D4?style=flat-square&logo=microsoft&logoColor=white) | Azure security baseline auditing, alerts monitoring, identity access management, and cloud threat defense. | `` `Verified` 🟢 `` |
+| **Foundations of Cybersecurity** | ![Google](https://img.shields.io/badge/Google_Coursera-4285F4?style=flat-square&logo=google&logoColor=white) | Core security frameworks (NIST/CIA), threat intelligence, asset security, and defensive workflows. | `` `Verified` 🟢 `` |
+| **Cybersecurity Job Simulation** | ![Deloitte](https://img.shields.io/badge/Deloitte_Job_Simulation-86BC25?style=flat-square&logo=deloitte&logoColor=white) | Hands-on network packet inspection, security triage analysis, log investigation, and threat report generation. | `` `Completed` 🟢 `` |
+| **SQL Data Querying & Governance** | ![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-0078D4?style=flat-square&logo=microsoft&logoColor=white) | Relational database objects, data querying integrity, role-based access control (RBAC), and security governance. | `` `Ongoing` ⏳ `` |
 ---
 
 ### 📊 GitHub Activity & Analytics
