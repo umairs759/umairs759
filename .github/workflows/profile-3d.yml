@@ -2,11 +2,15 @@ name: GitHub-Profile-3D-Contrib
 
 on:
   schedule:
-    - cron: "0 18 * * *" # roz 18:00 UTC (Pakistan time mein raat 11:00 PM)
+    - cron: "0 18 * * *"
   workflow_dispatch:
 
 permissions:
   contents: write
+
+concurrency:
+  group: profile-3d
+  cancel-in-progress: true
 
 jobs:
   build:
@@ -24,5 +28,5 @@ jobs:
           git config user.email github-actions@github.com
           git add profile-3d-contrib
           git commit -m "Update 3D contribution city" || exit 0
-          git pull --rebase
-          git push
+          git pull --rebase origin main
+          git push origin main
