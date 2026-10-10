@@ -116,18 +116,46 @@ Cybersecurity undergraduate and systems builder working at the intersection of L
 </table>
 
 <br/>
+<!-- ================= 5 · CONNECT & COLLABORATION HUB ================= -->
+<div align="center">
 
-<!-- ================= 5 · CONNECT ================= -->
 <img src="https://raw.githubusercontent.com/umairs759/umairs759/main/connect.svg?v=2" alt="Connect - Portfolio, LinkedIn, Email" width="100%"/>
-
-<br/>
-
-<a href="https://umairs759.github.io/Muhammad-Umair-Portfolio/"><b>Portfolio</b></a> &nbsp;|&nbsp;
-<a href="https://linkedin.com/in/umairs759"><b>LinkedIn</b></a> &nbsp;|&nbsp;
-<a href="mailto:umairghaffar759@gmail.com"><b>Email</b></a>
 
 <br/><br/>
 
+### ⚡ Initiate Secure Handshake // Let's Connect & Collaborate
+
+> **Looking to collaborate on defensive security tooling, red/blue team research, autonomous AI workflows, or open-source initiatives?** Feel free to drop a signal across any channel below.
+
+<br/>
+
+<!-- Collaboration Telemetry Matrix -->
+| 🎯 Collaboration Domains | 📡 Telemetry & SLA | 🤝 Direct Signal Uplink |
+| :--- | :---: | :--- |
+| • Web Penetration Testing & Defense<br/>• Active Linux Endpoint Containment<br/>• Autonomous Agentic AI Pipelines | ![Status](https://img.shields.io/badge/Status-Open_for_Collabs-10B981?style=flat-square&labelColor=0B0F19)<br/><br/>![Response](https://img.shields.io/badge/Response_Time-%3C24_Hours-38BDF8?style=flat-square&labelColor=0B0F19) | • [📩 Direct Dispatch (Email)](mailto:umairghaffar759@gmail.com)<br/>• [💼 Professional Network (LinkedIn)](https://linkedin.com/in/umairs759)<br/>• [🌐 Production Hub (Portfolio)](https://umairs759.github.io/Muhammad-Umair-Portfolio/) |
+
+<br/>
+
+<!-- Sleek Tactical Action Badges -->
+<p align="center">
+  <a href="mailto:umairghaffar759@gmail.com">
+    <img src="https://img.shields.io/badge/Email-umairghaffar759%40gmail.com-0B0F19?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/umairs759" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0B0F19?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://umairs759.github.io/Muhammad-Umair-Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Live_Portfolio-Visit-0B0F19?style=for-the-badge&logo=googlechrome&logoColor=38BDF8" alt="Portfolio"/>
+  </a>
+</p>
+
+<br/>
+
 <img src="https://api.visitorbadge.io/api/visitors?path=umairs759&label=PROFILE%20VIEWS&labelColor=0d1117&countColor=00ff66&style=flat-square" alt="Profile views"/>
+
+<br/>
+<sub>🛡️ System Telemetry: Encrypted & Operational</sub>
 
 </div>
