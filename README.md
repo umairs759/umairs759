@@ -1,11 +1,11 @@
 <div align="center">
 
-  <!-- Sleek Cyber Terminal (Obsidian Glass Console) -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1400&color=38BDF8&background=0B0F19&center=true&vCenter=true&width=740&height=56&lines=%24+whoami+%E2%9E%9C+Muhammad+Umair+%5BCyber+Security+%26+Defense%5D;%24+recon+--target+%E2%9E%9C+Penetration+Testing+%7C+Network+Auditing;%24+pipeline+--run+%E2%9E%9C+Security+Tooling+%26+Autonomous+AI;%24+role+%E2%9E%9C+Microsoft+Learn+Student+Ambassador" alt="Cyber Console" />
-  </a>
+  <!-- 1. ANIMATED CYBER HERO CONSOLE -->
+  <img src="./assets/hero.svg?v=1" alt="Muhammad Umair - Cyber Command Console" width="100%" />
 
-  <!-- Primary Action Hub (Unified Obsidian Badges with Vivid Brand Accents) -->
+  <br/><br/>
+
+  <!-- Primary Action Hub -->
   <p>
     <a href="https://umairs759.github.io/Muhammad-Umair-Portfolio/" target="_blank">
       <img src="https://img.shields.io/badge/Live_Portfolio-0B0F19?style=for-the-badge&logo=googlechrome&logoColor=38BDF8" alt="Portfolio" />
@@ -18,7 +18,7 @@
     </a>
   </p>
 
-  <!-- Technical Context Matrix (Uniform Slate Grid) -->
+  <!-- Technical Context Matrix -->
   <p>
     <img src="https://img.shields.io/badge/Domain-Penetration_Testing_%26_Defense-0F172A?style=flat-square&logo=kalilinux&logoColor=38BDF8" alt="Domain" />
     <img src="https://img.shields.io/badge/Community-Microsoft_Student_Ambassador-0F172A?style=flat-square&logo=microsoft&logoColor=00A4EF" alt="MLSA" />
@@ -38,6 +38,13 @@
 
 ### 🛡️ Security Dossier // About Me
 
+<div align="center">
+  <!-- 2. ANIMATED OPERATOR DOSSIER & RADAR -->
+  <img src="./assets/about-life.svg?v=1" alt="Operator Dossier - Muhammad Umair" width="100%" />
+</div>
+
+<br/>
+
 <p align="left">
   <img src="https://img.shields.io/badge/Focus-Cyber_Defense_%26_OffSec-0F172A?style=flat-square&logo=linux&logoColor=38BDF8" alt="Focus" />
   <img src="https://img.shields.io/badge/Stack-FastAPI_%E2%80%A2_Docker_%E2%80%A2_Python-0F172A?style=flat-square&logo=docker&logoColor=2496ED" alt="Stack" />
@@ -47,36 +54,32 @@
 > **Cybersecurity Undergraduate & Systems Builder** operating at the intersection of Linux endpoint defense, offensive penetration testing, and autonomous AI microservices. Focused on engineering deterministic defensive tooling and real-time containment pipelines.
 
 #### 🎯 Operations & Credentials
-* 🎓 **Academics:** BS Cyber Security at **University of Central Punjab (UCP)**
-* 🌐 **Leadership:** **Microsoft Learn Student Ambassador**
-* 🔒 **OffSec & DefSec:** Web Penetration Testing, Active Linux Endpoint Containment, Network Auditing & Azure Security Compliance
-
-#### ⚙️ Shipped Production Systems
-* 🤖 **`LocalBiz AI`** — Autonomous business conversational agent & workflow orchestrator  
-  `FastAPI` • `Groq LLaMA` • `Docker` • `Gemini API`
-* 🛡️ **`auto-incident-responder`** — Real-time Linux endpoint telemetry monitoring & active quarantine engine  
-  `Python` • `FastAPI` • `WebSocket Telemetry` • `Automated Containment`
-* ⚡ **`RetailFlow-POS`** — Zero-dependency, offline-first local billing & inventory transaction architecture  
-  `Vanilla JavaScript` • `LocalStorage Engine` • `Zero-Latency Cache`
+- 🎓 **Academics:** BS Cyber Security at **University of Central Punjab (UCP)**
+- 🌐 **Leadership:** **Microsoft Learn Student Ambassador**
+- 🔒 **OffSec & DefSec:** Web Penetration Testing, Active Linux Endpoint Containment, Network Auditing & Azure Security Compliance
 
 #### 🏆 Honors & Verified Milestones
-* 🎖️ **Grade 2A Placement** — Alibaba Cloud AI Hackathon Pakistan
-* 🌐 **Top 20% Global Rank** — International Research Olympiad (IRO)
-* 🧪 **Practical Lab Research** — TryHackMe & PortSwigger Web Security Academy
+- 🎖️ **Grade 2A Placement** — Alibaba Cloud AI Hackathon Pakistan
+- 🌐 **Top 20% Global Rank** — International Research Olympiad (IRO)
+- 🧪 **Practical Lab Research** — TryHackMe & PortSwigger Web Security Academy
 
 #### ⚡ Active Radar & Focus
-* 📡 Hardening automated threat telemetry parsers and active memory inspection scripts
-* 🛠️ Low-latency terminal automation & LLM-assisted SOC triage playbooks
+- 📡 Hardening automated threat telemetry parsers and active memory inspection scripts
+- 🛠️ Low-latency terminal automation & LLM-assisted SOC triage playbooks
+
 ---
 
 ### ⚡ Tech Stack & Engineering
-  <div align="center">
-  
-  
+
+<div align="center">
+  <!-- 3. ANIMATED DEFENSE MATRIX & ORBITING ARSENAL -->
+  <img src="./assets/stack.svg?v=1" alt="Defense Matrix and Tech Arsenal" width="100%" />
+
+  <br/><br/>
+
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,bash,python,fastapi,docker,azure,githubactions,git,c,js,threejs,postman&perline=6&theme=dark" alt="Technical Stack" />
   </a>
-
 </div>
 
 ---
@@ -93,6 +96,24 @@
 
 <br/>
 
+### 🪪 Tactical ID & Shipped Production Systems
+
+<div align="center">
+  <!-- 4. ANIMATED TACTICAL BADGE & REPO TELEMETRY -->
+  <img src="./assets/id-dashboard.svg?v=1" alt="Tactical ID Badge and Telemetry" width="100%" />
+</div>
+
+<br/>
+
+- 🤖 **`LocalBiz AI`** — Autonomous business conversational agent & workflow orchestrator  
+  `FastAPI` • `Groq LLaMA` • `Docker` • `Gemini API`
+- 🛡️ **`auto-incident-responder`** — Real-time Linux endpoint telemetry monitoring & active quarantine engine  
+  `Python` • `FastAPI` • `WebSocket Telemetry` • `Automated Containment`
+- ⚡ **`RetailFlow-POS`** — Zero-dependency, offline-first local billing & inventory transaction architecture  
+  `Vanilla JavaScript` • `LocalStorage Engine` • `Zero-Latency Cache`
+
+<br/>
+
 ### 🏅 Verified Certifications & Technical Credentials
 
 | Credential & Specialization | Issuing Organization | Core Competencies & Domains Covered | Status |
@@ -101,27 +122,13 @@
 | **Foundations of Cybersecurity** | ![Google](https://img.shields.io/badge/Google_Coursera-4285F4?style=flat-square&logo=google&logoColor=white) | Core security frameworks (NIST/CIA), threat intelligence, asset security, and defensive workflows. | `` `Verified` 🟢 `` |
 | **Cybersecurity Job Simulation** | ![Deloitte](https://img.shields.io/badge/Deloitte_Job_Simulation-86BC25?style=flat-square&logo=deloitte&logoColor=white) | Hands-on network packet inspection, security triage analysis, log investigation, and threat report generation. | `` `Completed` 🟢 `` |
 | **SQL Data Querying & Governance** | ![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-0078D4?style=flat-square&logo=microsoft&logoColor=white) | Relational database objects, data querying integrity, role-based access control (RBAC), and security governance. | `` `Ongoing` ⏳ `` |
----
-<!-- ================= 🚀 CYBER COMMAND CENTER ================= -->
-<div align="center">
-
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Cyber.gif" width="460px" alt="Cyber Security Animation"/>
-
-  <br/><br/>
-
-  <!-- Unified Upgraded Cyber Telemetry Animation -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1200&color=00FF66&background=0D1117&center=true&vCenter=true&width=750&height=50&lines=%E2%9A%A1+Initializing+Secure+Handshake...;%F0%9F%9B%A1%EF%B8%8F+Cybersecurity+Specialist+%7C+Penetration+Testing+%26+Cloud+Defense;%F0%9F%94%8D+Scanning+Threat+Vectors+%7C+Automating+Security+Pipelines;%E2%9C%85+Port+443+%3A+Listening+for+High-Impact+Opportunities" alt="Cyber Intelligence Telemetry"/>
-  </a>
-
-</div>
 
 ---
 
 <!-- ================= 📊 GITHUB INTELLIGENCE DASHBOARD ================= -->
 <h2 align="center">📊 GitHub Intelligence Dashboard</h2>
 
-<!-- Row 1: Overall Stats & Streak Stats (Perfect Equal Height) -->
+<!-- Row 1: Overall Stats & Streak Stats -->
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td align="center" valign="middle">
@@ -133,7 +140,7 @@
   </tr>
 </table>
 
-<!-- Row 2: Language Intelligence & Commit Breakdown (Aligned Size) -->
+<!-- Row 2: Language Intelligence & Commit Breakdown -->
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td align="center" valign="middle">
@@ -145,18 +152,23 @@
   </tr>
 </table>
 
-
 <!-- ================= 🐍 NEON CYBER SNAKE ANIMATION ================= -->
 <div align="center">
   <h3>🐍 Active Defense Snake Stream</h3>
   <img src="https://raw.githubusercontent.com/umairs759/umairs759/output/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="Cyber Snake Animation" width="95%"/>
 </div>
 
-<br/>
-
+---
 
 <!-- ================= ⚡ CONNECT & COLLABORATE ================= -->
 <h2 align="center">⚡ Let's Connect & Collaborate</h2>
+
+<div align="center">
+  <!-- 5. ANIMATED DIRECT MATRIX UPLINK -->
+  <img src="./assets/connect.svg?v=1" alt="Direct Secure Uplink" width="100%" />
+</div>
+
+<br/>
 
 <table align="center" border="0" cellpadding="10">
   <tr>
@@ -190,6 +202,6 @@
 <br/>
 <div align="center">
   <img src="https://api.visitorbadge.io/api/visitors?path=umairs759&label=PROFILE%20VIEWS&labelColor=0d1117&countColor=00ff66&style=flat-square" alt="Profile Views"/>
+  <br/><br/>
+  <sub>🛡️ Handcrafted Obsidian Terminal Suite for <b>Muhammad Umair</b>. Pure CSS & SMIL animations. Zero external scripts.</sub>
 </div>
-
----
