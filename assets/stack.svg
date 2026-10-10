@@ -1,0 +1,160 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 360" width="100%" height="100%">
+  <defs>
+    <linearGradient id="shield-core" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00FF66"/>
+      <stop offset="50%" stop-color="#38BDF8"/>
+      <stop offset="100%" stop-color="#0078D4"/>
+    </linearGradient>
+
+    <linearGradient id="card-surface" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#111827"/>
+      <stop offset="100%" stop-color="#0B0F19"/>
+    </linearGradient>
+
+    <filter id="core-glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <style>
+    @keyframes orbit-cw {
+      from { transform: rotate(0deg); }
+      to { transform: rotate(360deg); }
+    }
+    @keyframes orbit-ccw {
+      from { transform: rotate(360deg); }
+      to { transform: rotate(0deg); }
+    }
+    @keyframes pulse-ring {
+      0%, 100% { stroke-opacity: 0.2; }
+      50% { stroke-opacity: 0.6; }
+    }
+    @keyframes packet-dash {
+      to { stroke-dashoffset: -40; }
+    }
+
+    .font-mono { font-family: 'JetBrains Mono', 'Fira Code', 'SF Mono', Consolas, monospace; }
+    .orbit-1 { transform-origin: 425px 120px; animation: orbit-cw 18s linear infinite; }
+    .orbit-2 { transform-origin: 425px 120px; animation: orbit-ccw 26s linear infinite; }
+    .ring-pulse { animation: pulse-ring 3s ease-in-out infinite; }
+    .circuit-path { stroke-dasharray: 6 4; animation: packet-dash 2s linear infinite; }
+  </style>
+
+  <!-- Frame Canvas -->
+  <rect x="5" y="5" width="840" height="350" rx="12" fill="#0B0F19" stroke="#1E293B" stroke-width="1.5"/>
+
+  <!-- Top Terminal Bar -->
+  <path d="M 5 5 L 845 5 L 845 38 L 5 38 Z" fill="#161B22" opacity="0.85"/>
+  <line x1="5" y1="38" x2="845" y2="38" stroke="#30363D" stroke-width="1"/>
+  <text x="30" y="24" fill="#38BDF8" font-size="12" font-weight="700" letter-spacing="1" class="font-mono">
+    // TECHNICAL_ARSENAL &amp; SECURITY_TAXONOMY
+  </text>
+  <text x="680" y="24" fill="#00FF66" font-size="11" class="font-mono">ACTIVE_SHIELD_V4.2</text>
+
+  <!-- Center Orbiting System (Center at X: 425, Y: 125) -->
+  <!-- Circuit Pathways to Core -->
+  <line class="circuit-path" x1="120" y1="125" x2="330" y2="125" stroke="#00FF66" stroke-width="1.2" stroke-opacity="0.4"/>
+  <line class="circuit-path" x1="730" y1="125" x2="520" y2="125" stroke="#38BDF8" stroke-width="1.2" stroke-opacity="0.4"/>
+
+  <!-- Orbit Rings -->
+  <circle class="ring-pulse" cx="425" cy="125" r="95" fill="none" stroke="#38BDF8" stroke-width="1.2" stroke-dasharray="5 5"/>
+  <circle class="ring-pulse" cx="425" cy="125" r="62" fill="none" stroke="#00FF66" stroke-width="1" stroke-dasharray="3 4"/>
+
+  <!-- Orbit Level 1 Satellites (Radius 62) -->
+  <g class="orbit-1">
+    <!-- Kali Node -->
+    <g transform="translate(425, 63)">
+      <circle cx="0" cy="0" r="14" fill="#0D1117" stroke="#38BDF8" stroke-width="1.5"/>
+      <text x="0" y="4" fill="#38BDF8" font-size="8.5" font-weight="700" text-anchor="middle" class="font-mono">KALI</text>
+    </g>
+    <!-- Python Node -->
+    <g transform="translate(487, 125)">
+      <circle cx="0" cy="0" r="14" fill="#0D1117" stroke="#00FF66" stroke-width="1.5"/>
+      <text x="0" y="4" fill="#00FF66" font-size="8.5" font-weight="700" text-anchor="middle" class="font-mono">PY</text>
+    </g>
+    <!-- Azure Node -->
+    <g transform="translate(425, 187)">
+      <circle cx="0" cy="0" r="14" fill="#0D1117" stroke="#0078D4" stroke-width="1.5"/>
+      <text x="0" y="4" fill="#38BDF8" font-size="8.5" font-weight="700" text-anchor="middle" class="font-mono">AZURE</text>
+    </g>
+    <!-- Docker Node -->
+    <g transform="translate(363, 125)">
+      <circle cx="0" cy="0" r="14" fill="#0D1117" stroke="#38BDF8" stroke-width="1.5"/>
+      <text x="0" y="4" fill="#38BDF8" font-size="8" font-weight="700" text-anchor="middle" class="font-mono">DOCK</text>
+    </g>
+  </g>
+
+  <!-- Orbit Level 2 Satellites (Radius 95) -->
+  <g class="orbit-2">
+    <!-- FastAPI -->
+    <g transform="translate(425, 30)">
+      <circle cx="0" cy="0" r="13" fill="#0D1117" stroke="#00FF66" stroke-width="1.2"/>
+      <text x="0" y="3.5" fill="#00FF66" font-size="7.5" font-weight="700" text-anchor="middle" class="font-mono">FAST</text>
+    </g>
+    <!-- Linux -->
+    <g transform="translate(520, 125)">
+      <circle cx="0" cy="0" r="13" fill="#0D1117" stroke="#F59E0B" stroke-width="1.2"/>
+      <text x="0" y="3.5" fill="#F59E0B" font-size="7.5" font-weight="700" text-anchor="middle" class="font-mono">LINUX</text>
+    </g>
+    <!-- Groq -->
+    <g transform="translate(425, 220)">
+      <circle cx="0" cy="0" r="13" fill="#0D1117" stroke="#A855F7" stroke-width="1.2"/>
+      <text x="0" y="3.5" fill="#A855F7" font-size="7.5" font-weight="700" text-anchor="middle" class="font-mono">GROQ</text>
+    </g>
+    <!-- Bash -->
+    <g transform="translate(330, 125)">
+      <circle cx="0" cy="0" r="13" fill="#0D1117" stroke="#00FF66" stroke-width="1.2"/>
+      <text x="0" y="3.5" fill="#00FF66" font-size="7.5" font-weight="700" text-anchor="middle" class="font-mono">BASH</text>
+    </g>
+  </g>
+
+  <!-- Core Cyber Shield (Center) -->
+  <g transform="translate(425, 125)" filter="url(#core-glow)">
+    <polygon points="0,-22 19,-11 19,11 0,22 -19,11 -19,-11" fill="#0B0F19" stroke="url(#shield-core)" stroke-width="2.5"/>
+    <!-- Shield Emblem Icon -->
+    <path d="M 0 -10 L 9 -5 L 9 2 C 9 7, 0 11, 0 11 C 0 11, -9 7, -9 2 L -9 -5 Z" fill="url(#shield-core)"/>
+  </g>
+
+  <!-- HUD Categorized Chip Matrix Below -->
+  <g transform="translate(30, 235)">
+    <!-- Column 1: Defensive & OffSec -->
+    <g transform="translate(0, 0)">
+      <rect width="185" height="100" rx="8" fill="url(#card-surface)" stroke="#1E293B" stroke-width="1"/>
+      <text x="14" y="22" fill="#00FF66" font-size="11" font-weight="700" class="font-mono">[SEC &amp; AUDIT]</text>
+      <text x="14" y="44" fill="#CBD5E1" font-size="10.5" class="font-mono">• Kali Linux &amp; Tails OS</text>
+      <text x="14" y="62" fill="#CBD5E1" font-size="10.5" class="font-mono">• Bash Automation</text>
+      <text x="14" y="80" fill="#CBD5E1" font-size="10.5" class="font-mono">• Network Forensics</text>
+    </g>
+
+    <!-- Column 2: Cloud & Virtualization -->
+    <g transform="translate(202, 0)">
+      <rect width="185" height="100" rx="8" fill="url(#card-surface)" stroke="#1E293B" stroke-width="1"/>
+      <text x="14" y="22" fill="#0078D4" font-size="11" font-weight="700" class="font-mono">[CLOUD &amp; INFRA]</text>
+      <text x="14" y="44" fill="#CBD5E1" font-size="10.5" class="font-mono">• Microsoft Azure</text>
+      <text x="14" y="62" fill="#CBD5E1" font-size="10.5" class="font-mono">• Docker Containers</text>
+      <text x="14" y="80" fill="#CBD5E1" font-size="10.5" class="font-mono">• GitHub CI/CD</text>
+    </g>
+
+    <!-- Column 3: Backend & Protocols -->
+    <g transform="translate(404, 0)">
+      <rect width="185" height="100" rx="8" fill="url(#card-surface)" stroke="#1E293B" stroke-width="1"/>
+      <text x="14" y="22" fill="#38BDF8" font-size="11" font-weight="700" class="font-mono">[BACKEND CORE]</text>
+      <text x="14" y="44" fill="#CBD5E1" font-size="10.5" class="font-mono">• Python 3.12</text>
+      <text x="14" y="62" fill="#CBD5E1" font-size="10.5" class="font-mono">• FastAPI &amp; REST</text>
+      <text x="14" y="80" fill="#CBD5E1" font-size="10.5" class="font-mono">• WebSockets &amp; SQL</text>
+    </g>
+
+    <!-- Column 4: Applied AI & Visuals -->
+    <g transform="translate(606, 0)">
+      <rect width="185" height="100" rx="8" fill="url(#card-surface)" stroke="#1E293B" stroke-width="1"/>
+      <text x="14" y="22" fill="#A855F7" font-size="11" font-weight="700" class="font-mono">[AI &amp; GRAPHICS]</text>
+      <text x="14" y="44" fill="#CBD5E1" font-size="10.5" class="font-mono">• Groq LPU &amp; Ollama</text>
+      <text x="14" y="62" fill="#CBD5E1" font-size="10.5" class="font-mono">• Gemini Flash API</text>
+      <text x="14" y="80" fill="#CBD5E1" font-size="10.5" class="font-mono">• Three.js 3D Web</text>
+    </g>
+  </g>
+</svg>
