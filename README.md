@@ -92,7 +92,7 @@ Cybersecurity undergraduate and systems builder working at the intersection of L
 <!-- Generated daily by .github/workflows/profile-3d.yml -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-view.svg">
-  <img src="profile-3d-contrib/profile-night-view.svg" alt="3D contribution city" width="100%"/>
+  <img src="profile-3d-contrib/profile-green.svg" alt="3D contribution city" width="100%"/>
 </picture>
 
 <br/>
