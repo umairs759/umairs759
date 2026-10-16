@@ -21,9 +21,9 @@
 <a href="mailto:umairghaffar759@gmail.com"><img src="https://img.shields.io/badge/Email-0B0F19?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/></a>
 
 <p>
-  <img src="https://img.shields.io/badge/Domain-Penetration_Testing_%26_Cloud_Defense-0F172A?style=flat-square&logo=kalilinux&logoColor=38BDF8" alt="Domain"/>
+  <img src="https://img.shields.io/badge/Status-Active_Learning_Phase-0F172A?style=flat-square&logo=kalilinux&logoColor=38BDF8" alt="Learning Phase"/>
+  <img src="https://img.shields.io/badge/Workflow-AI--Assisted_Builder-0F172A?style=flat-square&logo=googlegemini&logoColor=10B981" alt="AI Assisted"/>
   <img src="https://img.shields.io/badge/Community-MLSA_(Community_Influencer)-0F172A?style=flat-square&logo=microsoft&logoColor=00A4EF" alt="MLSA"/>
-  <img src="https://img.shields.io/badge/Role-WAPT_Intern_%40_IqraSec-0F172A?style=flat-square&logo=owasp&logoColor=10B981" alt="Internship"/>
   <img src="https://img.shields.io/badge/Degree-BS_Cyber_Security_%7C_UCP-0F172A?style=flat-square&logo=gnubash&logoColor=F8FAFC" alt="Degree"/>
   <img src="https://img.shields.io/badge/Location-Lahore%2C_PK-0F172A?style=flat-square&logo=googlemaps&logoColor=F43F5E" alt="Location"/>
 </p>
@@ -34,40 +34,43 @@
 
 ### 🛡️ About Me
 
-Cybersecurity undergraduate, Web Application Penetration Tester, and systems builder working at the intersection of **Linux endpoint defense**, **offensive security auditing**, and **autonomous AI microservices**. I engineer deterministic defensive tooling, cloud compliance auditors, and real-time containment pipelines—using LLMs as high-speed accelerators for SOC triage and DevSecOps automation rather than substitutes for low-level systems understanding.
+I am a **BS Cyber Security undergraduate** currently in my active **learning and exploration phase**. Alongside studying core security fundamentals, Linux operations, and SQL databases, I use **AI-assisted development (prompt-driven coding & AI co-creation)** to build functional security and automation prototypes. 
 
-- 🎓 **Education:** BS Cyber Security, University of Central Punjab (UCP), Lahore
-- 🕵️‍♂️ **Experience:** Web Application Penetration Testing (WAPT) Intern @ **IqraSec Academy** *(Cohort 02)*
+Instead of waiting years to see how full-stack systems work, I leverage AI models to help generate, connect, and deploy working applications—using every project as a hands-on sandbox to read code, understand system architectures, and learn by building.
+
+- 🎓 **Education:** BS Cyber Security, University of Central Punjab (UCP), Lahore *(Undergraduate Learner)*
 - 🌐 **Community:** **Microsoft Learn Student Ambassador (MLSA)** — *Community Influencer Track*
-- 🔒 **Core Focus:** Web penetration testing (OWASP Top 10), Linux endpoint containment, DevSecOps cloud auditing, and Azure/SQL security governance
-- 📡 **Currently:** Scaling **CyberGPT** (NVIDIA NIM-powered SOC triage copilot) & **SecOps-AI**; preparing for the **Microsoft DP-800** certification
-- 🤝 **Open to:** Security engineering roles, red/blue team research collaborations, and open-source defensive tooling
+- 🤖 **Building Philosophy:** **AI-Assisted Prototyping** — I design ideas, workflows, and security concepts, and collaborate with AI coding assistants to implement and understand the underlying code
+- 🔒 **Core Learning Focus:** Kali Linux fundamentals, web security labs (TryHackMe & PortSwigger), Python/Bash scripting basics, and SQL data governance
+- 📡 **Currently:** Practicing foundational cybersecurity labs, exploring AI-powered security workflows, and preparing for the **Microsoft DP-800 SQL Certification (Scheduled: Dec 30, 2026)**
+- 🤝 **Open to:** Student communities, beginner-friendly security collaborations, learning mentorships, and AI-driven open-source projects
 
 ---
 
-### ⚙️ Featured Projects
+### ⚙️ Featured Projects *(AI-Assisted Prototypes)*
 
-| Project | Description | Tech Stack | Status |
+> 💡 **Transparency Note:** As an undergraduate currently in my learning phase, the projects below were architected and built through **AI-assisted development**. I use AI tools to co-write the code, wire up APIs, and deploy containers so I can practically learn how modern cybersecurity tools and full-stack apps operate.
+
+| Project | Description | Tech Stack Explored | Build Type |
 | :--- | :--- | :--- | :---: |
-| 🧠 [**`CyberGPT`**](https://github.com/umairs759/CyberGPT) | Defensive cybersecurity AI copilot for real-time SOC alert triage, incident playbooks, and interactive threat simulation drills | `NVIDIA NIM` • `Python` • `Vercel` • `LLM Orchestration` | `Production` 🟢 |
-| ☁️ [**`SecOps-AI`**](https://github.com/umairs759/SecOps-AI) | Automated DevSecOps & cloud configuration auditing framework built for the Gen AI Academy APAC Edition | `Google Cloud Run` • `Gemini API` • `Firebase` • `Firestore` | `Cloud Native` 🟢 |
-| 🛡️ [**`auto-incident-responder`**](https://github.com/umairs759/auto-incident-responder) | Real-time Linux endpoint telemetry monitoring and active-defense automated process/network containment engine | `Python` • `FastAPI` • `WebSockets` • `Docker` • `Linux Signals` | `Active Defense` 🟢 |
-| 🤖 [**`LocalBiz AI`**](https://github.com/umairs759/LocalBiz-AI) | Autonomous multi-model conversational WhatsApp agent and workflow orchestrator with automated failover | `FastAPI` • `Groq LLaMA 3.3` • `Gemini 2.0 Flash` • `Docker` | `Active` 🟢 |
-| ⚡ [**`RetailFlow-POS`**](https://github.com/umairs759/RetailFlow-POS) | Zero-dependency, offline-first point-of-sale and inventory control engine with deterministic local transaction caching | `Vanilla JS` • `HTML5/CSS3` • `LocalStorage Engine` | `Offline-1st` 🟢 |
+| 🧠 [**`CyberGPT`**](https://github.com/umairs759/CyberGPT) | Defensive cybersecurity AI copilot prototype for SOC alert triage and interactive threat simulation drills | `NVIDIA NIM` • `Python` • `Vercel` • `Prompt Engineering` | `AI-Assisted` 🤖 |
+| ☁️ [**`SecOps-AI`**](https://github.com/umairs759/SecOps-AI) | Cloud configuration & DevSecOps auditing prototype built for the Gen AI Academy APAC Edition | `Google Cloud Run` • `Gemini API` • `Firebase` • `Firestore` | `AI-Assisted` 🤖 |
+| 🛡️ [**`auto-incident-responder`**](https://github.com/umairs759/auto-incident-responder) | Linux endpoint telemetry monitor and automated containment concept built to understand active defense | `Python` • `FastAPI` • `WebSockets` • `Docker` | `AI-Assisted` 🤖 |
+| 🤖 [**`LocalBiz AI`**](https://github.com/umairs759/LocalBiz-AI) | Conversational WhatsApp business assistant prototype using multi-model AI routing | `FastAPI` • `Groq LLaMA 3.3` • `Gemini 2.0 Flash` • `Docker` | `AI-Assisted` 🤖 |
+| ⚡ [**`RetailFlow-POS`**](https://github.com/umairs759/RetailFlow-POS) | Offline-first point-of-sale and inventory web app built to explore local browser storage workflows | `Vanilla JS` • `HTML5/CSS3` • `LocalStorage` | `AI-Assisted` 🤖 |
 
-<sub>Explore all repositories & 3D WebGL experiments: <a href="https://github.com/umairs759?tab=repositories">github.com/umairs759?tab=repositories</a></sub>
+<sub>Explore all learning repositories & experiments: <a href="https://github.com/umairs759?tab=repositories">github.com/umairs759?tab=repositories</a></sub>
 
 ---
 
-### 🏗️ Engineering Scope
+### 🧭 Learning Scope & AI-Co-Created Workflows
 
-| Domain | Production Scope & Execution |
-| :--- | :--- |
-| **Offensive & Defensive Security** | Web App Penetration Testing (SQLi, Auth Bypass, XSS), Linux kernel hardening, active endpoint containment scripts, packet auditing |
-| **Applied AI & SOC Copilots** | Multi-model failover pipelines (`NVIDIA NIM`, `Groq LPU`, `Gemini`), automated SOC triage playbooks, deterministic JSON tool-calling routers |
-| **Cloud & DevSecOps** | Serverless container deployments (`Google Cloud Run`, `Azure`), IAM & cloud config auditing, `Docker` microservices, `Firestore` telemetry |
-| **Backend & Data Governance** | High-throughput asynchronous `FastAPI` REST/WebSocket services, webhook ingestion, `MS SQL Server` schema design & RBAC auditing |
-| **Frontend & 3D WebGL** | Interactive 3D spatial layouts (`Three.js` / WebGL), offline-first UI architectures, zero-latency client state machines |
+| Domain | What I Am Learning (Hands-On) | How I Use AI to Build & Explore |
+| :--- | :--- | :--- |
+| **Cybersecurity Foundations** | Kali Linux CLI, network basics, OWASP vulnerabilities (SQLi, Auth Bypass) via TryHackMe & PortSwigger labs | Using AI to generate defensive telemetry scripts, explain packet logs, and simulate SOC triage playbooks |
+| **AI & Prompt Engineering** | Understanding LLM APIs, system prompts, model routing, and API key/webhook integration | Building functional AI agents (`CyberGPT`, `LocalBiz AI`) using `Gemini`, `Groq`, and `NVIDIA NIM` |
+| **Databases & Cloud Basics** | Studying relational schemas, T-SQL querying, RBAC governance (`DP-800`), and Azure for Students basics | Using AI guidance to deploy containerized apps on `Google Cloud Run`, `Vercel`, and `Firebase` |
+| **Web & Scripting Prototypes** | Reading and modifying `Python`, `Bash`, `HTML/CSS`, and `JavaScript` code structures | Prompting AI to scaffold `FastAPI` backends, `Three.js` 3D scenes, and custom SVG dashboards |
 
 ---
 
@@ -78,17 +81,17 @@ Cybersecurity undergraduate, Web Application Penetration Tester, and systems bui
 | **Cloud Security & Monitoring Tasks** | Microsoft Applied Skills | Azure security baselines, alert monitoring, IAM governance | `Verified` 🟢 |
 | **Foundations of Cybersecurity** | Google (Coursera) | Security frameworks (NIST, CIA triad), SIEM, threat intel, asset defense | `Verified` 🟢 |
 | **Cybersecurity Job Simulation** | Deloitte (Forage) | Corporate network defense, packet inspection, log investigation & triage | `Completed` 🟢 |
-| **DP-800: SQL Data & Governance** | Microsoft Certified | Relational database administration, T-SQL querying, RBAC & data security | `Oct 2026 Exam` 🎯 |
+| **DP-800: SQL Data & Governance** | Microsoft Certified | Relational database administration, T-SQL querying, RBAC & data security | `Exam: Dec 30, 2026` 🎯 |
 
 ---
 
 ### 🏆 Honors, Programs & Milestones
 
-- ☁️ **Gen AI Academy APAC Edition:** Engineered & submitted **SecOps-AI** (Automated Cloud & DevSecOps Security Auditor)
+- ☁️ **Gen AI Academy APAC Edition:** Built & submitted **SecOps-AI** (AI-assisted cloud security auditing prototype)
 - 🎖️ **Grade 2A Placement:** Alibaba Cloud AI Hackathon Pakistan
 - 🌐 **Top 20% Global Rank:** International Research Olympiad (IRO)
-- 🛡️ **85/100 Aptitude Score:** Bano Qabil 2.0 Advanced Cyber Security Track
-- 🧪 **Continuous Offensive Labs:** Active practitioner on **TryHackMe** & **PortSwigger Web Security Academy**
+- 🛡️ **85/100 Aptitude Score:** Bano Qabil 2.0 Cyber Security Entry Test
+- 🧪 **Hands-on Lab Practice:** Active student practitioner on **TryHackMe** & **PortSwigger Web Security Academy**
 
 ---
 
@@ -130,14 +133,14 @@ Cybersecurity undergraduate, Web Application Penetration Tester, and systems bui
 
 ### ⚡ Initiate Secure Handshake // Let's Connect & Collaborate
 
-> **Looking to collaborate on defensive security tooling, red/blue team research, autonomous AI workflows, or open-source initiatives?** Feel free to drop a signal across any channel below.
+> **Want to connect on cybersecurity learning, AI-assisted project building, student tech communities, or open-source experiments?** Feel free to drop a signal across any channel below.
 
 <br/>
 
 <!-- Collaboration Telemetry Matrix -->
-| 🎯 Collaboration Domains | 📡 Telemetry & SLA | 🤝 Direct Signal Uplink |
+| 🎯 Focus & Learning Areas | 📡 Telemetry & SLA | 🤝 Direct Signal Uplink |
 | :--- | :---: | :--- |
-| • Web Penetration Testing & Defense<br/>• Active Linux Endpoint Containment<br/>• Autonomous Agentic AI & SOC Copilots | ![Status](https://img.shields.io/badge/Status-Open_for_Collabs-10B981?style=flat-square&labelColor=0B0F19)<br/><br/>![Response](https://img.shields.io/badge/Response_Time-%3C24_Hours-38BDF8?style=flat-square&labelColor=0B0F19) | • [📩 Direct Dispatch (Email)](mailto:umairghaffar759@gmail.com)<br/>• [💼 Professional Network (LinkedIn)](https://linkedin.com/in/umairs759)<br/>• [🌐 Production Hub (Portfolio)](https://umairs759.github.io/Muhammad-Umair-Portfolio/) |
+| • Cybersecurity & Web Security Labs<br/>• AI-Assisted Rapid Prototyping<br/>• Cloud, SQL & Student Tech Communities | ![Status](https://img.shields.io/badge/Status-Open_to_Learn_%26_Collab-10B981?style=flat-square&labelColor=0B0F19)<br/><br/>![Response](https://img.shields.io/badge/Response_Time-%3C24_Hours-38BDF8?style=flat-square&labelColor=0B0F19) | • [📩 Direct Dispatch (Email)](mailto:umairghaffar759@gmail.com)<br/>• [💼 Professional Network (LinkedIn)](https://linkedin.com/in/umairs759)<br/>• [🌐 Production Hub (Portfolio)](https://umairs759.github.io/Muhammad-Umair-Portfolio/) |
 
 <br/>
 
