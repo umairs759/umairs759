@@ -22,7 +22,8 @@
 
 <p>
   <img src="https://img.shields.io/badge/Domain-Penetration_Testing_%26_Cloud_Defense-0F172A?style=flat-square&logo=kalilinux&logoColor=38BDF8" alt="Domain"/>
-  <img src="https://img.shields.io/badge/Community-Microsoft_Learn_Student_Ambassador-0F172A?style=flat-square&logo=microsoft&logoColor=00A4EF" alt="MLSA"/>
+  <img src="https://img.shields.io/badge/Community-MLSA_(Community_Influencer)-0F172A?style=flat-square&logo=microsoft&logoColor=00A4EF" alt="MLSA"/>
+  <img src="https://img.shields.io/badge/Role-WAPT_Intern_%40_IqraSec-0F172A?style=flat-square&logo=owasp&logoColor=10B981" alt="Internship"/>
   <img src="https://img.shields.io/badge/Degree-BS_Cyber_Security_%7C_UCP-0F172A?style=flat-square&logo=gnubash&logoColor=F8FAFC" alt="Degree"/>
   <img src="https://img.shields.io/badge/Location-Lahore%2C_PK-0F172A?style=flat-square&logo=googlemaps&logoColor=F43F5E" alt="Location"/>
 </p>
@@ -33,13 +34,14 @@
 
 ### 🛡️ About Me
 
-Cybersecurity undergraduate and systems builder working at the intersection of Linux endpoint defense, offensive penetration testing, and autonomous AI microservices. I build deterministic defensive tooling and real-time containment pipelines, and I use LLMs as accelerators for triage and automation, not as a substitute for understanding the underlying systems.
+Cybersecurity undergraduate, Web Application Penetration Tester, and systems builder working at the intersection of **Linux endpoint defense**, **offensive security auditing**, and **autonomous AI microservices**. I engineer deterministic defensive tooling, cloud compliance auditors, and real-time containment pipelines—using LLMs as high-speed accelerators for SOC triage and DevSecOps automation rather than substitutes for low-level systems understanding.
 
 - 🎓 **Education:** BS Cyber Security, University of Central Punjab (UCP), Lahore
-- 🌐 **Community:** Microsoft Learn Student Ambassador (MLSA)
-- 🔒 **Core Focus:** Web penetration testing, Linux endpoint containment, network auditing, Azure security compliance
-- 📡 **Currently:** Hardening threat-telemetry parsers and memory-inspection scripts; building LLM-assisted SOC triage playbooks
-- 🤝 **Open to:** Internships, security research collaboration, and open-source tooling
+- 🕵️‍♂️ **Experience:** Web Application Penetration Testing (WAPT) Intern @ **IqraSec Academy** *(Cohort 02)*
+- 🌐 **Community:** **Microsoft Learn Student Ambassador (MLSA)** — *Community Influencer Track*
+- 🔒 **Core Focus:** Web penetration testing (OWASP Top 10), Linux endpoint containment, DevSecOps cloud auditing, and Azure/SQL security governance
+- 📡 **Currently:** Scaling **CyberGPT** (NVIDIA NIM-powered SOC triage copilot) & **SecOps-AI**; preparing for the **Microsoft DP-800** certification
+- 🤝 **Open to:** Security engineering roles, red/blue team research collaborations, and open-source defensive tooling
 
 ---
 
@@ -47,11 +49,13 @@ Cybersecurity undergraduate and systems builder working at the intersection of L
 
 | Project | Description | Tech Stack | Status |
 | :--- | :--- | :--- | :---: |
-| 🤖 **`LocalBiz AI`** | Autonomous conversational agent and workflow orchestrator for local businesses | `FastAPI` • `Groq LLaMA` • `Docker` • `Gemini API` | `Active` 🟢 |
-| 🛡️ **`auto-incident-responder`** | Real-time Linux endpoint telemetry monitoring with an automated containment engine | `Python` • `FastAPI` • `WebSockets` • `Kernel Signals` | `Active Defense` 🟢 |
-| ⚡ **`RetailFlow-POS`** | Zero-dependency, offline-first billing and inventory system with local transaction cache | `Vanilla JS` • `LocalStorage Engine` • `Zero-Latency` | `Offline 1st` 🟢 |
+| 🧠 [**`CyberGPT`**](https://github.com/umairs759/CyberGPT) | Defensive cybersecurity AI copilot for real-time SOC alert triage, incident playbooks, and interactive threat simulation drills | `NVIDIA NIM` • `Python` • `Vercel` • `LLM Orchestration` | `Production` 🟢 |
+| ☁️ [**`SecOps-AI`**](https://github.com/umairs759/SecOps-AI) | Automated DevSecOps & cloud configuration auditing framework built for the Gen AI Academy APAC Edition | `Google Cloud Run` • `Gemini API` • `Firebase` • `Firestore` | `Cloud Native` 🟢 |
+| 🛡️ [**`auto-incident-responder`**](https://github.com/umairs759/auto-incident-responder) | Real-time Linux endpoint telemetry monitoring and active-defense automated process/network containment engine | `Python` • `FastAPI` • `WebSockets` • `Docker` • `Linux Signals` | `Active Defense` 🟢 |
+| 🤖 [**`LocalBiz AI`**](https://github.com/umairs759/LocalBiz-AI) | Autonomous multi-model conversational WhatsApp agent and workflow orchestrator with automated failover | `FastAPI` • `Groq LLaMA 3.3` • `Gemini 2.0 Flash` • `Docker` | `Active` 🟢 |
+| ⚡ [**`RetailFlow-POS`**](https://github.com/umairs759/RetailFlow-POS) | Zero-dependency, offline-first point-of-sale and inventory control engine with deterministic local transaction caching | `Vanilla JS` • `HTML5/CSS3` • `LocalStorage Engine` | `Offline-1st` 🟢 |
 
-<sub>Explore all repositories: <a href="https://github.com/umairs759?tab=repositories">github.com/umairs759?tab=repositories</a></sub>
+<sub>Explore all repositories & 3D WebGL experiments: <a href="https://github.com/umairs759?tab=repositories">github.com/umairs759?tab=repositories</a></sub>
 
 ---
 
@@ -59,11 +63,11 @@ Cybersecurity undergraduate and systems builder working at the intersection of L
 
 | Domain | Production Scope & Execution |
 | :--- | :--- |
-| **Cybersecurity & Systems** | Linux kernel hardening, active-defense containment scripts, packet auditing, cloud compliance |
-| **Applied AI & LLM Systems** | Fast LPU inference pipelines, local model execution, agent tool-calling routers, structured JSON output |
-| **Backend & Microservices** | High-throughput asynchronous REST services, webhook ingestion, containerized deployments |
-| **Frontend & 3D Web** | Interactive WebGL scenes, offline-first UI architectures, deterministic state handling |
-| **DevOps & Automations** | CI/CD pipelines, scheduled cron telemetry automations, API integration testing |
+| **Offensive & Defensive Security** | Web App Penetration Testing (SQLi, Auth Bypass, XSS), Linux kernel hardening, active endpoint containment scripts, packet auditing |
+| **Applied AI & SOC Copilots** | Multi-model failover pipelines (`NVIDIA NIM`, `Groq LPU`, `Gemini`), automated SOC triage playbooks, deterministic JSON tool-calling routers |
+| **Cloud & DevSecOps** | Serverless container deployments (`Google Cloud Run`, `Azure`), IAM & cloud config auditing, `Docker` microservices, `Firestore` telemetry |
+| **Backend & Data Governance** | High-throughput asynchronous `FastAPI` REST/WebSocket services, webhook ingestion, `MS SQL Server` schema design & RBAC auditing |
+| **Frontend & 3D WebGL** | Interactive 3D spatial layouts (`Three.js` / WebGL), offline-first UI architectures, zero-latency client state machines |
 
 ---
 
@@ -71,18 +75,20 @@ Cybersecurity undergraduate and systems builder working at the intersection of L
 
 | Credential | Issuing Body | Domain Focus | Status |
 | :--- | :---: | :--- | :---: |
-| **Cloud Security & Monitoring Tasks** | Microsoft Applied Skills | Azure security baselines, alert monitoring, IAM | `Verified` 🟢 |
-| **Foundations of Cybersecurity** | Google (Coursera) | Frameworks (NIST, CIA triad), threat intel, asset defense | `Verified` 🟢 |
-| **Cybersecurity Job Simulation** | Deloitte (Forage) | Network packet inspection, triage, log investigation | `Completed` 🟢 |
-| **SQL Data Querying & Governance** | Microsoft Learn | Relational querying, RBAC governance, access auditing | `In progress` ⏳ |
+| **Cloud Security & Monitoring Tasks** | Microsoft Applied Skills | Azure security baselines, alert monitoring, IAM governance | `Verified` 🟢 |
+| **Foundations of Cybersecurity** | Google (Coursera) | Security frameworks (NIST, CIA triad), SIEM, threat intel, asset defense | `Verified` 🟢 |
+| **Cybersecurity Job Simulation** | Deloitte (Forage) | Corporate network defense, packet inspection, log investigation & triage | `Completed` 🟢 |
+| **DP-800: SQL Data & Governance** | Microsoft Certified | Relational database administration, T-SQL querying, RBAC & data security | `Oct 2026 Exam` 🎯 |
 
 ---
 
-### 🏆 Honors & Milestones
+### 🏆 Honors, Programs & Milestones
 
+- ☁️ **Gen AI Academy APAC Edition:** Engineered & submitted **SecOps-AI** (Automated Cloud & DevSecOps Security Auditor)
 - 🎖️ **Grade 2A Placement:** Alibaba Cloud AI Hackathon Pakistan
 - 🌐 **Top 20% Global Rank:** International Research Olympiad (IRO)
-- 🧪 **Hands-on Lab Practice:** TryHackMe & PortSwigger Web Security Academy
+- 🛡️ **85/100 Aptitude Score:** Bano Qabil 2.0 Advanced Cyber Security Track
+- 🧪 **Continuous Offensive Labs:** Active practitioner on **TryHackMe** & **PortSwigger Web Security Academy**
 
 ---
 
@@ -116,9 +122,8 @@ Cybersecurity undergraduate and systems builder working at the intersection of L
 </table>
 
 <br/>
-<!-- ================= 5 · CONNECT & COLLABORATION HUB ================= -->
-<div align="center">
 
+<!-- ================= 5 · CONNECT & COLLABORATION HUB ================= -->
 <img src="https://raw.githubusercontent.com/umairs759/umairs759/main/connect.svg?v=2" alt="Connect - Portfolio, LinkedIn, Email" width="100%"/>
 
 <br/><br/>
@@ -132,7 +137,7 @@ Cybersecurity undergraduate and systems builder working at the intersection of L
 <!-- Collaboration Telemetry Matrix -->
 | 🎯 Collaboration Domains | 📡 Telemetry & SLA | 🤝 Direct Signal Uplink |
 | :--- | :---: | :--- |
-| • Web Penetration Testing & Defense<br/>• Active Linux Endpoint Containment<br/>• Autonomous Agentic AI Pipelines | ![Status](https://img.shields.io/badge/Status-Open_for_Collabs-10B981?style=flat-square&labelColor=0B0F19)<br/><br/>![Response](https://img.shields.io/badge/Response_Time-%3C24_Hours-38BDF8?style=flat-square&labelColor=0B0F19) | • [📩 Direct Dispatch (Email)](mailto:umairghaffar759@gmail.com)<br/>• [💼 Professional Network (LinkedIn)](https://linkedin.com/in/umairs759)<br/>• [🌐 Production Hub (Portfolio)](https://umairs759.github.io/Muhammad-Umair-Portfolio/) |
+| • Web Penetration Testing & Defense<br/>• Active Linux Endpoint Containment<br/>• Autonomous Agentic AI & SOC Copilots | ![Status](https://img.shields.io/badge/Status-Open_for_Collabs-10B981?style=flat-square&labelColor=0B0F19)<br/><br/>![Response](https://img.shields.io/badge/Response_Time-%3C24_Hours-38BDF8?style=flat-square&labelColor=0B0F19) | • [📩 Direct Dispatch (Email)](mailto:umairghaffar759@gmail.com)<br/>• [💼 Professional Network (LinkedIn)](https://linkedin.com/in/umairs759)<br/>• [🌐 Production Hub (Portfolio)](https://umairs759.github.io/Muhammad-Umair-Portfolio/) |
 
 <br/>
 
